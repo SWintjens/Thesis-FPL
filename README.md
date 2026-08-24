@@ -65,51 +65,7 @@ For each gameweek there are files such as `fixtures`, `matches`, `players`,
 `playerstats`, `playermatchstats`, `shots`, `xg_by_minute`, and `momentum`. Bookmaker odds are sourced
 from Bet365 and integrated separately (see the odds notebooks).
 
-## Getting Started
 
-```bash
-# Clone the repository
-git clone https://github.com/SWintjens/Thesis-FPL.git
-cd Thesis-FPL
-
-# (Recommended) create a virtual environment
-python -m venv venv
-venv\Scripts\activate        # Windows
-# source venv/bin/activate   # macOS / Linux
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-> **To fill in:** add a `requirements.txt` listing the packages you use
-> (e.g. pandas, numpy, scikit-learn, jupyter) so others can reproduce your work.
-
-Run the analyses through the Jupyter notebooks in the root directory:
-
-```bash
-jupyter notebook
-```
-
-## Results
-
-> **To fill in:** your main findings — e.g. whether the model beats the market, where mispricing is
-> concentrated, and the out-of-sample performance of the betting strategy. Optionally add a table or figure.
-
-## Author
-
-**S. Wintjens** — MSc [programme to fill in], Maastricht University.
-
-## License
-
-> **To fill in:** choose a license (e.g. MIT) or state that the work is for academic purposes only.
-
----
-
-### ⚠️ Important: check the `old/` folder for sensitive files
-
-During pushing, the `old/` folder was found to contain a `credentials.json` file with a
-Google Cloud service account key. Please verify whether this file is still in the repository.
-This repository is **public**, so:
 
 - Remove `old/credentials.json` from both the repository and the Git history if it is still present.
 - **Revoke / rotate the key** in the Google Cloud Console, even if you have already deleted it — a key that has ever been public can no longer be trusted.
