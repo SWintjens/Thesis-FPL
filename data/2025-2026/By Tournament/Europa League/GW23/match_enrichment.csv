@@ -1,0 +1,3 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status
+25-26-europa-league-aston-villa-vs-fenerbahçe,,,,,,False,False,confirmed
+25-26-europa-league-nottingham-forest-vs-braga,,,,,,False,False,confirmed

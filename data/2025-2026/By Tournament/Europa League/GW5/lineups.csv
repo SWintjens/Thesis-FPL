@@ -1,0 +1,44 @@
+match_id,team_side,team_code,player_id,player_name,position,jersey_number,is_starting,formation,lineup_status
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,P. López,G,25,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,Á. Ortiz,D,40,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,Natan,D,4,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,V. Gómez,D,16,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,J. Firpo,D,23,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,S. Altimira,M,6,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,S. Amrabat,M,14,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,Antony,M,7,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,G. Lo Celso,M,20,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,A. Ezzalzouli,M,10,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,C. Bakambu,F,11,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,R. Rodríguez,D,12,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,R. Riquelme,M,17,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,M. Roca,M,21,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,C. Hernández,F,19,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,P. Fornals,M,8,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,Á. Valles,G,1,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,Adrian,G,13,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,C. Ávila,F,9,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,A. Ruibal,F,24,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,J. Morante,F,27,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,away,,,F. Garreta,D,35,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,M. Sels,G,26,True,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,508,N. Williams,D,3,True,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,N. Milenković,D,31,True,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,F. Morato,D,4,True,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,O. Zinchenko,D,35,True,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,I. Sangaré,M,6,True,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,M. Gibbs-White,M,10,True,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,D. Luiz,M,12,True,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,E. Anderson,M,8,True,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,C. Hudson-Odoi,M,7,True,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,I. Jesus,F,19,True,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,D. Bakwa,F,29,False,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,D. Ndoye,F,14,False,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,A. Kalimuendo,F,15,False,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,R. Yates,M,22,False,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,W. Boly,D,30,False,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,715,John,G,13,False,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,C. Wood,F,11,False,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,N. Domínguez,M,16,False,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,J. McAtee,M,24,False,4-1-4-1,confirmed
+25-26-europa-league-nottingham-forest-vs-real-betis,home,17,,N. Savona,D,37,False,4-1-4-1,confirmed

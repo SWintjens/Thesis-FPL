@@ -1,0 +1,220 @@
+match_id,team_side,player_id,player_name,jersey_number,position,x,y
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,N. Prelec,11,F,84.9,31.7
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,B. De Keersmaecker,20,M,72.9,31.0
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,L. Sibley,18,M,55.8,86.6
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,T. Bradshaw,2,F,73.5,28.1
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,M. Harris,26,F,55.3,58.2
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,L. Harris,15,M,61.9,69.2
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,M. Phillips,37,F,39.3,19.7
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,P. Płacheta,34,M,59.5,80.0
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,E. Moore,39,D,35.5,52.3
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,B. Spencer,54,D,36.2,18.5
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,W. Vaulks,64,M,45.5,45.1
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,J. Currie,55,D,41.0,80.9
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,C. Brannagan,47,M,36.7,56.6
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,S. Mills,48,M,61.2,22.1
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,M. Ingram,46,G,8.7,51.2
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,away,,S. Long,58,D,34.5,64.8
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,180,Tzimas,11,F,60.0,43.8
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,167,Baleba,21,M,39.6,47.3
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,181,Kostoulas,9,F,58.7,49.9
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,172,Watson,13,M,64.2,77.4
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,138,Steele,55,G,9.8,49.0
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,156,Tasker,3,M,13.3,34.4
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,144,Coppola,87,D,36.1,29.9
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,148,F.Kadıoğlu,42,D,58.8,81.3
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,170,Milner,61,M,50.3,60.2
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,795,Howell,55,M,60.7,30.3
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,,I. Júlio,106,D,41.4,82.7
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,143,Boscagli,111,D,36.3,55.4
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,162,Gruda,80,M,70.1,33.8
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,163,Hinshelwood,43,M,56.2,65.8
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,152,Veltman,55,D,47.7,13.4
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,home,,D. Gómez,52,M,57.5,59.0
+25-26-efl-cup-derby-county-vs-burnley,away,218,Barnes,13,M,66.6,53.3
+25-26-efl-cup-derby-county-vs-burnley,away,680,Broja,24,F,64.0,50.5
+25-26-efl-cup-derby-county-vs-burnley,away,213,Banel,28,M,68.2,73.9
+25-26-efl-cup-derby-county-vs-burnley,away,215,Flemming,42,F,61.2,66.8
+25-26-efl-cup-derby-county-vs-burnley,away,,L. Pires,103,D,49.5,78.9
+25-26-efl-cup-derby-county-vs-burnley,away,183,Weiss,36,G,9.8,51.3
+25-26-efl-cup-derby-county-vs-burnley,away,197,Sonne,59,D,50.8,14.3
+25-26-efl-cup-derby-county-vs-burnley,away,206,Edwards,54,F,57.1,33.3
+25-26-efl-cup-derby-county-vs-burnley,away,193,Humphreys,68,D,41.0,61.3
+25-26-efl-cup-derby-county-vs-burnley,away,198,Tuanzebe,48,D,40.3,28.5
+25-26-efl-cup-derby-county-vs-burnley,away,,M. Trésor,8,M,59.1,37.9
+25-26-efl-cup-derby-county-vs-burnley,away,210,Tchaouna,57,F,68.3,76.8
+25-26-efl-cup-derby-county-vs-burnley,away,211,A.Ramsey,102,M,54.1,61.8
+25-26-efl-cup-derby-county-vs-burnley,away,199,Worrall,95,D,36.6,50.0
+25-26-efl-cup-derby-county-vs-burnley,away,209,Laurent,77,M,47.7,38.6
+25-26-efl-cup-derby-county-vs-burnley,home,,K. Wilson,18,M,50.7,14.1
+25-26-efl-cup-derby-county-vs-burnley,home,,D. Brown,9,F,57.4,45.6
+25-26-efl-cup-derby-county-vs-burnley,home,,J. Ward,44,M,45.1,17.9
+25-26-efl-cup-derby-county-vs-burnley,home,,B. Clark,33,M,58.6,75.1
+25-26-efl-cup-derby-county-vs-burnley,home,,C. Elder,30,M,51.2,82.2
+25-26-efl-cup-derby-county-vs-burnley,home,,L. Thompson,30,M,40.1,64.8
+25-26-efl-cup-derby-county-vs-burnley,home,,A. Weimann,13,F,47.6,46.0
+25-26-efl-cup-derby-county-vs-burnley,home,,B. Osborn,48,M,48.8,65.5
+25-26-efl-cup-derby-county-vs-burnley,home,,K. Jackson,39,F,64.5,65.9
+25-26-efl-cup-derby-county-vs-burnley,home,,M. Clarke,43,D,40.7,70.7
+25-26-efl-cup-derby-county-vs-burnley,home,,J. Vickers,47,G,8.1,47.7
+25-26-efl-cup-derby-county-vs-burnley,home,,E. Adams,62,M,40.4,37.0
+25-26-efl-cup-derby-county-vs-burnley,home,,C. Forsyth,91,D,40.3,75.6
+25-26-efl-cup-derby-county-vs-burnley,home,,J. Rooney,89,D,37.7,24.2
+25-26-efl-cup-derby-county-vs-burnley,home,,D. Sanderson,83,D,27.6,38.4
+25-26-efl-cup-derby-county-vs-burnley,home,,R. Brewster,41,F,57.0,34.8
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,546,Aleksić,14,M,74.9,87.7
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,542,Seelt,18,D,44.2,31.5
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,537,Huggins,31,D,49.1,16.9
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,549,Neil,99,M,53.2,47.6
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,545,Roberts,112,M,69.4,56.5
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,547,E.Le Fée,109,M,63.4,70.6
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,694,Mukiele,111,D,42.3,34.0
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,528,Patterson,60,G,12.4,53.5
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,774,Jenson Jones,53,D,59.3,15.3
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,,M. Guiu,36,F,77.9,54.3
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,678,Masuaku,113,D,39.8,67.5
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,557,H.Jones,136,M,54.1,83.2
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,560,Isidor,49,F,73.7,73.5
+25-26-efl-cup-huddersfield-town-vs-sunderland,away,551,Rigg,67,M,68.3,25.3
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,B. Radulović,2,F,62.5,28.8
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,M. Harness,12,M,58.4,15.8
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,L. Castledine,29,M,49.6,65.9
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,J. Smith-Sway,14,D,45.2,83.6
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,H. Kane,3,M,62.6,53.8
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,B. Wiles,17,M,45.8,61.7
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,J. Taylor,22,F,72.9,32.2
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,D. Charles,49,F,45.1,24.2
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,D. Kasumu,60,M,42.4,55.9
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,L. Gooch,69,D,35.8,14.9
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,S. Roughan,66,D,33.9,84.0
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,M. Wallace,55,D,21.8,65.1
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,L. Nicholls,52,G,8.7,47.3
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,J. Whatmough,72,D,23.9,32.5
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,C. Ashia,26,M,52.1,85.4
+25-26-efl-cup-huddersfield-town-vs-sunderland,home,,D. Vost,48,M,40.8,37.3
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,J. Emery,19,D,26.2,19.8
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,I. Ugbo,19,F,50.2,42.8
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,J. Lowe,24,F,63.6,35.2
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,Otegbayo,16,D,43.2,34.0
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,E. Weaver,25,D,23.1,45.1
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,G. Brown,31,F,56.9,46.5
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,S. Fusire,38,M,41.2,29.3
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,L. Palmer,6,D,27.6,15.8
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,W. Grainger,9,F,33.5,33.8
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,E. Horvath,57,G,7.1,45.7
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,B. Bannan,3,M,30.0,70.8
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,G. Siqueira,49,D,33.1,13.1
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,R. Shipston,42,M,33.3,54.1
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,J. Thornton,42,M,37.8,77.8
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,R. Johnson,40,D,32.7,77.7
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,away,,C. McGhee,48,D,22.1,69.1
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,660,Stach,24,M,60.5,53.1
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,691,Calvert-Lewin,10,F,83.5,52.2
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,342,Bogle,28,D,68.0,23.1
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,365,Nmecha,18,F,68.4,53.1
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,362,Piroe,49,F,73.5,39.9
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,353,James,11,M,80.3,16.7
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,351,Gnonto,29,F,79.4,33.3
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,352,Harrison,135,F,61.5,85.1
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,346,Byram,78,D,60.4,13.3
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,341,Darlow,40,G,12.0,48.6
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,344,Bijol,145,D,40.7,64.6
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,345,Bornauw,119,D,46.0,30.8
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,356,Gruev,71,M,46.5,49.0
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,698,Okafor,70,F,69.3,83.3
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,493,Longstaff,92,M,52.3,67.8
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,home,350,Aaronson,43,M,70.6,23.3
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,R. Staunton,15,D,46.2,83.5
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,H. Brown,14,M,55.9,61.7
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,T. Warren,49,D,29.7,45.5
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,C. Oduor,12,M,46.6,46.7
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,C. Gardner,29,M,75.6,51.5
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,G. D. Turi,12,M,41.2,49.5
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,C. McJannett,38,D,27.5,63.1
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,E. Khouri,41,M,52.7,67.7
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,K. Green,45,M,63.9,34.7
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,C. Vernam,43,M,70.7,71.4
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,G. McEachran,43,M,49.2,47.7
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,J. Kabia,8,F,56.3,61.9
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,C. Pym,59,G,10.2,51.2
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,H. Rodgers,42,D,48.2,18.0
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,J. Sweeney,65,D,44.4,75.4
+25-26-efl-cup-manchester-united-vs-grimsby-town,away,,D. Burns,58,M,53.8,23.5
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,119,Mbeumo,30,F,67.8,22.5
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,441,Dorgu,34,M,55.3,88.9
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,681,Šeško,35,F,68.5,45.5
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,466,Zirkzee,14,F,52.0,29.4
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,455,Mount,28,F,74.5,89.8
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,436,De Ligt,51,D,52.1,41.1
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,442,Maguire,74,D,33.5,48.4
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,452,Amad,69,F,66.2,19.4
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,,M. Cunha,66,F,63.3,56.3
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,,M. Ugarte,51,M,43.6,63.5
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,,D. Dalot,93,D,48.2,34.7
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,458,Mainoo,88,M,57.9,37.8
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,432,Onana,49,G,9.8,51.8
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,446,Fredricson,57,D,36.7,21.4
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,447,Heaven,66,D,32.8,73.0
+25-26-efl-cup-manchester-united-vs-grimsby-town,home,,B. Fernandes,73,M,48.9,50.3
+25-26-efl-cup-mansfield-town-vs-everton,away,293,O'Brien,9,D,48.3,93.5
+25-26-efl-cup-mansfield-town-vs-everton,away,304,Iroegbunam,16,M,49.1,36.7
+25-26-efl-cup-mansfield-town-vs-everton,away,310,Barry,30,F,63.4,53.2
+25-26-efl-cup-mansfield-town-vs-everton,away,,Beto,23,F,71.9,53.0
+25-26-efl-cup-mansfield-town-vs-everton,away,299,Ndiaye,15,M,64.2,59.8
+25-26-efl-cup-mansfield-town-vs-everton,away,707,Dibling,37,M,59.9,19.4
+25-26-efl-cup-mansfield-town-vs-everton,away,291,Tarkowski,121,D,40.6,34.2
+25-26-efl-cup-mansfield-town-vs-everton,away,,C. Alcaraz,76,M,61.5,63.4
+25-26-efl-cup-mansfield-town-vs-everton,away,295,Keane,100,D,38.8,65.4
+25-26-efl-cup-mansfield-town-vs-everton,away,303,Garner,114,M,56.4,48.6
+25-26-efl-cup-mansfield-town-vs-everton,away,288,Travers,41,G,15.1,51.3
+25-26-efl-cup-mansfield-town-vs-everton,away,294,Coleman,93,D,50.5,12.0
+25-26-efl-cup-mansfield-town-vs-everton,away,300,McNeil,70,M,64.4,26.9
+25-26-efl-cup-mansfield-town-vs-everton,away,419,Grealish,59,M,59.2,74.8
+25-26-efl-cup-mansfield-town-vs-everton,away,305,Armstrong,84,M,57.9,33.6
+25-26-efl-cup-mansfield-town-vs-everton,away,,V. Mykolenko,88,D,51.3,87.5
+25-26-efl-cup-mansfield-town-vs-everton,home,,E. Hewitt,10,D,37.9,8.1
+25-26-efl-cup-mansfield-town-vs-everton,home,,R. Sweeney,10,D,26.1,46.2
+25-26-efl-cup-mansfield-town-vs-everton,home,,W. Evans,39,F,49.7,43.6
+25-26-efl-cup-mansfield-town-vs-everton,home,,R. Hendry,43,M,58.7,58.9
+25-26-efl-cup-mansfield-town-vs-everton,home,,L. Reed,47,M,41.8,43.0
+25-26-efl-cup-mansfield-town-vs-everton,home,,G. Maris,20,M,44.5,54.8
+25-26-efl-cup-mansfield-town-vs-everton,home,,S. McLaughlin,25,D,46.7,84.9
+25-26-efl-cup-mansfield-town-vs-everton,home,,M. Dickov,29,M,54.9,82.4
+25-26-efl-cup-mansfield-town-vs-everton,home,,L. Bolton,28,M,48.6,79.6
+25-26-efl-cup-mansfield-town-vs-everton,home,,L. Roberts,52,G,8.5,49.4
+25-26-efl-cup-mansfield-town-vs-everton,home,,J. Bowery,54,D,33.0,39.7
+25-26-efl-cup-mansfield-town-vs-everton,home,,J. McDonnell,84,M,42.5,49.4
+25-26-efl-cup-mansfield-town-vs-everton,home,,F. Blake-Tracy,46,D,48.3,88.0
+25-26-efl-cup-mansfield-town-vs-everton,home,,N. Moriah-Welsh,45,M,59.0,25.4
+25-26-efl-cup-mansfield-town-vs-everton,home,,K. Knoyle,50,D,47.4,11.0
+25-26-efl-cup-mansfield-town-vs-everton,home,,B. Cargill,82,D,34.9,69.6
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,695,Tchatchoua,13,M,73.2,16.1
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,656,Kalajdžić,12,F,72,64.3
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,632,Doherty,21,D,56.9,16.6
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,654,Strand Larsen,14,F,68.5,54.1
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,,R. Gomes,36,M,54.7,12.3
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,,F. López,47,M,63.8,39.7
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,642,Hee Chan,39,F,65.8,50.4
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,,J. Gomes,31,M,49.3,59.7
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,644,Bellegarde,53,M,57.2,62.6
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,627,Johnstone,37,G,12.5,51.7
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,,André,63,M,48.5,50.8
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,,Y. Mosquera,75,D,48.3,23.2
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,663,J.Arias,61,M,68.1,61.6
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,631,Agbadou,83,D,34.2,48.5
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,,S. Bueno,91,D,42.7,79.1
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,away,,H. Bueno,97,D,58.0,86.3
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,625,Füllkrug,4,F,79.3,44.5
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,618,G.Rodriguez,51,M,37.5,53.2
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,,M. Kilman,28,D,37.6,76.4
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,609,Todibo,73,D,36.0,24.9
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,607,N.Aguerd,65,D,35.7,81.2
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,624,Bowen,62,M,54.1,38.6
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,671,Wilson,1,F,63.9,56.7
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,614,Ward-Prowse,58,M,51.5,27.4
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,600,Areola,61,G,12.2,51.8
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,659,Walker-Peters,67,D,51.0,9.7
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,603,Diouf,71,D,48.1,88.0
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,613,Souček,56,M,42.6,70.2
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,606,Mavropanos,82,D,30.1,49.9
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,home,,L. Paquetá,63,M,54.2,44.6

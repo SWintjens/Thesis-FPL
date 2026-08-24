@@ -1,0 +1,37 @@
+player_id,match_id,player_name,rating,possession_lost,attacking_shots_blocked,total_passes,total_long_balls,total_crosses,total_dribbles,ground_duels_lost,aerial_duels_lost,yellow_cards,red_cards,goalkeeper_punches
+67,25-26-efl-cup-brentford-vs-afc-bournemouth,Petrović,6.3,4,0,27,7,0,0,0,0,0,0,0
+77,25-26-efl-cup-brentford-vs-afc-bournemouth,Hill,6.2,14,1,71,10,0,0,2,2,0,0,0
+81,25-26-efl-cup-brentford-vs-afc-bournemouth,Kluivert,6.4,4,0,22,0,1,2,3,1,0,0,0
+82,25-26-efl-cup-brentford-vs-afc-bournemouth,Semenyo,6.3,10,0,20,1,1,4,8,4,0,0,0
+83,25-26-efl-cup-brentford-vs-afc-bournemouth,O.Dango,6.7,4,0,6,1,2,0,1,0,0,0,0
+85,25-26-efl-cup-brentford-vs-afc-bournemouth,Adams,6.9,1,0,16,1,0,0,1,0,0,0,0
+86,25-26-efl-cup-brentford-vs-afc-bournemouth,Brooks,6.7,8,1,10,1,2,0,1,0,0,0,0
+87,25-26-efl-cup-brentford-vs-afc-bournemouth,Christie,6.8,17,0,38,4,6,0,4,0,0,0,0
+90,25-26-efl-cup-brentford-vs-afc-bournemouth,Scott,6.7,10,0,52,5,3,1,5,0,0,0,0
+105,25-26-efl-cup-brentford-vs-afc-bournemouth,Valdimarsson,7.1,17,0,35,25,0,0,0,0,0,0,0
+106,25-26-efl-cup-brentford-vs-afc-bournemouth,Collins,6.7,3,0,4,2,0,0,0,0,0,0,0
+108,25-26-efl-cup-brentford-vs-afc-bournemouth,Ajer,7.9,9,0,23,3,1,1,2,0,0,0,0
+109,25-26-efl-cup-brentford-vs-afc-bournemouth,Henry,7.0,14,0,25,4,0,2,5,0,0,0,0
+110,25-26-efl-cup-brentford-vs-afc-bournemouth,Kayode,7.0,5,0,1,0,0,1,2,1,1,0,0
+111,25-26-efl-cup-brentford-vs-afc-bournemouth,Pinnock,6.9,11,0,20,4,0,0,3,3,0,0,0
+113,25-26-efl-cup-brentford-vs-afc-bournemouth,Van den Berg,7.3,5,0,28,4,0,0,1,0,0,0,0
+116,25-26-efl-cup-brentford-vs-afc-bournemouth,Hickey,6.5,3,0,8,0,0,0,5,2,0,0,0
+120,25-26-efl-cup-brentford-vs-afc-bournemouth,Schade,6.1,8,0,10,0,0,0,11,6,0,0,0
+122,25-26-efl-cup-brentford-vs-afc-bournemouth,Milambo,6.3,5,0,6,1,1,0,7,4,0,0,0
+126,25-26-efl-cup-brentford-vs-afc-bournemouth,Jensen,7.2,15,0,34,8,5,1,1,0,0,0,0
+128,25-26-efl-cup-brentford-vs-afc-bournemouth,Onyeka,7.6,10,0,35,4,0,0,4,0,0,0,0
+129,25-26-efl-cup-brentford-vs-afc-bournemouth,Yarmoliuk,6.6,1,0,0,0,0,0,0,0,0,0,0
+391,25-26-efl-cup-brentford-vs-afc-bournemouth,Gannon-Doak,6.4,10,0,20,2,1,2,5,3,0,0,0
+685,25-26-efl-cup-brentford-vs-afc-bournemouth,Diakité,6.6,4,0,46,6,0,0,1,1,0,0,0
+697,25-26-efl-cup-brentford-vs-afc-bournemouth,Adli,5.9,11,0,37,2,0,3,9,2,1,0,0
+318,25-26-efl-cup-bristol-city-vs-fulham,Bassey,7.0,7,0,20,2,1,1,0,0,0,0,0
+319,25-26-efl-cup-bristol-city-vs-fulham,Castagne,6.9,9,0,57,2,0,0,4,3,1,0,0
+320,25-26-efl-cup-bristol-city-vs-fulham,Diop,7.4,4,0,85,8,0,0,1,1,0,0,0
+324,25-26-efl-cup-bristol-city-vs-fulham,Iwobi,6.8,1,0,12,0,0,1,0,0,0,0,0
+325,25-26-efl-cup-bristol-city-vs-fulham,Smith Rowe,6.8,5,2,49,0,0,2,4,0,0,0,0
+328,25-26-efl-cup-bristol-city-vs-fulham,Sessegnon,6.5,9,0,24,0,4,3,6,2,0,0,0
+329,25-26-efl-cup-bristol-city-vs-fulham,Wilson,6.8,5,0,29,3,1,0,0,0,0,0,0
+331,25-26-efl-cup-bristol-city-vs-fulham,Cairney,7.5,5,1,92,6,0,1,1,0,0,0,0
+332,25-26-efl-cup-bristol-city-vs-fulham,Lukić,6.4,0,0,0,0,0,0,0,0,0,0,0
+336,25-26-efl-cup-bristol-city-vs-fulham,Reed,7.5,6,0,70,1,2,0,1,0,0,0,0
+664,25-26-efl-cup-bristol-city-vs-fulham,Lecomte,6.7,9,0,53,13,0,0,0,0,0,0,1

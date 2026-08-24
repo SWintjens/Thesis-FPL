@@ -1,0 +1,26 @@
+player_id,match_id,player_name,rating,possession_lost,attacking_shots_blocked,total_passes,total_long_balls,total_crosses,total_dribbles,ground_duels_lost,aerial_duels_lost,yellow_cards,red_cards,goalkeeper_punches
+426,25-26-europa-league-ferencvaros-vs-nottingham-forest,McAtee,9.6,14,0,52,1,4,6,3,0,0,0,0
+502,25-26-europa-league-ferencvaros-vs-nottingham-forest,Sels,7.6,8,0,20,13,0,0,0,0,0,0,0
+505,25-26-europa-league-ferencvaros-vs-nottingham-forest,Milenković,8.1,2,0,40,4,0,0,1,1,0,0,0
+507,25-26-europa-league-ferencvaros-vs-nottingham-forest,Aina,6.7,2,0,16,1,0,0,0,0,0,0,0
+508,25-26-europa-league-ferencvaros-vs-nottingham-forest,N.Williams,7.2,6,0,43,5,0,0,5,3,0,0,0
+513,25-26-europa-league-ferencvaros-vs-nottingham-forest,Abbott,6.8,23,0,46,6,5,3,7,2,0,0,0
+515,25-26-europa-league-ferencvaros-vs-nottingham-forest,Gibbs-White,6.5,5,0,18,0,0,1,1,0,0,0,0
+516,25-26-europa-league-ferencvaros-vs-nottingham-forest,Hudson-Odoi,6.4,3,0,13,1,0,0,2,0,0,0,0
+519,25-26-europa-league-ferencvaros-vs-nottingham-forest,Dominguez,6.5,14,2,57,2,2,0,2,0,1,0,0
+521,25-26-europa-league-ferencvaros-vs-nottingham-forest,Sangaré,8.3,8,1,56,5,1,0,0,0,0,0,0
+522,25-26-europa-league-ferencvaros-vs-nottingham-forest,Yates,7.6,11,0,62,2,1,4,4,1,0,0,0
+669,25-26-europa-league-ferencvaros-vs-nottingham-forest,Ndoye,8.1,25,1,28,1,6,8,9,0,0,0,0
+734,25-26-europa-league-ferencvaros-vs-nottingham-forest,Bakwa,6.6,4,0,7,1,1,1,2,1,0,0,0
+36,25-26-europa-league-salzburg-vs-aston-villa,Cash,7.0,12,0,40,8,4,1,2,0,0,0,0
+37,25-26-europa-league-salzburg-vs-aston-villa,Digne,6.7,19,0,73,5,9,0,0,0,0,0,0
+40,25-26-europa-league-salzburg-vs-aston-villa,Mings,7.8,6,0,94,4,0,1,1,0,0,0,0
+44,25-26-europa-league-salzburg-vs-aston-villa,Bogarde,6.5,12,0,63,3,0,1,3,0,0,0,0
+47,25-26-europa-league-salzburg-vs-aston-villa,Rogers,8.0,7,0,21,0,2,3,1,0,0,0,0
+59,25-26-europa-league-salzburg-vs-aston-villa,Onana,7.0,8,0,43,5,0,0,3,0,0,0,0
+63,25-26-europa-league-salzburg-vs-aston-villa,Young,7.0,2,0,4,0,1,0,3,0,0,0,0
+64,25-26-europa-league-salzburg-vs-aston-villa,Watkins,6.4,4,0,6,0,0,0,2,0,0,0,0
+389,25-26-europa-league-salzburg-vs-aston-villa,Elliott,6.5,12,0,52,2,1,2,6,0,0,0,0
+456,25-26-europa-league-salzburg-vs-aston-villa,Sancho,6.6,12,0,50,0,1,4,5,0,0,0,0
+719,25-26-europa-league-salzburg-vs-aston-villa,Lindelöf,6.4,8,0,80,3,0,0,1,0,0,0,0
+754,25-26-europa-league-salzburg-vs-aston-villa,George Hemmings,6.5,7,0,18,0,0,1,4,0,0,0,0

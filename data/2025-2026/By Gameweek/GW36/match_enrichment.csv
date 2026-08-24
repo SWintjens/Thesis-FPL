@@ -1,0 +1,13 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status,home_shot_model_xg,away_shot_model_xg,incident_timing_coverage,unlocated_card_count,quarantined_incident_count
+25-26-champions-league-atletico-madrid-vs-arsenal,,,,,,False,False,confirmed,,,,,
+25-26-prem-brighton-hove-albion-vs-wolverhampton-wanderers,239,clear,20,18.5,1,False,False,confirmed,1.6215,0.4943,available,0,0
+25-26-prem-burnley-vs-aston-villa,144,rain,10,10.6,1,False,False,confirmed,1.8102,1.437,available,0,0
+25-26-prem-crystal-palace-vs-everton,300,,12,17.4,1,False,False,confirmed,2.6674,1.4843,available,0,0
+25-26-prem-fulham-vs-afc-bournemouth,140,unknown,21,12.8,1,False,False,confirmed,1.3017,0.7348,available,1,0
+25-26-prem-liverpool-vs-chelsea,287,,15,5.4,1,False,False,confirmed,0.5144,0.4651,available,0,1
+25-26-prem-manchester-city-vs-brentford,257,,14,14.4,1,False,False,confirmed,3.3603,0.4246,available,0,0
+25-26-prem-manchester-city-vs-crystal-palace,273,,10,10.2,1,False,False,confirmed,1.556,0.7123,available,0,0
+25-26-prem-nottingham-forest-vs-newcastle-united,229,cloudy,14,16.2,1,False,False,confirmed,1.1882,1.5501,available,0,0
+25-26-prem-sunderland-vs-manchester-united,172,,8,21.8,1,False,False,confirmed,1.31,0.6216,available,0,0
+25-26-prem-tottenham-hotspur-vs-leeds-united,263,unknown,10,9.9,1,False,False,confirmed,1.3499,1.2884,available,0,1
+25-26-prem-west-ham-united-vs-arsenal,6,rain,13,17.4,1,True,False,confirmed,1.1511,1.2205,available,0,0

@@ -1,0 +1,45 @@
+match_id,team_side,team_code,player_id,player_name,position,jersey_number,is_starting,formation,lineup_status
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,J. D. Busser,G,22,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,M. Deijl,D,2,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,G. Nauber,D,3,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,J. Kramer,D,4,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,D. James,D,5,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,M. Meulensteen,M,21,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,Y. Rahmouni,M,34,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,R. Margaret,M,18,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,J. Breum,M,7,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,M. Suray,M,17,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,M. Smit,F,9,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,C. Twigt,M,6,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,K. Goudmijn,M,24,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,E. Linthorst,M,8,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,R. Weijenberg,M,15,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,A. Adelgaard,D,29,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,G. v. Zwam,D,25,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,L. Plogmann,G,1,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,N. Verdoni,G,33,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,O. S. Sivertsen,F,11,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,J. Dirksen,D,26,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,F. Stokkers,F,27,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,away,,,O. Boakye,F,32,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,E. Martínez,G,23,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,V. Lindelöf,D,3,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,T. Mings,D,5,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,P. Torres,D,14,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,I. Maatsen,D,22,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,L. Bogarde,M,26,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,A. Onana,M,24,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,E. Guessand,M,29,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,E. Buendía,M,10,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,J. Sancho,M,19,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,O. Watkins,F,11,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,M. Cash,D,2,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,M. Rogers,F,27,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,D. Malen,F,17,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,B. Kamara,M,44,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,J. McGinn,M,7,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,33,M. Bizot,G,40,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,S. Proctor,G,52,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,E. Konsa,D,4,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,H. Elliott,M,9,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,home,7,,B. Burrowes,M,83,False,4-2-3-1,confirmed

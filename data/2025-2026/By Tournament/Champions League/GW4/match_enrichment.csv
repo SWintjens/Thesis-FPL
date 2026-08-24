@@ -1,0 +1,6 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status
+25-26-champions-league-arsenal-vs-athletic-club,,,,,,False,False,confirmed
+25-26-champions-league-atletico-madrid-vs-liverpool,,,,,,False,False,confirmed
+25-26-champions-league-chelsea-vs-bayern-münchen,,,,,,False,False,confirmed
+25-26-champions-league-napoli-vs-manchester-city,,,,,,False,False,confirmed
+25-26-champions-league-villarreal-vs-tottenham-hotspur,,,,,,False,False,confirmed

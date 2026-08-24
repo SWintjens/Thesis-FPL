@@ -1,0 +1,133 @@
+match_id,team_side,team_code,player_id,player_name,position,jersey_number,is_starting,formation,lineup_status
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,N. Pope,G,1,True,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,K. Trippier,D,2,True,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,F. Schär,D,5,True,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,D. Burn,D,33,True,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,V. Livramento,D,21,True,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,B. Guimarães,M,39,True,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,S. Tonali,M,8,True,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,490,Joelinton,M,7,True,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,A. Elanga,F,20,True,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,A. Gordon,F,10,True,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,H. Barnes,F,11,True,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,N. Woltemade,F,27,False,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,J. Willock,M,28,False,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,M. Thiaw,D,12,False,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,489,J. Murphy,M,23,False,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,S. Botman,D,4,False,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,M. Thompson,G,31,False,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,A. Ramsdale,G,32,False,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,L. Hall,D,3,False,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,W. Osula,F,18,False,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,481,A. Murphy,D,37,False,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,497,L. Miley,M,67,False,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,away,4,,E. Krafth,D,17,False,4-3-3,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,J. García,G,13,True,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,J. Koundé,D,23,True,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,R. Araújo,D,4,True,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,P. Cubarsí,D,5,True,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,G. Martín,D,18,True,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,F. de Jong,M,21,True,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,Pedri,M,8,True,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,Raphinha,M,11,True,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,F. López,M,16,True,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,M. Rashford,M,14,True,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,R. Lewandowski,F,9,True,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,F. Torres,F,7,False,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,A. Christensen,D,15,False,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,E. García,D,24,False,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,D. Olmo,M,20,False,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,M. Casadó,M,17,False,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,W. Szczesny,G,25,False,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,D. Kochen,G,31,False,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,R. Bardghji,F,28,False,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,J. Torrents ,D,26,False,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,T. Fernández,F,29,False,4-2-3-1,confirmed
+25-26-champions-league-barcelona-vs-newcastle-united,home,,,M. Bernal,M,22,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,U. Çakır,G,1,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,W. Singo,D,90,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,D. Sánchez,D,6,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,A. Bardakcı,D,42,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,I. Jakobs,D,4,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,L. Torreira,M,34,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,M. Lemina,M,99,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,Y. Akgün,M,11,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,I. Gundogan,M,20,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,B. A. Yılmaz,M,53,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,V. Osimhen,F,45,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,R. Sallai,F,7,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,M. Icardi,F,9,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,G. Sara,M,8,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,E. Elmalı,D,17,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,G. Güvenç,G,19,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,M. Baltacı,D,3,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,L. Sané,F,10,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,B. Kutlu,M,18,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,A. Kutucu,F,21,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,K. Ayhan,D,23,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,Y. Demir,F,30,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,away,,,A. Ünyay,D,91,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,Alisson,G,1,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,D. Szoboszlai,D,8,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,I. Konaté,D,5,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,V. van Dijk,D,4,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,M. Kerkez,D,6,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,R. Gravenberch,M,38,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,388,C. Jones,M,17,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,J. Frimpong,M,30,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,F. Wirtz,M,7,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,C. Gakpo,M,18,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,H. Ekitiké,F,22,True,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,G. Mamardashvili,G,25,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,A. Isak,F,9,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,381,M. Salah,F,11,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,C. Bradley,D,12,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,A. Mac Allister,M,10,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,F. Woodman,G,28,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,W. Endo,M,3,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,A. Robertson,D,26,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,R. Ngumoha,F,73,False,4-2-3-1,confirmed
+25-26-champions-league-liverpool-vs-galatasaray,home,14,,J. Gomez,D,2,False,4-2-3-1,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,T. Courtois,G,1,True,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,F. Valverde,D,8,True,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,R. Asencio,D,17,True,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,A. Rüdiger,D,22,True,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,Á. Carreras,D,18,True,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,Rodrygo,M,11,True,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,D. Ceballos,M,19,True,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,A. Tchouaméni,M,14,True,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,J. Bellingham,M,5,True,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,G. García,F,16,True,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,Vinícius Jr.,F,7,True,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,A. Güler,M,15,False,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,B. Díaz,M,21,False,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,Endrick,F,9,False,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,F. Garcia,D,20,False,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,F. Mastantuono,F,30,False,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,J. Martínez,D,36,False,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,F. González,G,26,False,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,J. Cestero,M,28,False,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,V. Valdepeñas,D,40,False,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,A. Lunin,G,13,False,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,away,,,K. Mbappé,F,10,False,4-4-2,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,G. Donnarumma,G,25,True,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,M. Nunes,D,27,True,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,R. Dias,D,3,True,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,J. Gvardiol,D,24,True,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,N. O’Reilly,D,33,True,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,B. Silva,M,20,True,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,423,N. González,M,14,True,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,P. Foden,M,47,True,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,R. Cherki,F,10,True,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,E. Haaland,F,9,True,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,J. Doku,F,11,True,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,T. Reijnders,M,4,False,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,O. Marmoush,F,7,False,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,415,Savinho,F,26,False,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,N. Aké,D,6,False,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,J. Trafford,G,1,False,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,M. Bettinelli,G,13,False,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,O. Bobb,M,52,False,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,R. Lewis,D,82,False,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,R. Aït-Nouri,D,21,False,4-3-3,confirmed
+25-26-champions-league-manchester-city-vs-real-madrid,home,43,,A. Khusanov,D,45,False,4-3-3,confirmed

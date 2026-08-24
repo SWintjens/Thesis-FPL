@@ -1,0 +1,13 @@
+match_id,incident_index,incident_type,minute,added_time,team_side,player_id,player_name,secondary_player_id,secondary_player_name,assist_player_id,assist_player_name,card_type,goal_type,home_score,away_score,text
+25-26-efl-cup-crystal-palace-vs-arsenal,1,substitution,90,,home,258,Mitchell,259,Sosa,,,,,,,
+25-26-efl-cup-crystal-palace-vs-arsenal,2,goal,90,,home,260,Guéhi,,,,,,regular,1,1,
+25-26-efl-cup-crystal-palace-vs-arsenal,3,card,89,,away,,,,,,,yellow,,,,
+25-26-efl-cup-crystal-palace-vs-arsenal,4,substitution,86,,away,,,21,Rice,,,,,,,
+25-26-efl-cup-crystal-palace-vs-arsenal,5,substitution,86,,home,,,732,Uche,,,,,,,
+25-26-efl-cup-crystal-palace-vs-arsenal,6,goal,80,,away,257,Lacroix,,,,,,ownGoal,0,1,
+25-26-efl-cup-crystal-palace-vs-arsenal,7,substitution,75,,home,261,Richards,270,Hughes,,,,,,,
+25-26-efl-cup-crystal-palace-vs-arsenal,8,substitution,67,,away,18,Madueke,16,Saka,,,,,,,
+25-26-efl-cup-crystal-palace-vs-arsenal,9,substitution,67,,away,266,Eze,17,Ødegaard,,,,,,,
+25-26-efl-cup-crystal-palace-vs-arsenal,10,substitution,59,,away,,,20,Trossard,,,,,,,
+25-26-efl-cup-crystal-palace-vs-arsenal,11,substitution,46,,home,723,Canvot,263,Clyne,,,,,,,
+25-26-efl-cup-crystal-palace-vs-arsenal,12,substitution,46,,home,284,Nketiah,276,Devenny,,,,,,,

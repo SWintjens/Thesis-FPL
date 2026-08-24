@@ -1,0 +1,17 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status,home_shot_model_xg,away_shot_model_xg,incident_timing_coverage,unlocated_card_count,quarantined_incident_count
+25-26-efl-cup-arsenal-vs-port-vale,,,,,,False,False,confirmed,,,,,
+25-26-efl-cup-cambridge-united-vs-fulham,,,,,,False,False,confirmed,,,,,
+25-26-efl-cup-chelsea-vs-lincoln-city,,,,,,False,False,confirmed,,,,,
+25-26-efl-cup-manchester-city-vs-huddersfield-town,,,,,,False,False,confirmed,,,,,
+25-26-efl-cup-nottingham-forest-vs-swansea-city,,,,,,False,False,confirmed,,,,,
+25-26-europa-league-nottingham-forest-vs-real-betis,,,,,,False,False,confirmed,,,,,
+25-26-prem-afc-bournemouth-vs-newcastle-united,,,,,,False,False,confirmed,0.4616,0.2269,available,0,0
+25-26-prem-arsenal-vs-manchester-city,,,,,,False,False,confirmed,0.8884,0.9094,available,0,1
+25-26-prem-brighton-hove-albion-vs-tottenham-hotspur,,,,,,False,False,confirmed,1.3198,1.199,available,0,0
+25-26-prem-burnley-vs-nottingham-forest,,,,,,False,False,confirmed,0.9041,1.0976,available,0,0
+25-26-prem-fulham-vs-brentford,,,,,,False,False,confirmed,1.0103,0.6027,available,0,0
+25-26-prem-liverpool-vs-everton,,,,,,False,False,confirmed,0.9028,0.7005,available,0,0
+25-26-prem-manchester-united-vs-chelsea,,,,,,False,False,confirmed,1.8377,0.3895,available,0,1
+25-26-prem-sunderland-vs-aston-villa,,,,,,False,False,confirmed,1.036,0.7828,available,0,0
+25-26-prem-west-ham-united-vs-crystal-palace,,,,,,False,False,confirmed,0.6176,2.3102,available,0,0
+25-26-prem-wolverhampton-wanderers-vs-leeds-united,,,,,,False,False,confirmed,1.7837,0.5144,available,0,0

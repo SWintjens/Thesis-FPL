@@ -1,0 +1,11 @@
+player_id,match_id,player_name,rating,possession_lost,attacking_shots_blocked,total_passes,total_long_balls,total_crosses,total_dribbles,ground_duels_lost,aerial_duels_lost,yellow_cards,red_cards,goalkeeper_punches
+502,25-26-europa-league-fc-midtjylland-vs-nottingham-forest,Sels,6.1,8,0,19,10,0,0,0,0,0,0,1
+505,25-26-europa-league-fc-midtjylland-vs-nottingham-forest,Milenković,6.8,5,0,50,4,1,1,1,0,0,0,0
+508,25-26-europa-league-fc-midtjylland-vs-nottingham-forest,N.Williams,6.5,12,1,52,4,3,0,6,2,0,0,0
+515,25-26-europa-league-fc-midtjylland-vs-nottingham-forest,Gibbs-White,6.2,17,0,38,1,2,3,12,4,0,0,0
+516,25-26-europa-league-fc-midtjylland-vs-nottingham-forest,Hudson-Odoi,7.2,15,2,29,1,10,1,3,0,0,0,0
+517,25-26-europa-league-fc-midtjylland-vs-nottingham-forest,Anderson,7.7,15,0,63,1,10,3,6,1,0,0,0
+521,25-26-europa-league-fc-midtjylland-vs-nottingham-forest,Sangaré,7.2,13,0,64,3,1,2,4,0,0,0,0
+525,25-26-europa-league-fc-midtjylland-vs-nottingham-forest,Wood,7.2,2,0,5,0,0,0,1,1,0,0,0
+669,25-26-europa-league-fc-midtjylland-vs-nottingham-forest,Ndoye,7.6,12,0,21,1,1,6,5,0,0,0,0
+716,25-26-europa-league-fc-midtjylland-vs-nottingham-forest,Savona,6.5,8,0,31,3,4,0,0,0,0,0,0

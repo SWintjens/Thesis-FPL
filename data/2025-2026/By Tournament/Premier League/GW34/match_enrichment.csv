@@ -1,0 +1,8 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status,home_shot_model_xg,away_shot_model_xg,incident_timing_coverage,unlocated_card_count,quarantined_incident_count
+25-26-prem-manchester-united-vs-brentford,258,unknown,14,7.9,1,False,False,confirmed,1.2735,1.466,available,0,0
+25-26-prem-west-ham-united-vs-everton,291,unknown,21,2.6,1,False,False,confirmed,1.1746,1.4128,available,0,0
+25-26-prem-arsenal-vs-newcastle-united,394,unknown,21,4.8,1,False,False,confirmed,0.6402,0.9404,available,0,0
+25-26-prem-sunderland-vs-nottingham-forest,221,unknown,12,5.3,1,False,False,confirmed,0.671,1.2973,available,0,0
+25-26-prem-wolverhampton-wanderers-vs-tottenham-hotspur,179,unknown,20,4.9,1,False,False,confirmed,0.7049,0.9206,available,0,0
+25-26-prem-fulham-vs-aston-villa,162,cloudy,16,2.2,1,False,False,confirmed,1.1494,0.7147,available,0,0
+25-26-prem-liverpool-vs-crystal-palace,299,unknown,19,4.4,1,False,False,confirmed,0.909,2.2137,available,0,0

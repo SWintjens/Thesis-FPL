@@ -1,0 +1,156 @@
+match_id,team_side,player_id,player_name,jersey_number,position,x,y
+25-26-champions-league-ajax-vs-chelsea,away,,F. Jørgensen,20,G,13.3,50.7
+25-26-champions-league-ajax-vs-chelsea,away,,R. Walsh,24,M,72.2,27.8
+25-26-champions-league-ajax-vs-chelsea,away,,M. Guiu,9,F,78.3,45.6
+25-26-champions-league-ajax-vs-chelsea,away,237,Enzo,32,M,60.3,51.9
+25-26-champions-league-ajax-vs-chelsea,away,243,George,41,F,76.7,26.9
+25-26-champions-league-ajax-vs-chelsea,away,226,Chalobah,47,D,52.9,56.2
+25-26-champions-league-ajax-vs-chelsea,away,,M. Caicedo,55,M,54.6,35.5
+25-26-champions-league-ajax-vs-chelsea,away,,J. Gittens,52,M,74.7,82.4
+25-26-champions-league-ajax-vs-chelsea,away,230,Fofana,112,D,50.4,31.4
+25-26-champions-league-ajax-vs-chelsea,away,,A. Santos,59,M,60.9,54.7
+25-26-champions-league-ajax-vs-chelsea,away,233,Acheampong,62,D,62.2,29.3
+25-26-champions-league-ajax-vs-chelsea,away,244,Lavia,69,M,56.0,58.3
+25-26-champions-league-ajax-vs-chelsea,away,232,Tosin,54,D,42.3,53.3
+25-26-champions-league-ajax-vs-chelsea,away,168,Buonanotte,65,M,65.0,49.4
+25-26-champions-league-ajax-vs-chelsea,away,,Estêvão,80,M,81.7,28.2
+25-26-champions-league-ajax-vs-chelsea,away,672,Hato,89,D,51.3,71.6
+25-26-champions-league-ajax-vs-chelsea,home,,A. Gaaei,8,D,47.0,14.4
+25-26-champions-league-ajax-vs-chelsea,home,,K. Fitz-Jim,9,M,36.3,65.6
+25-26-champions-league-ajax-vs-chelsea,home,,K. Taylor,13,M,39.2,77.2
+25-26-champions-league-ajax-vs-chelsea,home,,W. Weghorst,28,F,49.4,55.1
+25-26-champions-league-ajax-vs-chelsea,home,,O. Gloukh,9,M,50.2,68.5
+25-26-champions-league-ajax-vs-chelsea,home,,D. Klaassen,27,M,27.4,55.9
+25-26-champions-league-ajax-vs-chelsea,home,394,McConnell,34,M,30.1,48.2
+25-26-champions-league-ajax-vs-chelsea,home,,R. Moro,42,M,53.4,24.5
+25-26-champions-league-ajax-vs-chelsea,home,,M. Godts,33,F,52.9,68.2
+25-26-champions-league-ajax-vs-chelsea,home,,K. Itakura,44,D,23.7,29.9
+25-26-champions-league-ajax-vs-chelsea,home,,L. Rosa,47,D,32.5,13.6
+25-26-champions-league-ajax-vs-chelsea,home,,Y. Regeer,10,M,31.4,53.7
+25-26-champions-league-ajax-vs-chelsea,home,,J. Šutalo,54,D,21.2,61.7
+25-26-champions-league-ajax-vs-chelsea,home,,J. Mokio,42,M,33.5,66.4
+25-26-champions-league-ajax-vs-chelsea,home,,R. Pasveer,91,G,8.8,51.2
+25-26-champions-league-ajax-vs-chelsea,home,,Y. Baas,86,D,23.0,82.2
+25-26-champions-league-benfica-vs-newcastle-united,away,714,Woltemade,28,F,54.9,47.3
+25-26-champions-league-benfica-vs-newcastle-united,away,487,Barnes,13,F,61.2,48.3
+25-26-champions-league-benfica-vs-newcastle-united,away,494,Willock,2,M,82.4,31.6
+25-26-champions-league-benfica-vs-newcastle-united,away,489,J.Murphy,35,F,61.3,25.1
+25-26-champions-league-benfica-vs-newcastle-united,away,,Joelinton,25,M,57.8,65.1
+25-26-champions-league-benfica-vs-newcastle-united,away,500,Osula,1,F,79.1,37.8
+25-26-champions-league-benfica-vs-newcastle-united,away,52,J.Ramsey,39,M,53.0,67.2
+25-26-champions-league-benfica-vs-newcastle-united,away,486,Elanga,7,F,85.7,18.5
+25-26-champions-league-benfica-vs-newcastle-united,away,485,Gordon,76,F,63.4,73.1
+25-26-champions-league-benfica-vs-newcastle-united,away,478,Trippier,96,D,54.3,20.8
+25-26-champions-league-benfica-vs-newcastle-united,away,,B. Guimarães,69,M,63.5,34.5
+25-26-champions-league-benfica-vs-newcastle-united,away,475,Botman,92,D,36.0,61.2
+25-26-champions-league-benfica-vs-newcastle-united,away,497,L.Miley,59,M,50.4,45.9
+25-26-champions-league-benfica-vs-newcastle-united,away,469,Pope,50,G,8.3,50.3
+25-26-champions-league-benfica-vs-newcastle-united,away,684,Thiaw,74,D,37.7,31.3
+25-26-champions-league-benfica-vs-newcastle-united,away,476,Burn,72,D,49.9,79.8
+25-26-champions-league-benfica-vs-newcastle-united,home,,E. Barrenechea,100,M,42.6,54.7
+25-26-champions-league-benfica-vs-newcastle-united,home,,A. Trubin,52,G,6.4,50.3
+25-26-champions-league-benfica-vs-newcastle-united,home,,A. Silva,66,D,27.7,30.0
+25-26-champions-league-benfica-vs-newcastle-united,home,,V. Pavlidis,52,F,53.6,48.5
+25-26-champions-league-benfica-vs-newcastle-united,home,,A. Dedić,38,D,40.8,17.2
+25-26-champions-league-benfica-vs-newcastle-united,home,,G. Sudakov,61,M,57.5,71.6
+25-26-champions-league-benfica-vs-newcastle-united,home,,T. Araújo,55,D,31.4,87.1
+25-26-champions-league-benfica-vs-newcastle-united,home,,F. Ivanović,12,F,69.8,84.0
+25-26-champions-league-benfica-vs-newcastle-united,home,,N. Otamendi,74,D,31.3,59.7
+25-26-champions-league-benfica-vs-newcastle-united,home,,F. Aursnes,56,M,46.0,63.3
+25-26-champions-league-benfica-vs-newcastle-united,home,,D. Lukebakio,64,M,57.0,32.0
+25-26-champions-league-benfica-vs-newcastle-united,home,,R. Ríos,69,M,44.2,33.7
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,E. Skhiri,19,M,51.4,45.2
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,J. Burkardt,7,F,61.7,55.0
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,J. Bahoya,24,F,49.9,77.2
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,F. Chaïbi,17,M,46.7,55.3
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,C. Uzun,28,M,63.2,38.3
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,A. Knauff,28,F,65.7,54.3
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,R. Doan,29,M,54.4,24.5
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,R. Kristensen,39,D,34.3,11.5
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,M. Götze,43,M,49.2,36.5
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,N. Collins,26,D,41.1,10.6
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,M. Zetterer,67,G,8.9,49.6
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,H. Larsson,51,M,37.7,51.8
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,A. Amenda,76,D,31.5,24.5
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,R. Koch,52,D,29.3,47.3
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,N. Brown,60,D,38.8,83.1
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,away,,A. Theate,60,D,29.7,73.3
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,370,Frimpong,8,D,67.5,11.3
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,386,Mac Allister,10,M,57.3,49.6
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,385,Chiesa,20,F,69.1,68.4
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,381,M.Salah,11,M,82.5,33.6
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,367,Mamardashvili,29,G,12.2,48.5
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,376,Gomez,28,D,40.8,35.8
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,499,Isak,18,F,74.5,53.3
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,373,Virgil,111,D,44.8,62.5
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,661,Ekitiké,40,F,71.1,43.1
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,388,C.Jones,148,M,54.8,66.0
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,374,Konaté,59,D,43.9,37.4
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,,A. Robertson,124,D,55.1,83.7
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,387,Szoboszlai,129,M,56.8,41.0
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,384,Gakpo,60,M,75.4,85.2
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,375,Bradley,61,D,58.9,20.0
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,home,382,Wirtz,90,M,64.4,37.7
+25-26-champions-league-manchester-city-vs-villarreal,away,,G. Mikautadze,14,F,57.5,55.6
+25-26-champions-league-manchester-city-vs-villarreal,away,,A. Moleiro,8,M,76.8,69.5
+25-26-champions-league-manchester-city-vs-villarreal,away,,D. Parejo,8,M,52.7,35.1
+25-26-champions-league-manchester-city-vs-villarreal,away,,T. Buchanan,22,M,60.8,85.3
+25-26-champions-league-manchester-city-vs-villarreal,away,,S. Comesaña,37,M,61.8,26.4
+25-26-champions-league-manchester-city-vs-villarreal,away,,A. Pedraza,37,D,45.2,84.6
+25-26-champions-league-manchester-city-vs-villarreal,away,,R. Veiga,54,D,34.2,68.9
+25-26-champions-league-manchester-city-vs-villarreal,away,,N. Pépé,52,F,68.4,25.1
+25-26-champions-league-manchester-city-vs-villarreal,away,,S. Cardona,34,D,57.1,87.8
+25-26-champions-league-manchester-city-vs-villarreal,away,,A. Pérez,12,F,58.6,35.4
+25-26-champions-league-manchester-city-vs-villarreal,away,,T. Oluwaseyi,14,F,75.1,54.0
+25-26-champions-league-manchester-city-vs-villarreal,away,,J. Foyth,54,D,35.4,34.6
+25-26-champions-league-manchester-city-vs-villarreal,away,,T. Partey,58,M,49.8,42.9
+25-26-champions-league-manchester-city-vs-villarreal,away,,P. Gueye,67,M,50.2,57.6
+25-26-champions-league-manchester-city-vs-villarreal,away,,L. Júnior,48,G,10.4,48
+25-26-champions-league-manchester-city-vs-villarreal,away,,S. Mouriño,73,D,38.4,16.9
+25-26-champions-league-manchester-city-vs-villarreal,home,413,Marmoush,9,F,71.6,84.2
+25-26-champions-league-manchester-city-vs-villarreal,home,424,Bobb,16,M,62.1,12.5
+25-26-champions-league-manchester-city-vs-villarreal,home,430,Haaland,16,F,72.1,55.0
+25-26-champions-league-manchester-city-vs-villarreal,home,417,Cherki,6,M,75.6,66.9
+25-26-champions-league-manchester-city-vs-villarreal,home,410,Lewis,35,D,62.0,29.7
+25-26-champions-league-manchester-city-vs-villarreal,home,403,Gvardiol,108,D,39.9,81.4
+25-26-champions-league-manchester-city-vs-villarreal,home,422,Kovačić,42,M,48.6,50.5
+25-26-champions-league-manchester-city-vs-villarreal,home,427,Reijnders,14,M,46.5,51.6
+25-26-champions-league-manchester-city-vs-villarreal,home,407,Matheus N.,115,D,45.2,21.7
+25-26-champions-league-manchester-city-vs-villarreal,home,,R. Dias,132,D,34.3,55.9
+25-26-champions-league-manchester-city-vs-villarreal,home,,N. González,69,M,48.8,57.9
+25-26-champions-league-manchester-city-vs-villarreal,home,736,Donnarumma,52,G,8.6,51.9
+25-26-champions-league-manchester-city-vs-villarreal,home,,Savinho,67,M,68.5,29.4
+25-26-champions-league-manchester-city-vs-villarreal,home,409,Stones,92,D,43.7,39.0
+25-26-champions-league-manchester-city-vs-villarreal,home,418,Doku,50,M,62.2,82.2
+25-26-champions-league-manchester-city-vs-villarreal,home,,B. Silva,93,M,51.8,61.4
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,C. Mawissa,19,D,29.4,70.2
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,F. Balogun,34,F,71.0,53.8
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,M. Biereth,7,F,67.3,40.3
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,A. Fati,42,F,65.0,65.1
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,A. Golovin,40,M,58.1,69.0
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,T. Minamino,17,M,65.3,63.4
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,K. Diatta,53,M,52.3,11.9
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,P. Köhn,40,G,7.7,48.2
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,T. Kehrer,79,D,44.0,24.0
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,M. Salisu,70,D,34.8,57.9
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,C. Henrique,89,D,48.8,75.6
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,K. Ouattara,58,D,53.2,89.2
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,J. Teze,86,D,51.1,35.4
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,M. Coulibaly,90,M,48.5,42.8
+25-26-champions-league-tottenham-hotspur-vs-monaco,away,,M. Akliouche,71,M,64.7,35.0
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,573,Spence,16,D,58.2,85.7
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,726,Kolo Muani,19,F,69.6,38.2
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,593,P.M.Sarr,25,M,39.2,52.0
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,586,Bergvall,23,M,50.2,67.5
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,,Richarlison,27,F,52.5,54.1
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,717,Xavi,26,M,56.9,73.2
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,585,Bentancur,40,M,48.4,36.2
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,580,Johnson,3,F,61.3,26.4
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,565,Vicario,64,G,12.3,48.6
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,591,Gray,60,M,49.1,76.1
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,,P. Porro,84,D,44.8,16.0
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,582,Kudus,62,M,62.1,17.2
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,,J. Palhinha,60,M,44.8,56.7
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,575,Van de Ven,67,D,34.9,60.7
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,588,Odobert,43,F,66.3,77.8
+25-26-champions-league-tottenham-hotspur-vs-monaco,home,570,Danso,84,D,41.3,30.7

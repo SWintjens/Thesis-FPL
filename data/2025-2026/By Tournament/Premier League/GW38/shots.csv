@@ -1,0 +1,293 @@
+match_id,shot_index,minute,added_time,is_home,player_id,player_name,outcome,situation,body_part,xg,xgot,start_x,start_y,goal_mouth_y,goal_mouth_z,goal_mouth_location
+25-26-prem-brighton-hove-albion-vs-manchester-united,1,90,6,True,181,Kostoulas,miss,assisted,head,0.0741,,8.8,48.5,50.6,72.2,high
+25-26-prem-brighton-hove-albion-vs-manchester-united,2,90,5,True,158,Georginio,block,assisted,left-foot,0.0617,,13.4,40.9,49.6,19,low-centre
+25-26-prem-brighton-hove-albion-vs-manchester-united,3,90,2,False,458,Mainoo,miss,assisted,right-foot,0.0277,,26.3,41.5,38,80.6,high-right
+25-26-prem-brighton-hove-albion-vs-manchester-united,4,87,,True,159,March,save,assisted,left-foot,0.0416,0.0216,15.1,66.6,49.9,13.9,low-centre
+25-26-prem-brighton-hove-albion-vs-manchester-united,5,87,,True,783,Groß,save,assisted,left-foot,0.0537,0.2802,16.1,48.8,50.6,24.7,high-centre
+25-26-prem-brighton-hove-albion-vs-manchester-united,6,79,,True,181,Kostoulas,block,regular,right-foot,0.0768,,14,48.4,48.4,19,low-centre
+25-26-prem-brighton-hove-albion-vs-manchester-united,7,78,,False,755,Lacey,miss,assisted,left-foot,0.0316,,23.1,66.7,61.8,4.2,left
+25-26-prem-brighton-hove-albion-vs-manchester-united,8,70,,True,181,Kostoulas,block,assisted,right-foot,0.0358,,26.3,48.7,49.6,19,low-centre
+25-26-prem-brighton-hove-albion-vs-manchester-united,9,64,,True,783,Groß,block,free-kick,right-foot,0.0609,,23.6,40.9,49.5,19,low-centre
+25-26-prem-brighton-hove-albion-vs-manchester-united,10,60,,False,452,Amad,save,assisted,left-foot,0.0924,0.0278,16,57.6,50.3,18.4,low-centre
+25-26-prem-brighton-hove-albion-vs-manchester-united,11,60,,True,167,Baleba,block,regular,left-foot,0.029,,21.8,55.4,50.9,19,low-centre
+25-26-prem-brighton-hove-albion-vs-manchester-united,12,58,,True,169,Gomez,miss,regular,right-foot,0.1394,,14.6,52.4,59,5.6,close-left
+25-26-prem-brighton-hove-albion-vs-manchester-united,13,56,,False,441,Dorgu,save,assisted,left-foot,0.0455,0.0595,7,29.5,51.3,12,low-centre
+25-26-prem-brighton-hove-albion-vs-manchester-united,14,54,,False,458,Mainoo,block,corner,right-foot,0.0759,,8.9,50.5,51.5,19,low-centre
+25-26-prem-brighton-hove-albion-vs-manchester-united,15,53,,False,452,Amad,save,assisted,left-foot,0.0684,0.403,18.6,65.1,46.1,19.6,low-right
+25-26-prem-brighton-hove-albion-vs-manchester-united,16,52,,False,441,Dorgu,save,assisted,left-foot,0.0626,0.0987,8.2,33.8,51.1,7,low-centre
+25-26-prem-brighton-hove-albion-vs-manchester-united,17,48,,False,449,B.Fernandes,goal,fast-break,right-foot,0.0669,0.1802,8.9,69.2,53.1,1.3,low-left
+25-26-prem-brighton-hove-albion-vs-manchester-united,18,44,,False,119,Mbeumo,goal,assisted,left-foot,0.9174,0.9953,2.6,47.8,52.6,3.8,low-left
+25-26-prem-brighton-hove-albion-vs-manchester-united,19,40,,True,169,Gomez,miss,assisted,left-foot,0.1033,,9.7,54,58.3,4.2,close-left
+25-26-prem-brighton-hove-albion-vs-manchester-united,20,35,,False,443,Shaw,miss,assisted,left-foot,0.0284,,18.9,30.9,58.2,33.3,close-left
+25-26-prem-brighton-hove-albion-vs-manchester-united,21,33,,False,441,Dorgu,goal,corner,head,0.2399,0.4134,6.1,53.6,50,30.4,high-centre
+25-26-prem-brighton-hove-albion-vs-manchester-united,22,20,,True,145,De Cuyper,miss,assisted,right-foot,0.0225,,21.2,32.3,42.7,16.7,close-right
+25-26-prem-brighton-hove-albion-vs-manchester-united,23,13,,True,148,F.Kadıoğlu,miss,assisted,right-foot,0.0518,,15.1,32.1,48.1,81.9,high
+25-26-prem-brighton-hove-albion-vs-manchester-united,24,9,,True,169,Gomez,miss,assisted,right-foot,0.0361,,4.8,66.3,32.9,19.4,right
+25-26-prem-burnley-vs-wolverhampton-wanderers,1,90,2,False,640,Pedro Lima,save,assisted,right-foot,0.0834,0.1324,9.5,42.7,50.8,4.4,low-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,2,90,1,True,218,Barnes,save,corner,left-foot,0.2966,0.6751,2,41.5,52.3,14.6,low-left
+25-26-prem-burnley-vs-wolverhampton-wanderers,3,89,,True,195,Lucas Pires,block,assisted,left-foot,0.0443,,21.3,34,49,19,low-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,4,89,,False,749,Mané,miss,regular,left-foot,0.0489,,21.8,53.4,59.2,33.3,close-left
+25-26-prem-burnley-vs-wolverhampton-wanderers,5,88,,True,202,Bruun Larsen,block,assisted,right-foot,0.0243,,17.5,36.6,48.3,19,low-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,6,86,,False,633,H.Bueno,block,assisted,right-foot,0.0811,,13.5,32.5,50.9,19,low-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,7,81,,False,720,Tolu,block,assisted,head,0.1139,,3.8,55.4,49.3,19,low-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,8,79,,True,195,Lucas Pires,save,assisted,right-foot,0.0317,0.0286,19.7,35.6,49.8,0.6,low-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,9,77,,True,206,Edwards,miss,corner,left-foot,0.0431,,14.2,68.7,56,59.7,close-high-left
+25-26-prem-burnley-vs-wolverhampton-wanderers,10,76,,True,195,Lucas Pires,save,assisted,left-foot,0.2478,0.2629,6.4,42.5,51.3,1.3,low-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,11,63,,False,635,R.Gomes,miss,regular,right-foot,0.025,,24.6,63.2,59.7,2.8,left
+25-26-prem-burnley-vs-wolverhampton-wanderers,12,62,,True,200,Anthony,miss,assisted,right-foot,0.049,,14.1,34.2,43.9,80.6,high-right
+25-26-prem-burnley-vs-wolverhampton-wanderers,13,62,,True,207,Hannibal,save,fast-break,right-foot,0.1557,0.1135,9.8,35.6,50,1.3,low-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,14,60,,True,195,Lucas Pires,save,fast-break,left-foot,0.0115,0.0458,51.8,47,52.1,24.7,high-left
+25-26-prem-burnley-vs-wolverhampton-wanderers,15,54,,False,643,André,block,assisted,right-foot,0.0199,,24.1,41.3,49.1,19,low-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,16,51,,False,749,Mané,miss,regular,right-foot,0.0347,,12.6,70.3,49.4,68.1,high
+25-26-prem-burnley-vs-wolverhampton-wanderers,17,51,,False,642,Hee Chan,block,assisted,left-foot,0.0459,,18.3,48.8,52.1,19,low-left
+25-26-prem-burnley-vs-wolverhampton-wanderers,18,47,,True,215,Flemming,goal,assisted,left-foot,0.0332,0.3619,19.5,50.3,54.1,7,low-left
+25-26-prem-burnley-vs-wolverhampton-wanderers,19,46,,True,210,Tchaouna,block,assisted,left-foot,0.0166,,26.6,72.3,50.5,19,low-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,20,45,7,True,722,Florentino,save,assisted,right-foot,0.0323,0.0607,25.3,46.2,48.1,18.4,low-right
+25-26-prem-burnley-vs-wolverhampton-wanderers,21,45,1,True,200,Anthony,save,corner,right-foot,0.0138,0.0332,22.3,63.4,49.4,21.5,high-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,22,45,,True,215,Flemming,block,assisted,head,0.0859,,3.8,40.9,53,19,low-left
+25-26-prem-burnley-vs-wolverhampton-wanderers,23,35,,False,636,S.Bueno,save,corner,right-foot,0.3054,0.448,4.4,48.6,49.4,24.1,high-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,24,35,,False,709,Krejčí,miss,corner,head,0.0419,,9.5,52.7,65.4,8.3,left
+25-26-prem-burnley-vs-wolverhampton-wanderers,25,34,,False,634,Mosquera,block,corner,head,0.2145,,4.5,48.3,49.8,19,low-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,26,31,,False,749,Mané,block,fast-break,right-foot,0.022,,20.6,68.5,48.9,19,low-centre
+25-26-prem-burnley-vs-wolverhampton-wanderers,27,28,,False,634,Mosquera,miss,set-piece,head,0.0139,,9.2,32.5,61,25,left
+25-26-prem-burnley-vs-wolverhampton-wanderers,28,17,,True,676,Ugochukwu,block,assisted,right-foot,0.17,,12.3,39.5,52.1,19,low-left
+25-26-prem-burnley-vs-wolverhampton-wanderers,29,14,,False,749,Mané,save,fast-break,left-foot,0.0488,0.7012,17.3,70.1,54.2,20.3,high-left
+25-26-prem-burnley-vs-wolverhampton-wanderers,30,10,,True,195,Lucas Pires,block,regular,left-foot,0.0149,,26.5,25.6,52.6,19,low-left
+25-26-prem-burnley-vs-wolverhampton-wanderers,31,5,,False,817,Armstrong,goal,penalty,right-foot,0.7884,0.9641,11.5,50,47.4,25.3,high-right
+25-26-prem-burnley-vs-wolverhampton-wanderers,32,3,,False,709,Krejčí,block,corner,head,0.0195,,9.9,57.5,47.1,19,low-right
+25-26-prem-crystal-palace-vs-arsenal,1,90,8,False,266,Eze,save,regular,right-foot,0.0987,0.2233,9.5,43.9,53.2,5.7,low-left
+25-26-prem-crystal-palace-vs-arsenal,2,90,6,False,666,Gyökeres,miss,assisted,right-foot,0.1644,,8.5,66.3,57.5,1.4,close-left
+25-26-prem-crystal-palace-vs-arsenal,3,90,6,True,262,Chadi Riad,save,assisted,head,0.1848,0.1609,8.2,54.9,49.4,17.7,low-centre
+25-26-prem-crystal-palace-vs-arsenal,4,90,1,True,712,Yeremy,block,regular,right-foot,0.1102,,15.3,53.3,52.3,19,low-left
+25-26-prem-crystal-palace-vs-arsenal,5,90,1,True,712,Yeremy,block,assisted,right-foot,0.0883,,14.5,38.9,50.4,19,low-centre
+25-26-prem-crystal-palace-vs-arsenal,6,89,,True,283,Mateta,goal,assisted,head,0.4975,0.8574,6.4,50,47.1,25.9,high-right
+25-26-prem-crystal-palace-vs-arsenal,7,80,,False,22,Merino,miss,assisted,left-foot,0.325,,5.2,51.2,49.6,58.3,close-high
+25-26-prem-crystal-palace-vs-arsenal,8,79,,False,30,Havertz,miss,regular,left-foot,0.0843,,9.5,64.4,73.3,5.6,left
+25-26-prem-crystal-palace-vs-arsenal,9,74,,False,30,Havertz,block,fast-break,left-foot,0.3988,,9.2,47.2,49.1,19,low-centre
+25-26-prem-crystal-palace-vs-arsenal,10,64,,True,690,Cardines,miss,assisted,right-foot,0.018,,13.8,75.4,45.4,61.1,high
+25-26-prem-crystal-palace-vs-arsenal,11,62,,False,725,Hincapie,save,throw-in-set-piece,left-foot,0.0187,0.0735,26.9,46.4,46.7,6.3,low-right
+25-26-prem-crystal-palace-vs-arsenal,12,62,,False,30,Havertz,block,throw-in-set-piece,left-foot,0.0522,,15.7,51.4,52.1,19,low-left
+25-26-prem-crystal-palace-vs-arsenal,13,53,,True,654,Strand Larsen,miss,assisted,right-foot,0.0734,,7.9,64,42.4,59.7,close-high-right
+25-26-prem-crystal-palace-vs-arsenal,14,50,,True,712,Yeremy,miss,throw-in-set-piece,head,0.0695,,7.2,42.2,38.2,5.6,right
+25-26-prem-crystal-palace-vs-arsenal,15,48,,False,18,Madueke,goal,corner,left-foot,0.0395,0.4323,13.2,52.2,52.7,7.6,low-left
+25-26-prem-crystal-palace-vs-arsenal,16,42,,False,31,G.Jesus,goal,assisted,right-foot,0.0438,0.2432,13.1,61.5,46.3,4.4,low-right
+25-26-prem-crystal-palace-vs-arsenal,17,41,,False,18,Madueke,block,assisted,left-foot,0.0501,,16.7,55.8,51.3,13.9,low-centre
+25-26-prem-crystal-palace-vs-arsenal,18,36,,False,18,Madueke,block,assisted,left-foot,0.0354,,13.4,70.5,50,19,low-centre
+25-26-prem-crystal-palace-vs-arsenal,19,22,,False,31,G.Jesus,miss,assisted,head,0.0795,,4.6,40.9,58.2,23.6,close-left
+25-26-prem-crystal-palace-vs-arsenal,20,15,,True,256,Muñoz,save,assisted,head,0.0631,0.4636,9.9,58.1,52.9,7,low-left
+25-26-prem-crystal-palace-vs-arsenal,21,14,,False,19,Martinelli,save,fast-break,right-foot,0.1134,0.0645,8.5,65.1,51.2,3.8,low-centre
+25-26-prem-crystal-palace-vs-arsenal,22,11,,False,31,G.Jesus,save,fast-break,right-foot,0.6168,0.3327,10,56.7,51.1,10.8,low-centre
+25-26-prem-crystal-palace-vs-arsenal,23,10,,False,24,Nørgaard,miss,assisted,right-foot,0.0195,,18.9,73,60.8,5.6,left
+25-26-prem-crystal-palace-vs-arsenal,24,4,,False,18,Madueke,save,regular,left-foot,0.0499,0.0389,13.1,69.6,50,7,low-centre
+25-26-prem-crystal-palace-vs-arsenal,25,4,,False,31,G.Jesus,post,regular,right-foot,0.1081,,15.2,36.1,44.8,6.3,right
+25-26-prem-fulham-vs-newcastle-united,1,90,8,False,501,Neave,block,assisted,right-foot,0.0318,,14.3,66.1,53,19,low-left
+25-26-prem-fulham-vs-newcastle-united,2,90,6,True,337,Raúl,miss,regular,left-foot,0.0347,,26.6,46,67.6,68.1,high-left
+25-26-prem-fulham-vs-newcastle-united,3,90,4,True,324,Iwobi,miss,assisted,right-foot,0.056,,15.7,32,39.8,12.5,right
+25-26-prem-fulham-vs-newcastle-united,4,90,3,True,324,Iwobi,miss,regular,right-foot,0.0723,,7.4,37.8,29.7,2.8,right
+25-26-prem-fulham-vs-newcastle-united,5,90,3,True,329,Wilson,block,assisted,left-foot,0.0596,,19.6,59.2,49.7,19,low-centre
+25-26-prem-fulham-vs-newcastle-united,6,90,,False,487,Barnes,miss,set-piece,head,0.0548,,7.3,57.7,42.2,56.9,close-high-right
+25-26-prem-fulham-vs-newcastle-united,7,88,,False,473,Hall,miss,corner,left-foot,0.021,,24.7,55.8,40.5,9.7,right
+25-26-prem-fulham-vs-newcastle-united,8,83,,True,329,Wilson,miss,regular,left-foot,0.0427,,15.3,31.2,39.7,1.4,right
+25-26-prem-fulham-vs-newcastle-united,9,83,,True,335,King,save,assisted,right-foot,0.0943,0.3253,16.7,50.7,51.9,8.2,low-left
+25-26-prem-fulham-vs-newcastle-united,10,80,,True,331,Cairney,goal,corner,left-foot,0.0188,0.4462,22.3,66.3,53.5,22.8,high-left
+25-26-prem-fulham-vs-newcastle-united,11,77,,False,487,Barnes,block,assisted,right-foot,0.0278,,13.1,34.3,49.2,19,low-centre
+25-26-prem-fulham-vs-newcastle-united,12,75,,True,324,Iwobi,block,assisted,right-foot,0.0232,,11.3,31.4,52.2,19,low-left
+25-26-prem-fulham-vs-newcastle-united,13,74,,True,331,Cairney,miss,fast-break,left-foot,0.1486,,18.2,42.3,43.4,1.4,close-right
+25-26-prem-fulham-vs-newcastle-united,14,70,,True,324,Iwobi,save,assisted,right-foot,0.0395,0.0352,23.1,36.7,51.3,4.4,low-centre
+25-26-prem-fulham-vs-newcastle-united,15,68,,False,494,Willock,miss,assisted,right-foot,0.048,,17,36.4,36.8,30.6,right
+25-26-prem-fulham-vs-newcastle-united,16,62,,True,331,Cairney,miss,assisted,left-foot,0.0352,,23.4,63.7,42.9,4.2,close-right
+25-26-prem-fulham-vs-newcastle-united,17,47,,True,338,Muniz,miss,corner,head,0.066,,8.1,53.3,39.5,23.6,right
+25-26-prem-fulham-vs-newcastle-united,18,45,4,True,324,Iwobi,miss,throw-in-set-piece,right-foot,0.0178,,18.5,70.5,56.5,84.7,high-left
+25-26-prem-fulham-vs-newcastle-united,19,42,,True,319,Castagne,block,fast-break,right-foot,0.0894,,11.2,56.8,45.4,19,low-right
+25-26-prem-fulham-vs-newcastle-united,20,33,,False,494,Willock,save,assisted,right-foot,0.1054,0.1557,6.9,68.3,49.7,4.4,low-centre
+25-26-prem-fulham-vs-newcastle-united,21,32,,False,488,Bruno G.,save,assisted,right-foot,0.0196,0.0085,25.4,28.3,50.1,15.8,low-centre
+25-26-prem-fulham-vs-newcastle-united,22,28,,True,338,Muniz,save,assisted,head,0.0638,0.0184,10.7,47.4,50.5,17.1,low-centre
+25-26-prem-fulham-vs-newcastle-united,23,24,,True,325,Smith Rowe,save,assisted,left-foot,0.0598,0.0238,20.6,53.9,49.4,3.8,low-centre
+25-26-prem-fulham-vs-newcastle-united,24,20,,True,320,Diop,goal,set-piece,head,0.7813,0.9803,7.1,46.8,50.6,15.2,low-centre
+25-26-prem-fulham-vs-newcastle-united,25,19,,True,731,Kevin,post,free-kick,right-foot,0.0398,,28.2,42.5,54.4,39.9,high
+25-26-prem-fulham-vs-newcastle-united,26,15,,True,316,Robinson,block,assisted,left-foot,0.021,,23.9,32.8,50,19,low-centre
+25-26-prem-fulham-vs-newcastle-united,27,10,,True,324,Iwobi,block,assisted,right-foot,0.0495,,8.4,65.7,49.7,19,low-centre
+25-26-prem-fulham-vs-newcastle-united,28,1,,True,338,Muniz,block,assisted,right-foot,0.0293,,19.8,39,53.4,19,low-left
+25-26-prem-liverpool-vs-brentford,1,90,10,False,83,O.Dango,miss,assisted,head,0.3022,,7.8,49.5,57.5,56.9,close-high-left
+25-26-prem-liverpool-vs-brentford,2,90,10,False,120,Schade,block,assisted,head,0.0998,,7.7,51.9,49.6,19,low-centre
+25-26-prem-liverpool-vs-brentford,3,90,8,True,386,Mac Allister,save,assisted,head,0.0595,0.0405,10,50,50.2,7,low-centre
+25-26-prem-liverpool-vs-brentford,4,90,6,True,382,Wirtz,save,fast-break,right-foot,0.529,0.3674,6.6,62.2,49.1,1.3,low-centre
+25-26-prem-liverpool-vs-brentford,5,90,3,False,136,Thiago,block,assisted,left-foot,0.0342,,12,35,49.2,19,low-centre
+25-26-prem-liverpool-vs-brentford,6,90,2,True,387,Szoboszlai,save,assisted,left-foot,0.3997,0.211,8.2,56.5,49.8,15.2,low-centre
+25-26-prem-liverpool-vs-brentford,7,88,,True,373,Virgil,miss,regular,right-foot,0.0731,,20.1,57,44.7,84.7,high
+25-26-prem-liverpool-vs-brentford,8,87,,True,371,Kerkez,block,fast-break,left-foot,0.028,,20.7,31.1,52.4,19,low-left
+25-26-prem-liverpool-vs-brentford,9,82,,True,382,Wirtz,miss,assisted,right-foot,0.1622,,14.9,44.7,61.5,6.9,left
+25-26-prem-liverpool-vs-brentford,10,81,,False,136,Thiago,miss,assisted,left-foot,0.0202,,10,30,1.3,2.8,right
+25-26-prem-liverpool-vs-brentford,11,80,,False,126,Jensen,miss,free-kick,right-foot,0.0371,,16.4,13.5,49.7,54.2,close-high
+25-26-prem-liverpool-vs-brentford,12,72,,False,83,O.Dango,miss,corner,head,0.0986,,6.8,54.3,49.7,75,high
+25-26-prem-liverpool-vs-brentford,13,64,,False,120,Schade,goal,regular,head,0.1341,0.2108,6.9,52.2,52.6,17.1,low-left
+25-26-prem-liverpool-vs-brentford,14,64,,False,107,Lewis-Potter,block,regular,right-foot,0.0349,,13.9,28.2,53.3,19,low-left
+25-26-prem-liverpool-vs-brentford,15,58,,True,388,C.Jones,goal,fast-break,right-foot,0.6319,0.9653,7.6,46.1,52.3,5.7,low-left
+25-26-prem-liverpool-vs-brentford,16,53,,False,83,O.Dango,miss,fast-break,left-foot,0.1238,,19.5,60.5,59.5,16.7,left
+25-26-prem-liverpool-vs-brentford,17,52,,True,381,M.Salah,save,assisted,left-foot,0.1046,0.0946,16,53.8,48.4,1.9,low-centre
+25-26-prem-liverpool-vs-brentford,18,50,,True,374,Konaté,miss,corner,head,0.0639,,8.3,54.2,29.7,4.2,right
+25-26-prem-liverpool-vs-brentford,19,48,,True,384,Gakpo,block,assisted,right-foot,0.0512,,14.2,66.8,52.2,19,low-left
+25-26-prem-liverpool-vs-brentford,20,46,,True,386,Mac Allister,block,assisted,right-foot,0.1047,,16.8,51.2,49.2,19,low-centre
+25-26-prem-liverpool-vs-brentford,21,43,,True,384,Gakpo,block,fast-break,head,0.1578,,9.7,47.3,51.6,19,low-centre
+25-26-prem-liverpool-vs-brentford,22,43,,False,120,Schade,save,throw-in-set-piece,right-foot,0.5653,0.6335,5.5,53.2,51.4,17.7,low-centre
+25-26-prem-liverpool-vs-brentford,23,41,,True,686,Ngumoha,miss,assisted,right-foot,0.0737,,18,35,42.7,19.4,close-right
+25-26-prem-liverpool-vs-brentford,24,38,,True,390,Gravenberch,save,assisted,right-foot,0.0436,0.2546,19.7,37.6,46.4,16.5,low-right
+25-26-prem-liverpool-vs-brentford,25,34,,True,372,Robertson,block,assisted,left-foot,0.0327,,17.8,26,48.9,19,low-centre
+25-26-prem-liverpool-vs-brentford,26,33,,True,381,M.Salah,block,assisted,left-foot,0.036,,7.9,68.4,45.4,19,low-right
+25-26-prem-liverpool-vs-brentford,27,22,,True,387,Szoboszlai,miss,assisted,left-foot,0.0197,,10.5,27.9,39.5,5.6,right
+25-26-prem-liverpool-vs-brentford,28,21,,True,386,Mac Allister,miss,corner,right-foot,0.1342,,3.6,57.1,44.4,93.1,high
+25-26-prem-liverpool-vs-brentford,29,20,,True,381,M.Salah,save,regular,right-foot,0.0403,0.6119,2.9,66,54.5,34.2,high-left
+25-26-prem-liverpool-vs-brentford,30,19,,True,390,Gravenberch,miss,set-piece,left-foot,0.0569,,14,52,61.2,61.1,high-left
+25-26-prem-liverpool-vs-brentford,31,19,,True,381,M.Salah,post,free-kick,left-foot,0.0732,,19.5,34.4,55.3,22.8,left
+25-26-prem-liverpool-vs-brentford,32,16,,True,686,Ngumoha,block,corner,left-foot,0.0519,,13.2,36.4,52.7,19,low-left
+25-26-prem-liverpool-vs-brentford,33,7,,False,120,Schade,miss,assisted,head,0.1139,,7.2,53.5,40,4.2,right
+25-26-prem-liverpool-vs-brentford,34,4,,True,374,Konaté,save,corner,head,0.0764,0.1362,8.1,49.2,51.3,15.8,low-centre
+25-26-prem-liverpool-vs-brentford,35,2,,True,386,Mac Allister,block,corner,right-foot,0.0406,,20,46.6,50.3,19,low-centre
+25-26-prem-manchester-city-vs-aston-villa,1,90,10,True,422,Kovačić,block,assisted,right-foot,0.0737,,18.1,46.7,51.9,19,low-left
+25-26-prem-manchester-city-vs-aston-villa,2,90,8,True,418,Doku,block,assisted,right-foot,0.025,,12.3,31.5,51.9,19,low-left
+25-26-prem-manchester-city-vs-aston-villa,3,90,7,False,48,Tielemans,save,assisted,right-foot,0.0181,0.0089,25.6,34.3,50.4,12.7,low-centre
+25-26-prem-manchester-city-vs-aston-villa,4,88,,False,64,Watkins,miss,corner,head,0.1127,,4,56.7,38.5,36.1,right
+25-26-prem-manchester-city-vs-aston-villa,5,87,,False,54,McGinn,save,assisted,left-foot,0.0598,0.5592,19.3,47.7,54.2,21.5,high-left
+25-26-prem-manchester-city-vs-aston-villa,6,86,,True,418,Doku,miss,assisted,right-foot,0.0208,,21.6,31.2,43,26.4,close-right
+25-26-prem-manchester-city-vs-aston-villa,7,83,,False,41,Pau,miss,set-piece,right-foot,0.1547,,5.2,57.3,38.8,9.7,right
+25-26-prem-manchester-city-vs-aston-villa,8,76,,False,49,Bailey,post,assisted,left-foot,0.1205,,8.2,34.3,55.5,29.1,left
+25-26-prem-manchester-city-vs-aston-villa,9,75,,False,64,Watkins,block,corner,head,0.2046,,4.2,47.1,50.9,19,low-centre
+25-26-prem-manchester-city-vs-aston-villa,10,68,,True,417,Cherki,miss,assisted,right-foot,0.0266,,18.9,69.2,70.6,9.7,left
+25-26-prem-manchester-city-vs-aston-villa,11,62,,False,64,Watkins,goal,fast-break,right-foot,0.4587,0.8992,5.7,57.5,53.9,1.9,low-left
+25-26-prem-manchester-city-vs-aston-villa,12,56,,False,50,Buendía,save,regular,left-foot,0.0293,0.0811,11.9,35.1,52.6,16.5,low-left
+25-26-prem-manchester-city-vs-aston-villa,13,56,,False,39,Maatsen,block,assisted,left-foot,0.0198,,12.5,24.1,48.2,19,low-right
+25-26-prem-manchester-city-vs-aston-villa,14,53,,False,50,Buendía,miss,free-kick,right-foot,0.0524,,23.6,66,45.5,79.2,high
+25-26-prem-manchester-city-vs-aston-villa,15,50,,False,49,Bailey,miss,assisted,left-foot,0.0682,,12.7,64,61.3,37.5,left
+25-26-prem-manchester-city-vs-aston-villa,16,47,,False,64,Watkins,goal,corner,left-foot,0.2779,0.913,3.6,47.2,53.3,14.6,low-left
+25-26-prem-manchester-city-vs-aston-villa,17,43,,True,405,Aké,block,corner,head,0.1759,,3.5,42.9,52.5,19,low-left
+25-26-prem-manchester-city-vs-aston-villa,18,43,,True,427,Reijnders,save,assisted,right-foot,0.0709,0.2982,9.1,65.2,49.7,30.4,high-centre
+25-26-prem-manchester-city-vs-aston-villa,19,39,,True,423,N.Gonzalez,block,corner,left-foot,0.1814,,12.1,43.9,49.9,19,low-centre
+25-26-prem-manchester-city-vs-aston-villa,20,37,,True,415,Savinho,miss,assisted,left-foot,0.0269,,8.7,26,2,19.4,right
+25-26-prem-manchester-city-vs-aston-villa,21,34,,True,427,Reijnders,miss,free-kick,right-foot,0.0369,,25.4,36.4,47.4,91.7,high
+25-26-prem-manchester-city-vs-aston-villa,22,30,,True,410,Lewis,block,regular,right-foot,0.1242,,18.9,55.6,49.9,19,low-centre
+25-26-prem-manchester-city-vs-aston-villa,23,29,,True,415,Savinho,block,regular,left-foot,0.0651,,8.9,37,50.6,19,low-centre
+25-26-prem-manchester-city-vs-aston-villa,24,23,,True,82,Semenyo,goal,corner,right-foot,0.1794,0.7462,4.4,59.9,54.2,13.9,low-left
+25-26-prem-manchester-city-vs-aston-villa,25,21,,True,427,Reijnders,miss,set-piece,right-foot,0.0203,,25,54.6,65,6.9,left
+25-26-prem-manchester-city-vs-aston-villa,26,12,,True,416,Bernardo,save,assisted,left-foot,0.1326,0.2379,3.6,37.2,52.3,4.4,low-left
+25-26-prem-manchester-city-vs-aston-villa,27,10,,True,427,Reijnders,miss,assisted,left-foot,0.0794,,5.4,38.2,57.3,19.4,close-left
+25-26-prem-manchester-city-vs-aston-villa,28,5,,True,415,Savinho,miss,corner,left-foot,0.014,,8.6,26.6,23.9,54.2,high-right
+25-26-prem-nottingham-forest-vs-afc-bournemouth,1,90,1,False,98,Enes Ünal,save,free-kick,right-foot,0.1117,0.0535,24.5,53.4,50,32.9,high-centre
+25-26-prem-nottingham-forest-vs-afc-bournemouth,2,86,,False,81,Kluivert,block,assisted,right-foot,0.0633,,10.2,35.4,52.4,19,low-left
+25-26-prem-nottingham-forest-vs-afc-bournemouth,3,79,,True,522,Yates,save,corner,left-foot,0.1041,,6.1,56.2,47.5,19,low-right
+25-26-prem-nottingham-forest-vs-afc-bournemouth,4,79,,True,519,Dominguez,block,corner,right-foot,0.2004,,6,51,49.9,19,low-centre
+25-26-prem-nottingham-forest-vs-afc-bournemouth,5,76,,True,515,Gibbs-White,block,fast-break,right-foot,0.3705,,3.3,44.7,50.9,19,low-centre
+25-26-prem-nottingham-forest-vs-afc-bournemouth,6,70,,True,527,Awoniyi,miss,corner,head,0.1719,,1.9,41.4,57.1,20.8,close-left
+25-26-prem-nottingham-forest-vs-afc-bournemouth,7,64,,False,391,Gannon-Doak,miss,assisted,right-foot,0.04,,18.9,29.8,35.3,81.9,high-right
+25-26-prem-nottingham-forest-vs-afc-bournemouth,8,62,,False,100,E. J. Kroupi,save,assisted,right-foot,0.0295,0.0801,11.5,27,48.2,27.2,high-centre
+25-26-prem-nottingham-forest-vs-afc-bournemouth,9,60,,True,517,Anderson,miss,assisted,right-foot,0.012,,27.4,50.4,91.1,18.1,left
+25-26-prem-nottingham-forest-vs-afc-bournemouth,10,60,,False,391,Gannon-Doak,save,assisted,right-foot,0.1758,0.1346,12.1,40.9,51.2,12.7,low-centre
+25-26-prem-nottingham-forest-vs-afc-bournemouth,11,58,,False,84,Tavernier,miss,regular,left-foot,0.0286,,25.3,46.1,50.3,87.5,high
+25-26-prem-nottingham-forest-vs-afc-bournemouth,12,58,,False,807,Rayan,block,assisted,left-foot,0.0732,,20.9,53.3,52.4,19,low-left
+25-26-prem-nottingham-forest-vs-afc-bournemouth,13,54,,False,84,Tavernier,goal,assisted,left-foot,0.1127,0.2118,13.3,39.3,51.3,28.5,high-centre
+25-26-prem-nottingham-forest-vs-afc-bournemouth,14,45,,True,525,Wood,save,assisted,head,0.0283,0.0782,12.2,51.3,51,33.5,high-centre
+25-26-prem-nottingham-forest-vs-afc-bournemouth,15,45,,True,508,N.Williams,block,corner,right-foot,0.0246,,10.3,31.2,49.6,19,low-centre
+25-26-prem-nottingham-forest-vs-afc-bournemouth,16,45,,True,508,N.Williams,save,corner,right-foot,0.0422,0.059,9.1,27.4,52.3,13.3,low-left
+25-26-prem-nottingham-forest-vs-afc-bournemouth,17,44,,True,526,Igor Jesus,block,assisted,right-foot,0.0553,,21.4,54.6,53,19,low-left
+25-26-prem-nottingham-forest-vs-afc-bournemouth,18,34,,True,515,Gibbs-White,goal,free-kick,right-foot,0.0775,0.0679,22.8,44.9,53.3,12,low-left
+25-26-prem-nottingham-forest-vs-afc-bournemouth,19,32,,True,508,N.Williams,miss,corner,right-foot,0.0298,,25,43.9,38.7,68.1,high-right
+25-26-prem-nottingham-forest-vs-afc-bournemouth,20,32,,True,525,Wood,post,corner,head,0.5308,,4.3,48.7,55.4,18.4,left
+25-26-prem-nottingham-forest-vs-afc-bournemouth,21,29,,True,526,Igor Jesus,save,fast-break,left-foot,0.0664,0.2908,15,61.5,47.7,15.8,low-right
+25-26-prem-nottingham-forest-vs-afc-bournemouth,22,28,,False,100,E. J. Kroupi,block,assisted,right-foot,0.0338,,19.5,46.1,50.1,19,low-centre
+25-26-prem-nottingham-forest-vs-afc-bournemouth,23,23,,False,100,E. J. Kroupi,miss,corner,right-foot,0.0487,,13.4,61.8,43.2,80.6,high-right
+25-26-prem-nottingham-forest-vs-afc-bournemouth,24,22,,False,100,E. J. Kroupi,block,assisted,right-foot,0.0232,,20.2,36.9,53.9,20.8,high-left
+25-26-prem-nottingham-forest-vs-afc-bournemouth,25,21,,False,100,E. J. Kroupi,block,regular,right-foot,0.036,,23.1,44.3,51,19,low-centre
+25-26-prem-nottingham-forest-vs-afc-bournemouth,26,20,,False,100,E. J. Kroupi,block,assisted,right-foot,0.0287,,24.2,33.1,49.9,19,low-centre
+25-26-prem-nottingham-forest-vs-afc-bournemouth,27,18,,False,97,Evanilson,miss,assisted,right-foot,0.0598,,19.7,48.4,50.9,69.4,high
+25-26-prem-nottingham-forest-vs-afc-bournemouth,28,16,,True,515,Gibbs-White,miss,assisted,left-foot,0.1284,,14.7,51.7,61.2,66.7,high-left
+25-26-prem-nottingham-forest-vs-afc-bournemouth,29,12,,False,84,Tavernier,block,free-kick,left-foot,0.0672,,23.2,58.8,49.7,19,low-centre
+25-26-prem-nottingham-forest-vs-afc-bournemouth,30,10,,False,85,Adams,miss,regular,right-foot,0.0206,,24.8,35.9,57.5,40.3,close-high-left
+25-26-prem-nottingham-forest-vs-afc-bournemouth,31,6,,False,801,Tóth.A,miss,assisted,left-foot,0.0505,,15.8,56.9,49.9,69.4,high
+25-26-prem-nottingham-forest-vs-afc-bournemouth,32,4,,True,526,Igor Jesus,block,regular,right-foot,0.0427,,17.8,61,50.7,19,low-centre
+25-26-prem-sunderland-vs-chelsea,1,90,3,False,233,Acheampong,block,assisted,right-foot,0.0219,,22.3,55.8,51,19,low-centre
+25-26-prem-sunderland-vs-chelsea,2,88,,True,560,Isidor,block,fast-break,right-foot,0.106,,10.8,33.4,48.2,19,low-right
+25-26-prem-sunderland-vs-chelsea,3,86,,False,225,James,save,assisted,right-foot,0.0189,0.094,26.6,37.1,51.5,10.1,low-centre
+25-26-prem-sunderland-vs-chelsea,4,79,,True,560,Isidor,miss,assisted,right-foot,0.0211,,12.2,27.1,43.4,48.6,close-high-right
+25-26-prem-sunderland-vs-chelsea,5,77,,False,235,Palmer,miss,assisted,left-foot,0.0401,,22,54.5,63.7,61.1,high-left
+25-26-prem-sunderland-vs-chelsea,6,73,,True,547,E.Le Fée,save,regular,right-foot,0.0132,0.0915,15.1,23.9,53.4,16.5,low-left
+25-26-prem-sunderland-vs-chelsea,7,70,,True,694,Mukiele,block,set-piece,right-foot,0.0446,,13.2,36.8,50.8,19,low-centre
+25-26-prem-sunderland-vs-chelsea,8,70,,True,544,Diarra,block,set-piece,left-foot,0.0534,,12,50,50,19,low-centre
+25-26-prem-sunderland-vs-chelsea,9,68,,True,544,Diarra,miss,assisted,right-foot,0.0255,,18.8,70,58.7,5.6,close-left
+25-26-prem-sunderland-vs-chelsea,10,59,,True,813,Angulo,miss,fast-break,left-foot,0.1611,,4.6,37.5,56.5,6.9,close-left
+25-26-prem-sunderland-vs-chelsea,11,56,,False,235,Palmer,goal,assisted,left-foot,0.0247,0.0257,22.2,65.5,46.8,7.6,low-right
+25-26-prem-sunderland-vs-chelsea,12,55,,True,539,O'Nien,save,set-piece,left-foot,0.0158,0.0664,6.5,25.5,53.2,12.7,low-left
+25-26-prem-sunderland-vs-chelsea,13,52,,True,813,Angulo,miss,fast-break,right-foot,0.0652,,9.9,31.3,0.8,5.6,right
+25-26-prem-sunderland-vs-chelsea,15,50,,True,730,Brobbey,miss,assisted,right-foot,0.6671,,5.6,54.6,56.6,16.7,close-left
+25-26-prem-sunderland-vs-chelsea,16,46,,True,730,Brobbey,save,fast-break,right-foot,0.3922,0.2485,10.6,58.6,48.8,11.4,low-centre
+25-26-prem-sunderland-vs-chelsea,17,44,,True,532,Hume,miss,assisted,right-foot,0.0497,,21.7,49.3,40.2,18.1,right
+25-26-prem-sunderland-vs-chelsea,18,38,,False,249,João Pedro,miss,assisted,head,0.5489,,4.3,47.4,39.2,16.7,right
+25-26-prem-sunderland-vs-chelsea,19,35,,True,813,Angulo,block,assisted,left-foot,0.0164,,7.3,24.9,53.5,19,low-left
+25-26-prem-sunderland-vs-chelsea,20,31,,True,730,Brobbey,miss,assisted,right-foot,0.0446,,11.3,70.1,41.8,13.9,close-right
+25-26-prem-sunderland-vs-chelsea,21,25,,True,532,Hume,goal,assisted,right-foot,0.0507,0.2517,13.9,63.4,46.4,15.2,low-right
+25-26-prem-sunderland-vs-chelsea,22,24,,True,730,Brobbey,block,regular,right-foot,0.0137,,22.9,64.3,52.7,19,low-left
+25-26-prem-sunderland-vs-chelsea,23,21,,True,813,Angulo,save,assisted,right-foot,0.0246,0.0096,26.8,45,50,26.6,high-centre
+25-26-prem-sunderland-vs-chelsea,24,19,,True,694,Mukiele,miss,assisted,right-foot,0.0295,,10.7,69.2,99.2,5.6,left
+25-26-prem-sunderland-vs-chelsea,25,19,,True,539,O'Nien,block,assisted,right-foot,0.084,,7.3,58.6,48.8,19,low-centre
+25-26-prem-sunderland-vs-chelsea,26,15,,False,241,Caicedo,block,set-piece,right-foot,0.0433,,12.9,55.1,50.4,19,low-centre
+25-26-prem-sunderland-vs-chelsea,27,15,,False,249,João Pedro,miss,set-piece,other,0.0456,,9.5,47.3,34.5,23.6,right
+25-26-prem-sunderland-vs-chelsea,28,11,,True,694,Mukiele,block,regular,right-foot,0.0261,,24.8,59.4,51,19,low-centre
+25-26-prem-sunderland-vs-chelsea,29,6,,True,547,E.Le Fée,save,assisted,right-foot,0.0349,0.1577,15.6,68,46.9,19.6,low-right
+25-26-prem-sunderland-vs-chelsea,30,4,,False,235,Palmer,save,assisted,left-foot,0.1522,0.234,10.8,64.3,47.5,5.1,low-right
+25-26-prem-tottenham-hotspur-vs-everton,1,90,11,False,295,Keane,miss,corner,head,0.0396,,9.5,46.2,72.4,2.8,left
+25-26-prem-tottenham-hotspur-vs-everton,2,90,10,False,291,Tarkowski,miss,corner,head,0.0601,,8.5,48.5,50.4,65.3,high
+25-26-prem-tottenham-hotspur-vs-everton,3,90,9,False,243,George,save,set-piece,right-foot,0.0318,0.0461,14.2,32.9,49,22.8,high-centre
+25-26-prem-tottenham-hotspur-vs-everton,4,90,6,False,301,Alcaraz,miss,assisted,head,0.0916,,8,47.2,59,29.2,close-left
+25-26-prem-tottenham-hotspur-vs-everton,5,90,3,False,295,Keane,miss,assisted,head,0.0308,,13.7,58.4,49.1,59.7,close-high
+25-26-prem-tottenham-hotspur-vs-everton,6,75,,True,726,Kolo Muani,miss,corner,right-foot,0.0168,,26.2,30.3,46.2,69.4,high
+25-26-prem-tottenham-hotspur-vs-everton,7,60,,True,584,Tel,block,regular,right-foot,0.0284,,14.2,38,52,19,low-left
+25-26-prem-tottenham-hotspur-vs-everton,8,50,,True,570,Danso,block,corner,head,0.0554,,9.2,49.7,49.5,19,low-centre
+25-26-prem-tottenham-hotspur-vs-everton,9,49,,True,568,Pedro Porro,block,corner,left-foot,0.0118,,22.6,64.4,49.8,19,low-centre
+25-26-prem-tottenham-hotspur-vs-everton,10,49,,True,597,Richarlison,miss,corner,head,0.0477,,10.3,51.7,98.8,6.9,left
+25-26-prem-tottenham-hotspur-vs-everton,11,48,,True,573,Spence,save,assisted,left-foot,0.0207,0.0456,15.5,75.8,46.6,8.2,low-right
+25-26-prem-tottenham-hotspur-vs-everton,12,45,,False,303,Garner,miss,throw-in-set-piece,left-foot,0.0451,,24.3,52.1,32.4,2.8,right
+25-26-prem-tottenham-hotspur-vs-everton,13,45,,False,295,Keane,block,throw-in-set-piece,head,0.0197,,11.4,60.3,47.5,19,low-right
+25-26-prem-tottenham-hotspur-vs-everton,14,43,,True,673,J.Palhinha,goal,corner,left-foot,0.2243,0.7256,4.6,55.6,51.2,0.6,low-centre
+25-26-prem-tottenham-hotspur-vs-everton,15,43,,True,673,J.Palhinha,post,corner,head,0.2502,,3.8,53.6,44.7,27.8,right
+25-26-prem-tottenham-hotspur-vs-everton,16,40,,True,584,Tel,block,assisted,right-foot,0.0337,,14.5,30.7,47.1,19,low-right
+25-26-prem-tottenham-hotspur-vs-everton,17,35,,True,570,Danso,block,corner,head,0.0734,,9.2,48.9,46.3,19,low-right
+25-26-prem-tottenham-hotspur-vs-everton,18,35,,True,673,J.Palhinha,block,regular,right-foot,0.0183,,25.6,64.8,54.4,19,low-left
+25-26-prem-tottenham-hotspur-vs-everton,19,33,,False,299,Ndiaye,block,assisted,left-foot,0.053,,16.1,50.7,50.9,19,low-centre
+25-26-prem-tottenham-hotspur-vs-everton,20,32,,False,242,Dewsbury-Hall,block,assisted,left-foot,0.0158,,21.2,67.9,53.3,19,low-left
+25-26-prem-tottenham-hotspur-vs-everton,21,22,,False,310,Barry,miss,set-piece,head,0.027,,11.6,53.2,69.9,13.9,left
+25-26-prem-tottenham-hotspur-vs-everton,22,16,,True,673,J.Palhinha,block,assisted,right-foot,0.0213,,20.2,33,50.9,19,low-centre
+25-26-prem-tottenham-hotspur-vs-everton,23,14,,True,673,J.Palhinha,miss,set-piece,right-foot,0.0455,,6.4,64.6,45,79.2,high
+25-26-prem-tottenham-hotspur-vs-everton,24,10,,True,570,Danso,miss,corner,right-foot,0.0476,,9.9,43.8,59.3,6.9,left
+25-26-prem-tottenham-hotspur-vs-everton,25,10,,True,570,Danso,miss,corner,head,0.0202,,11,44.8,39.2,1.4,right
+25-26-prem-tottenham-hotspur-vs-everton,26,9,,True,574,Udogie,block,assisted,left-foot,0.0202,,11.8,28.9,49,19,low-centre
+25-26-prem-tottenham-hotspur-vs-everton,27,6,,True,796,Gallagher,miss,throw-in-set-piece,left-foot,0.1776,,7,39.9,57,25,close-left
+25-26-prem-tottenham-hotspur-vs-everton,28,6,,True,575,Van de Ven,miss,throw-in-set-piece,head,0.0313,,9.8,56.6,72.4,6.9,left
+25-26-prem-tottenham-hotspur-vs-everton,29,6,,True,568,Pedro Porro,block,regular,left-foot,0.0442,,21.3,70.3,48.2,19,low-centre
+25-26-prem-tottenham-hotspur-vs-everton,30,4,,True,597,Richarlison,miss,corner,head,0.0147,,9.8,40.3,1.5,20.8,right
+25-26-prem-west-ham-united-vs-leeds-united,1,90,4,True,671,Wilson,goal,corner,right-foot,0.0282,0.2395,22.5,43.3,46.9,14.6,low-right
+25-26-prem-west-ham-united-vs-leeds-united,2,90,3,True,624,Bowen,block,corner,head,0.1271,,6.9,50.1,45.4,19.4,low-right
+25-26-prem-west-ham-united-vs-leeds-united,3,90,3,True,671,Wilson,save,regular,left-foot,0.3849,0.5262,5.8,52.8,51,22.8,high-centre
+25-26-prem-west-ham-united-vs-leeds-united,4,90,1,False,345,Bornauw,miss,corner,head,0.2003,,4.8,49.3,43.4,8.3,close-right
+25-26-prem-west-ham-united-vs-leeds-united,5,87,,False,362,Piroe,save,assisted,head,0.0391,0.0991,11.7,53.4,51.6,9.5,low-centre
+25-26-prem-west-ham-united-vs-leeds-united,6,85,,False,362,Piroe,miss,corner,right-foot,0.009,,10.1,72.6,85.5,11.1,left
+25-26-prem-west-ham-united-vs-leeds-united,7,84,,False,168,Buonanotte,block,assisted,left-foot,0.0227,,23.1,55.8,51.8,19,low-left
+25-26-prem-west-ham-united-vs-leeds-united,8,79,,True,624,Bowen,goal,fast-break,right-foot,0.1065,0.3411,5.7,67.1,53.8,3.2,low-left
+25-26-prem-west-ham-united-vs-leeds-united,9,67,,True,791,Taty,goal,corner,head,0.3761,0.8535,4.4,46.6,51.9,23.4,high-left
+25-26-prem-west-ham-united-vs-leeds-united,10,65,,True,671,Wilson,block,assisted,right-foot,0.033,,19.8,48.9,49.2,19,low-centre
+25-26-prem-west-ham-united-vs-leeds-united,11,53,,True,791,Taty,miss,regular,right-foot,0.06,,2.6,64.6,42,65.3,high-right
+25-26-prem-west-ham-united-vs-leeds-united,12,53,,True,615,Summerville,block,regular,right-foot,0.0361,,12.5,35.6,50.9,19,low-centre
+25-26-prem-west-ham-united-vs-leeds-united,13,51,,False,350,Aaronson,miss,set-piece,right-foot,0.0361,,15.7,55.2,66.9,9.7,left
+25-26-prem-west-ham-united-vs-leeds-united,14,51,,False,350,Aaronson,block,free-kick,right-foot,0.137,,18.4,56.4,49.6,19,low-centre
+25-26-prem-west-ham-united-vs-leeds-united,15,47,,True,791,Taty,save,assisted,right-foot,0.3484,0.0928,8.4,49.6,47.8,3.8,low-right
+25-26-prem-west-ham-united-vs-leeds-united,16,47,,False,350,Aaronson,save,assisted,right-foot,0.0881,0.0342,20.6,57.2,50.5,2.5,low-centre
+25-26-prem-west-ham-united-vs-leeds-united,17,45,2,True,785,P. Felipe,miss,assisted,left-foot,0.1865,,2.7,40.6,57.1,37.5,close-left
+25-26-prem-west-ham-united-vs-leeds-united,18,45,1,True,613,Souček,save,regular,right-foot,0.2705,0.3163,3.9,45.6,52.4,3.8,low-left
+25-26-prem-west-ham-united-vs-leeds-united,19,45,1,True,613,Souček,save,regular,right-foot,0.3844,0.8499,4.8,46.9,52.9,1.3,low-left
+25-26-prem-west-ham-united-vs-leeds-united,20,43,,True,791,Taty,miss,corner,head,0.0434,,9,54.7,56.5,69.4,high-left
+25-26-prem-west-ham-united-vs-leeds-united,21,40,,False,342,Bogle,miss,assisted,right-foot,0.0339,,10.8,76.6,42.7,33.3,close-right
+25-26-prem-west-ham-united-vs-leeds-united,22,39,,False,691,Calvert-Lewin,block,assisted,right-foot,0.1462,,13.5,61,49.7,19,low-centre
+25-26-prem-west-ham-united-vs-leeds-united,23,35,,False,691,Calvert-Lewin,save,fast-break,left-foot,0.3358,0.3297,7,47.2,51.9,3.2,low-left
+25-26-prem-west-ham-united-vs-leeds-united,24,24,,False,350,Aaronson,block,assisted,right-foot,0.0237,,23.5,64,49.3,19,low-centre
+25-26-prem-west-ham-united-vs-leeds-united,25,23,,True,708,M.Fernandes,save,assisted,right-foot,0.0147,0.0468,30.7,30.5,53.6,11.4,low-left
+25-26-prem-west-ham-united-vs-leeds-united,26,16,,True,613,Souček,miss,assisted,head,0.2746,,4.3,49.1,53.1,61.1,high
+25-26-prem-west-ham-united-vs-leeds-united,27,16,,True,785,P. Felipe,save,regular,right-foot,0.0429,,12.2,36.6,47.2,23.6,high-right
+25-26-prem-west-ham-united-vs-leeds-united,28,7,,False,365,Nmecha,miss,assisted,left-foot,0.3968,,4.4,51.9,65.9,11.1,left
+25-26-prem-west-ham-united-vs-leeds-united,29,7,,False,706,Justin,miss,assisted,left-foot,0.1244,,9,34,32.3,8.3,right

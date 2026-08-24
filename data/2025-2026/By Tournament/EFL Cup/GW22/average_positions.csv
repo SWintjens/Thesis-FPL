@@ -1,0 +1,64 @@
+match_id,team_side,player_id,player_name,jersey_number,position,x,y
+25-26-efl-cup-arsenal-vs-chelsea,away,,M. Guiu,20,F,60.7,50.0
+25-26-efl-cup-arsenal-vs-chelsea,away,232,Tosin,13,D,34.9,43.3
+25-26-efl-cup-arsenal-vs-chelsea,away,672,Hato,14,D,30.9,74.3
+25-26-efl-cup-arsenal-vs-chelsea,away,,A. Garnacho,24,F,53.9,78.9
+25-26-efl-cup-arsenal-vs-chelsea,away,233,Acheampong,31,D,47.2,17.8
+25-26-efl-cup-arsenal-vs-chelsea,away,,B. Badiashile,33,D,29.5,66.1
+25-26-efl-cup-arsenal-vs-chelsea,away,,M. Cucurella,53,D,44.9,85.2
+25-26-efl-cup-arsenal-vs-chelsea,away,,S. Mheuka,5,F,60.2,70.9
+25-26-efl-cup-arsenal-vs-chelsea,away,237,Enzo,114,M,51.0,58.7
+25-26-efl-cup-arsenal-vs-chelsea,away,,J. Pedro,50,F,53.3,71.3
+25-26-efl-cup-arsenal-vs-chelsea,away,,Estêvão,66,M,60.2,24.0
+25-26-efl-cup-arsenal-vs-chelsea,away,230,Fofana,76,D,32.1,51.2
+25-26-efl-cup-arsenal-vs-chelsea,away,226,Chalobah,68,D,34.5,29.9
+25-26-efl-cup-arsenal-vs-chelsea,away,,P. Neto,55,M,66.5,46.6
+25-26-efl-cup-arsenal-vs-chelsea,away,,A. Santos,73,M,41.6,41.0
+25-26-efl-cup-arsenal-vs-chelsea,away,,R. Sánchez,77,G,10.6,49.5
+25-26-efl-cup-arsenal-vs-chelsea,home,,G. Martinelli,11,F,67.6,71.9
+25-26-efl-cup-arsenal-vs-chelsea,home,30,Havertz,10,F,64.4,23.1
+25-26-efl-cup-arsenal-vs-chelsea,home,,M. Merino,22,M,57.1,44.9
+25-26-efl-cup-arsenal-vs-chelsea,home,,G. Jesus,10,F,54.2,53.0
+25-26-efl-cup-arsenal-vs-chelsea,home,666,Gyökeres,22,F,76.9,57.7
+25-26-efl-cup-arsenal-vs-chelsea,home,17,Ødegaard,35,M,59.9,42.4
+25-26-efl-cup-arsenal-vs-chelsea,home,8,J.Timber,54,D,46.9,82.0
+25-26-efl-cup-arsenal-vs-chelsea,home,,B. White,55,D,46.3,13.6
+25-26-efl-cup-arsenal-vs-chelsea,home,21,Rice,70,M,49.9,65.7
+25-26-efl-cup-arsenal-vs-chelsea,home,20,Trossard,48,F,64.7,77.4
+25-26-efl-cup-arsenal-vs-chelsea,home,,G. Magalhaes,68,D,29.7,67.1
+25-26-efl-cup-arsenal-vs-chelsea,home,,M. Zubimendi,62,M,52.9,41.2
+25-26-efl-cup-arsenal-vs-chelsea,home,16,Saka,63,F,62.4,18.7
+25-26-efl-cup-arsenal-vs-chelsea,home,,K. Arrizabalaga,61,G,13.6,52.0
+25-26-efl-cup-arsenal-vs-chelsea,home,6,Saliba,72,D,36.1,31.3
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,714,Woltemade,15,F,67.9,48.7
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,135,Wissa,15,F,65.9,55.6
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,491,Tonali,25,M,50.0,49.7
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,486,Elanga,20,F,49.6,23.1
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,487,Barnes,23,F,54.3,66.4
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,497,L.Miley,56,M,40.8,20.8
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,489,J.Murphy,17,F,61.5,16.3
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,485,Gordon,33,F,50.2,70.9
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,52,J.Ramsey,33,M,39.2,37.1
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,469,Pope,40,G,10.4,51.5
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,478,Trippier,13,D,34.7,11.6
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,684,Thiaw,56,D,31.8,30.8
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,,B. Guimarães,57,M,48.1,56.2
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,475,Botman,71,D,28.8,66.9
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,,Joelinton,68,M,49.6,71.7
+25-26-efl-cup-manchester-city-vs-newcastle-united,away,473,Hall,98,D,43.7,76.9
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,427,Reijnders,18,M,59.7,44
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,430,Haaland,26,F,56.1,54.7
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,410,Lewis,24,D,54.2,13.3
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,402,Aït-Nouri,12,D,67.5,91.7
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,414,Foden,48,M,63.4,40.7
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,417,Cherki,22,M,71.3,43.3
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,,Rodri,34,M,51.1,44.6
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,407,Matheus N.,46,D,49.6,14.5
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,182,Trafford,56,G,10.1,46.5
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,405,Aké,60,D,55.6,81.3
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,,B. Silva,72,M,53.9,56.3
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,418,Doku,55,M,69.9,80.7
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,82,Semenyo,63,M,65.9,31.7
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,794,Alleyne,82,D,39.7,56.4
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,411,O'Reilly,65,D,51.9,45.3
+25-26-efl-cup-manchester-city-vs-newcastle-united,home,406,Khusanov,83,D,43.6,28.1

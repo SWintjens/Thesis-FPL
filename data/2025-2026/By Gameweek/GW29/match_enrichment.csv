@@ -1,0 +1,11 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status,home_shot_model_xg,away_shot_model_xg,incident_timing_coverage,unlocated_card_count,quarantined_incident_count
+25-26-prem-afc-bournemouth-vs-brentford,,,,,,False,False,confirmed,1.9246,0.4124,limited,0,0
+25-26-prem-aston-villa-vs-chelsea,,,,,,False,False,confirmed,0.8035,3.6008,limited,0,0
+25-26-prem-brighton-hove-albion-vs-arsenal,,,,,,False,False,confirmed,0.8198,0.4685,limited,0,0
+25-26-prem-everton-vs-burnley,,,,,,False,False,confirmed,1.3064,0.7128,limited,0,0
+25-26-prem-fulham-vs-west-ham-united,,,,,,False,False,confirmed,0.8885,1.0268,limited,0,0
+25-26-prem-leeds-united-vs-sunderland,,,,,,False,False,confirmed,1.1504,0.8707,limited,0,0
+25-26-prem-manchester-city-vs-nottingham-forest,,,,,,False,False,confirmed,2.1815,0.9715,limited,0,0
+25-26-prem-newcastle-united-vs-manchester-united,,,,,,False,False,confirmed,2.4821,1.4889,limited,0,0
+25-26-prem-tottenham-hotspur-vs-crystal-palace,,,,,,False,False,confirmed,1.0877,1.741,limited,0,0
+25-26-prem-wolverhampton-wanderers-vs-liverpool,,,,,,False,False,confirmed,0.4779,2.5596,limited,0,0

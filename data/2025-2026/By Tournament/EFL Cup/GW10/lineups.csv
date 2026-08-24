@@ -1,0 +1,41 @@
+match_id,team_side,team_code,player_id,player_name,position,jersey_number,is_starting,formation,lineup_status
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,674,A. Ramsdale,G,32,True,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,479,E. Krafth,D,17,True,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,474,F. Schär,D,5,True,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,684,M. Thiaw,D,12,True,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,476,D. Burn,D,33,True,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,494,J. Willock,M,28,True,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,491,S. Tonali,M,8,True,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,52,J. Ramsey,M,41,True,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,486,A. Elanga,F,20,True,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,714,N. Woltemade,F,27,True,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,487,H. Barnes,F,11,True,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,490,Joelinton,M,7,False,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,500,W. Osula,F,18,False,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,478,K. Trippier,D,2,False,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,,B. Guimarães,M,39,False,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,485,A. Gordon,F,10,False,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,469,N. Pope,G,1,False,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,475,S. Botman,D,4,False,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,497,L. Miley,M,67,False,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,4,489,J. Murphy,M,23,False,4-3-3,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,567,A. Kinský,G,31,True,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,,P. Porro,D,23,True,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,673,J. Palhinha,D,6,True,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,570,K. Danso,D,4,True,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,573,D. Spence,D,24,True,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,585,R. Bentancur,M,30,True,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,593,P. Sarr,M,29,True,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,580,B. Johnson,M,22,True,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,717,X. Simons,M,7,True,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,586,L. Bergvall,M,15,True,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,597,Richarlison,F,9,True,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,582,M. Kudus,M,20,False,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,726,R. Kolo Muani,F,39,False,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,584,M. Tel,F,11,False,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,566,B. Austin,G,40,False,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,,L. Gunter,G,46,False,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,575,M. van de Ven,D,37,False,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,750,J. Rowswell,D,76,False,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,595,C. Olusesi,M,52,False,4-2-3-1,confirmed
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,6,599,D. Scarlett,F,44,False,4-2-3-1,confirmed

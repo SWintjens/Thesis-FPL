@@ -1,0 +1,11 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status,home_shot_model_xg,away_shot_model_xg,incident_timing_coverage,unlocated_card_count,quarantined_incident_count
+25-26-prem-manchester-united-vs-wolverhampton-wanderers,,,,,,False,False,confirmed,0.8376,1.2949,limited,0,0
+25-26-prem-liverpool-vs-leeds-united,,,,,,False,False,confirmed,2.1107,0.6946,limited,0,0
+25-26-prem-chelsea-vs-afc-bournemouth,,,,,,False,False,confirmed,2.3125,3.1381,limited,0,0
+25-26-prem-arsenal-vs-aston-villa,,,,,,False,False,confirmed,3.0436,3.3847,limited,0,0
+25-26-prem-west-ham-united-vs-brighton-hove-albion,,,,,,False,False,confirmed,2.0771,2.9415,limited,0,0
+25-26-prem-nottingham-forest-vs-everton,,,,,,False,False,confirmed,1.5533,1.2576,limited,0,0
+25-26-prem-burnley-vs-newcastle-united,,,,,,False,False,confirmed,1.0998,3.0736,limited,0,0
+25-26-prem-brentford-vs-tottenham-hotspur,,,,,,False,False,confirmed,0.9237,0.8623,limited,0,0
+25-26-prem-sunderland-vs-manchester-city,,,,,,False,False,confirmed,0.8831,2.2495,limited,0,0
+25-26-prem-crystal-palace-vs-fulham,,,,,,False,False,confirmed,1.9136,1.7614,limited,0,0

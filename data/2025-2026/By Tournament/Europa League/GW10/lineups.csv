@@ -1,0 +1,89 @@
+match_id,team_side,team_code,player_id,player_name,position,jersey_number,is_starting,formation,lineup_status
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,E. Martínez,G,23,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,V. Lindelöf,D,3,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,E. Konsa,D,4,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,P. Torres,D,14,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,I. Maatsen,D,22,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,L. Bogarde,M,26,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,A. Onana,M,24,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,E. Guessand,M,29,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,M. Rogers,M,27,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,J. Sancho,M,19,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,D. Malen,F,17,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,B. Kamara,M,44,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,O. Watkins,F,11,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,E. Buendía,M,10,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,J. McGinn,M,7,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,Y. Tielemans,M,8,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,L. Digne,D,12,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,H. Elliott,M,9,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,M. Cash,D,2,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,B. Broggio,M,62,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,33,M. Bizot,G,40,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,R. Oakley,G,95,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,7,,R. Barkley,M,6,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,R. Mashpati,G,90,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,T. Asante,D,6,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,R. Shlomo,D,13,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,M. Camara,D,5,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,R. Revivo,D,3,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,I. Sissokho,M,28,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,I. Noy,M,30,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,O. Davida,M,77,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,D. Peretz,M,42,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,H. Varela,M,29,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,E. Madmon,F,19,True,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,Heitor,D,4,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,I. Shahar,M,36,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,S. Jehezkel,D,11,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,K. Andrade,F,10,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,I. Nicolaescu,F,98,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,I. B. Hamo,D,41,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,D. Gropper,D,14,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,O. Melika,G,22,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,S. A. Farchi,F,34,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,N. B. Harush,D,21,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,Y. Gerafi,G,1,False,4-2-3-1,confirmed
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,,B. Lederman,M,23,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,O. Christensen,G,1,True,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,A. Malić,D,23,True,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,E. Aiwu,D,47,True,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,N. Geyrhofer,D,35,True,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,E. Karić,D,17,True,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,T. Horvat,M,19,True,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,J. G. Stanković,M,4,True,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,J. Hödl,M,43,True,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,O. Kiteishvili,M,10,True,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,F. Rózga,F,8,True,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,M. Malone,F,77,True,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,D. Lavalėe,D,24,False,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,S. Jatta,F,20,False,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,A. Kayombo,F,11,False,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,S. Hierlander,M,25,False,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,J. Mitchell,D,2,False,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,M. Bignetti,G,40,False,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,D. Khudyakov,G,53,False,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,T. Oermann,D,5,False,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,J. Beck,M,22,False,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,,L. Grgić,F,38,False,4-3-1-2,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,715,John,G,13,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,N. Savona,D,37,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,N. Milenković,D,31,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,F. Morato,D,4,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,508,N. Williams,D,3,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,R. Yates,M,22,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,I. Sangaré,M,6,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,J. McAtee,M,24,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,M. Gibbs-White,M,10,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,N. Domínguez,M,16,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,A. Kalimuendo,F,15,True,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,D. Ndoye,F,14,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,506,Murillo,D,5,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,Z. Abbott,D,44,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,M. Sels,G,26,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,W. Boly,D,30,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,K. Willows,G,67,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,J. Sinclair,M,61,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,B. Hammond,D,64,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,J. Thompson,D,58,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,17,,A. Whitehall,M,51,False,4-2-3-1,confirmed

@@ -1,0 +1,6 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status
+25-26-champions-league-ajax-vs-chelsea,,,,,,False,False,confirmed
+25-26-champions-league-benfica-vs-newcastle-united,,,,,,False,False,confirmed
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,,,,,,False,False,confirmed
+25-26-champions-league-manchester-city-vs-villarreal,,,,,,False,False,confirmed
+25-26-champions-league-tottenham-hotspur-vs-monaco,,,,,,False,False,confirmed

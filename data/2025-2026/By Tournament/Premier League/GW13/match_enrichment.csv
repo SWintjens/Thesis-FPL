@@ -1,0 +1,11 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status,home_shot_model_xg,away_shot_model_xg,incident_timing_coverage,unlocated_card_count,quarantined_incident_count
+25-26-prem-sunderland-vs-afc-bournemouth,,,,,,False,False,confirmed,1.4749,1.8643,limited,0,1
+25-26-prem-chelsea-vs-arsenal,,,,,,False,False,confirmed,0.7948,1.0635,limited,0,0
+25-26-prem-manchester-city-vs-leeds-united,,,,,,False,False,confirmed,3.098,2.2503,limited,0,0
+25-26-prem-west-ham-united-vs-liverpool,,,,,,False,False,confirmed,0.3072,1.2407,limited,0,0
+25-26-prem-everton-vs-newcastle-united,,,,,,False,False,confirmed,0.9898,1.9053,limited,0,0
+25-26-prem-crystal-palace-vs-manchester-united,,,,,,False,False,confirmed,1.819,1.3571,limited,0,0
+25-26-prem-aston-villa-vs-wolverhampton-wanderers,,,,,,False,False,confirmed,0.9372,0.3985,limited,0,0
+25-26-prem-brentford-vs-burnley,,,,,,False,False,confirmed,3.0629,0.9466,limited,0,0
+25-26-prem-tottenham-hotspur-vs-fulham,,,,,,False,False,confirmed,0.8644,0.4491,limited,0,0
+25-26-prem-nottingham-forest-vs-brighton-hove-albion,,,,,,False,False,confirmed,0.889,2.0066,limited,0,0

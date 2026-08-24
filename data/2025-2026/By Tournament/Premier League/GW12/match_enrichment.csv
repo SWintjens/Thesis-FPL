@@ -1,0 +1,11 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status,home_shot_model_xg,away_shot_model_xg,incident_timing_coverage,unlocated_card_count,quarantined_incident_count
+25-26-prem-manchester-united-vs-everton,,,,,,False,False,confirmed,1.7079,0.2125,available,0,0
+25-26-prem-brighton-hove-albion-vs-brentford,,,,,,False,False,confirmed,1.2159,1.9775,available,0,0
+25-26-prem-leeds-united-vs-aston-villa,,,,,,False,False,confirmed,1.9579,1.5773,available,0,0
+25-26-prem-liverpool-vs-nottingham-forest,,,,,,False,False,confirmed,1.9296,1.6109,available,0,0
+25-26-prem-fulham-vs-sunderland,,,,,,False,False,confirmed,2.1578,0.2028,available,0,0
+25-26-prem-burnley-vs-chelsea,,,,,,False,False,confirmed,0.4116,1.7172,available,0,1
+25-26-prem-afc-bournemouth-vs-west-ham-united,,,,,,False,False,confirmed,4.0976,0.6351,available,0,0
+25-26-prem-wolverhampton-wanderers-vs-crystal-palace,,,,,,False,False,confirmed,1.8579,1.2747,available,0,0
+25-26-prem-newcastle-united-vs-manchester-city,,,,,,False,False,confirmed,2.6529,2.4912,available,1,0
+25-26-prem-arsenal-vs-tottenham-hotspur,,,,,,False,False,confirmed,1.9287,0.0731,available,0,0

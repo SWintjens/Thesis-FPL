@@ -1,0 +1,11 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status,home_shot_model_xg,away_shot_model_xg,incident_timing_coverage,unlocated_card_count,quarantined_incident_count
+25-26-prem-sunderland-vs-arsenal,,,,,,False,False,confirmed,0.4235,2.0007,available,0,0
+25-26-prem-chelsea-vs-wolverhampton-wanderers,,,,,,False,False,confirmed,3.3321,0.1971,available,0,0
+25-26-prem-manchester-city-vs-liverpool,,,,,,False,False,confirmed,1.5104,0.7416,available,0,0
+25-26-prem-brentford-vs-newcastle-united,,,,,,False,False,confirmed,2.3545,0.421,available,0,0
+25-26-prem-tottenham-hotspur-vs-manchester-united,,,,,,False,False,confirmed,0.9237,0.7654,available,0,0
+25-26-prem-west-ham-united-vs-burnley,,,,,,False,False,confirmed,3.1254,1.0628,available,0,0
+25-26-prem-everton-vs-fulham,,,,,,False,False,confirmed,1.4393,0.4057,available,0,0
+25-26-prem-nottingham-forest-vs-leeds-united,,,,,,False,False,confirmed,2.5509,0.7378,available,0,0
+25-26-prem-crystal-palace-vs-brighton-hove-albion,,,,,,False,False,confirmed,0.7476,0.3767,available,0,1
+25-26-prem-aston-villa-vs-afc-bournemouth,,,,,,False,False,confirmed,1.6985,1.6099,available,0,0

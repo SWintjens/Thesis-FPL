@@ -1,0 +1,7 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status
+25-26-efl-cup-bradford-city-vs-newcastle-united,,,,,,False,False,confirmed
+25-26-efl-cup-brighton-hove-albion-vs-barnsley,,,,,,False,False,confirmed
+25-26-efl-cup-cardiff-city-vs-burnley,,,,,,False,False,confirmed
+25-26-efl-cup-doncaster-rovers-vs-tottenham-hotspur,,,,,,False,False,confirmed
+25-26-efl-cup-everton-vs-wolverhampton-wanderers,,,,,,False,False,confirmed
+25-26-efl-cup-southampton-vs-liverpool,,,,,,False,False,confirmed

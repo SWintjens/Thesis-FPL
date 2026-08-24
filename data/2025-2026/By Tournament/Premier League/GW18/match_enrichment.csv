@@ -1,0 +1,11 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status,home_shot_model_xg,away_shot_model_xg,incident_timing_coverage,unlocated_card_count,quarantined_incident_count
+25-26-prem-arsenal-vs-brighton-hove-albion,,,,,,False,False,confirmed,3.2656,0.8497,limited,0,0
+25-26-prem-chelsea-vs-aston-villa,,,,,,False,False,confirmed,2.1436,1.2477,limited,0,0
+25-26-prem-liverpool-vs-wolverhampton-wanderers,,,,,,False,False,confirmed,1.5437,1.2777,limited,0,0
+25-26-prem-nottingham-forest-vs-manchester-city,,,,,,False,False,confirmed,0.5965,1.4524,limited,0,1
+25-26-prem-burnley-vs-everton,,,,,,False,False,confirmed,1.4105,0.8486,limited,0,1
+25-26-prem-sunderland-vs-leeds-united,,,,,,False,False,confirmed,0.7012,2.1671,limited,0,0
+25-26-prem-manchester-united-vs-newcastle-united,,,,,,False,False,confirmed,1.2705,1.178,limited,0,0
+25-26-prem-brentford-vs-afc-bournemouth,,,,,,False,False,confirmed,3.5548,2.716,limited,0,0
+25-26-prem-west-ham-united-vs-fulham,,,,,,False,False,confirmed,0.9113,1.6245,limited,0,0
+25-26-prem-crystal-palace-vs-tottenham-hotspur,,,,,,False,False,confirmed,1.4706,0.8806,limited,0,0

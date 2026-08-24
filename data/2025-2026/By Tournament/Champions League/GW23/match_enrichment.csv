@@ -1,0 +1,7 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status
+25-26-champions-league-arsenal-vs-inter,,,,,,False,False,confirmed
+25-26-champions-league-borussia-dortmund-vs-tottenham-hotspur,,,,,,False,False,confirmed
+25-26-champions-league-liverpool-vs-marseille,,,,,,False,False,confirmed
+25-26-champions-league-manchester-city-vs-bodø/glimt,,,,,,False,False,confirmed
+25-26-champions-league-pafos-fc-vs-chelsea,,,,,,False,False,confirmed
+25-26-champions-league-psv-eindhoven-vs-newcastle-united,,,,,,False,False,confirmed

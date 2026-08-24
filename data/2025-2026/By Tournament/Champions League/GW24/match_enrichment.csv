@@ -1,0 +1,7 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status
+25-26-champions-league-chelsea-vs-napoli,,,,,,False,False,confirmed
+25-26-champions-league-galatasaray-vs-manchester-city,,,,,,False,False,confirmed
+25-26-champions-league-kairat-almaty-vs-arsenal,,,,,,False,False,confirmed
+25-26-champions-league-newcastle-united-vs-paris-saint-germain,,,,,,False,False,confirmed
+25-26-champions-league-qarabag-fk-vs-liverpool,,,,,,False,False,confirmed
+25-26-champions-league-tottenham-hotspur-vs-eintracht-frankfurt,,,,,,False,False,confirmed

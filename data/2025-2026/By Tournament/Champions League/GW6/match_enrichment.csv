@@ -1,0 +1,6 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status
+25-26-champions-league-benfica-vs-chelsea,,,,,,False,False,confirmed
+25-26-champions-league-manchester-city-vs-monaco,,,,,,False,False,confirmed
+25-26-champions-league-newcastle-united-vs-union-st.gilloise,,,,,,False,False,confirmed
+25-26-champions-league-olympiacos-vs-arsenal,,,,,,False,False,confirmed
+25-26-champions-league-tottenham-hotspur-vs-bodø/glimt,,,,,,False,False,confirmed

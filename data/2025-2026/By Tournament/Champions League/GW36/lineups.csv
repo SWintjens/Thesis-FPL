@@ -1,0 +1,45 @@
+match_id,team_side,team_code,player_id,player_name,position,jersey_number,is_starting,formation,lineup_status
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,D. Raya,G,1,True,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,8,J. Timber,D,12,True,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,W. Saliba,D,2,True,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,5,Gabriel,D,6,True,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,M. Lewis-Skelly,D,49,True,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,E. Eze,M,10,True,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,M. Zubimendi,M,36,True,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,D. Rice,M,41,True,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,B. Saka,F,7,True,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,V. Gyökeres,F,14,True,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,G. Martinelli,F,11,True,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,C. Mosquera,D,3,False,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,C. Nørgaard,M,16,False,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,E. Nwaneri,M,22,False,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,B. White,D,4,False,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,M. Merino,M,23,False,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,K. Arrizabalaga,G,13,False,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,P. Hincapié,D,5,False,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,R. Calafiori,D,33,False,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,T. Setford,G,35,False,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,away,3,,L. Trossard,F,19,False,4-3-3,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,J. Oblak,G,13,True,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,M. Llorente,D,14,True,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,R. Le Normand,D,24,True,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,J. M. Giménez,D,2,True,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,D. Hancko,D,17,True,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,G. Simeone,M,20,True,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,P. Barrios,M,8,True,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,Koke,M,6,True,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,N. González,M,23,True,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,J. Álvarez,F,19,True,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,A. Sørloth,F,9,True,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,M. Ruggeri,D,3,False,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,C. Gallagher,M,4,False,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,A. Baena,M,10,False,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,A. Griezmann,F,7,False,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,T. Almada,M,11,False,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,J. Musso,G,1,False,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,C. Martín,F,12,False,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,C. Lenglet,D,15,False,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,N. Molina,D,16,False,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,Pubill,D,18,False,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,J. Galán,D,21,False,4-4-2,confirmed
+25-26-champions-league-atletico-madrid-vs-arsenal,home,,,G. Raspadori,F,22,False,4-4-2,confirmed

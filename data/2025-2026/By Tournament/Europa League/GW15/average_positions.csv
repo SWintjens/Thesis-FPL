@@ -1,0 +1,64 @@
+match_id,team_side,player_id,player_name,jersey_number,position,x,y
+25-26-europa-league-aston-villa-vs-basel,away,,A. Ajeti,13,F,67.7,47.3
+25-26-europa-league-aston-villa-vs-basel,away,,X. Shaqiri,27,M,54.6,61.4
+25-26-europa-league-aston-villa-vs-basel,away,,K. Koindredi,15,M,59.8,31.7
+25-26-europa-league-aston-villa-vs-basel,away,,B. Traore,34,M,44.1,28.6
+25-26-europa-league-aston-villa-vs-basel,away,,A. Bačanin,37,M,49.7,67.0
+25-26-europa-league-aston-villa-vs-basel,away,,I. Salah,16,F,71.7,17.9
+25-26-europa-league-aston-villa-vs-basel,away,,M. Hitz,39,G,12.4,50.0
+25-26-europa-league-aston-villa-vs-basel,away,,L. Leroy,46,M,46.7,36.8
+25-26-europa-league-aston-villa-vs-basel,away,,M. Broschinski,3,F,82.4,48.3
+25-26-europa-league-aston-villa-vs-basel,away,,M. Šotiček,4,M,74.2,88.0
+25-26-europa-league-aston-villa-vs-basel,away,,K. Tsunemoto,77,D,39.0,15.4
+25-26-europa-league-aston-villa-vs-basel,away,,P. Otele,65,M,52.9,75.7
+25-26-europa-league-aston-villa-vs-basel,away,,J. A. Adjetey,68,D,32.9,33.0
+25-26-europa-league-aston-villa-vs-basel,away,,D. Schmid,77,D,47.2,81.5
+25-26-europa-league-aston-villa-vs-basel,away,,F. Daniliuc,83,D,34.5,67.4
+25-26-europa-league-aston-villa-vs-basel,away,,Metinho,64,M,39.5,45.9
+25-26-europa-league-aston-villa-vs-basel,home,47,Rogers,26,M,45.9,70.6
+25-26-europa-league-aston-villa-vs-basel,home,58,Kamara,21,M,44.1,40.0
+25-26-europa-league-aston-villa-vs-basel,home,33,M.Bizot,56,G,10.6,49.1
+25-26-europa-league-aston-villa-vs-basel,home,53,Malen,31,F,61.7,42.1
+25-26-europa-league-aston-villa-vs-basel,home,677,Guessand,52,F,62.0,14.9
+25-26-europa-league-aston-villa-vs-basel,home,456,Sancho,38,M,63.7,83.8
+25-26-europa-league-aston-villa-vs-basel,home,64,Watkins,18,F,64.6,53.6
+25-26-europa-league-aston-villa-vs-basel,home,36,Cash,45,D,49.1,15.5
+25-26-europa-league-aston-villa-vs-basel,home,,E. Buendía,51,M,60.8,42.2
+25-26-europa-league-aston-villa-vs-basel,home,,E. Konsa,93,D,32.7,29.8
+25-26-europa-league-aston-villa-vs-basel,home,719,Lindelöf,100,D,32.2,70.4
+25-26-europa-league-aston-villa-vs-basel,home,54,McGinn,5,M,41.7,45.3
+25-26-europa-league-aston-villa-vs-basel,home,37,Digne,83,D,53.4,88.4
+25-26-europa-league-aston-villa-vs-basel,home,48,Tielemans,35,M,47.4,58.3
+25-26-europa-league-aston-villa-vs-basel,home,59,Onana,70,M,47.7,53.5
+25-26-europa-league-aston-villa-vs-basel,home,44,Bogarde,99,M,39.9,24.6
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,M. Jonathans,1,F,55,12.7
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,A. Blake,13,F,66.6,75.2
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,Y. Cathline,37,M,52.8,69.5
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,D. De Wit,35,M,36.0,36.3
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,M. Van der Hoorn,25,D,31.5,37.3
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,N. Viergever,12,D,40.8,60.1
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,M. Eerdhuijzen,61,D,27.9,72.2
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,M. Didden,49,D,29.1,37.9
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,V. Barkas,57,G,8.0,50.6
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,G. Zechiël,58,M,39.9,65.7
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,M. Rodríguez,61,M,52.1,29.0
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,S. El Karouani,90,D,46.1,81.7
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,A. Engwanda,55,M,38.3,45.8
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,S. Haller,45,F,53.0,49.0
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,S. Horemans,58,D,43.4,18.6
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,515,Gibbs-White,11,M,68.4,51.8
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,505,Milenković,24,D,31.5,42.3
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,,J. Victor,33,G,10.1,51.5
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,669,Ndoye,33,M,65.9,25.2
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,696,Kalimuendo,29,F,63.7,63.3
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,426,McAtee,37,M,64.4,33.3
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,,D. Luiz,58,M,50.0,43.9
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,521,Sangaré,52,M,42.0,37.8
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,519,Dominguez,70,M,55.5,49.1
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,516,Hudson-Odoi,57,M,67.9,74.7
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,513,Abbott,71,D,46.4,14.9
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,12,Zinchenko,72,D,51.2,83.7
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,,I. Jesus,10,F,72.6,48.8
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,,Murillo,66,D,37.3,62.4
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,517,Anderson,59,M,55.8,61.9
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,,Morato,78,D,37.6,41.4

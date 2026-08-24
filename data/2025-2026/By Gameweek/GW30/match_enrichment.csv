@@ -1,0 +1,15 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status,home_shot_model_xg,away_shot_model_xg,incident_timing_coverage,unlocated_card_count,quarantined_incident_count
+25-26-champions-league-barcelona-vs-newcastle-united,,,,,,False,False,confirmed,,,,,
+25-26-champions-league-liverpool-vs-galatasaray,,,,,,False,False,confirmed,,,,,
+25-26-champions-league-manchester-city-vs-real-madrid,,,,,,False,False,confirmed,,,,,
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,,,,,,False,False,confirmed,,,,,
+25-26-prem-arsenal-vs-everton,,,,,,False,False,confirmed,2.6983,1.1964,limited,0,1
+25-26-prem-brentford-vs-wolverhampton-wanderers,,,,,,False,False,confirmed,2.7146,1.335,limited,0,0
+25-26-prem-burnley-vs-afc-bournemouth,,,,,,False,False,confirmed,1.2623,2.5529,limited,0,0
+25-26-prem-chelsea-vs-newcastle-united,,,,,,False,False,confirmed,1.3864,1.3819,limited,0,0
+25-26-prem-crystal-palace-vs-leeds-united,,,,,,False,False,confirmed,0.6735,1.1447,limited,0,2
+25-26-prem-liverpool-vs-tottenham-hotspur,,,,,,False,False,confirmed,1.6966,1.1814,limited,0,1
+25-26-prem-manchester-united-vs-aston-villa,,,,,,False,False,confirmed,1.1042,1.0094,limited,0,0
+25-26-prem-nottingham-forest-vs-fulham,,,,,,False,False,confirmed,0.947,1.0337,limited,0,0
+25-26-prem-sunderland-vs-brighton-hove-albion,,,,,,False,False,confirmed,0.8951,1.6775,limited,0,0
+25-26-prem-west-ham-united-vs-manchester-city,,,,,,False,False,confirmed,0.2681,2.0296,limited,0,0

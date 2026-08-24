@@ -1,0 +1,81 @@
+match_id,team_side,team_code,player_id,player_name,position,jersey_number,is_starting,formation,lineup_status
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,67,Đ. Petrović,G,1,True,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,78,J. Araujo,D,2,True,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,77,J. Hill,D,23,True,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,685,B. Diakité,D,18,True,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,,J. Soler,D,20,True,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,87,R. Christie,M,10,True,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,90,A. Scott,M,8,True,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,391,B. Doak,M,11,True,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,81,J. Kluivert,M,19,True,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,697,A. Adli,M,17,True,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,,E. J. Kroupi,F,22,True,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,,M. Senesi,D,5,False,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,82,A. Semenyo,F,24,False,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,86,D. Brooks,M,7,False,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,97,Evanilson,F,9,False,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,85,T. Adams,M,12,False,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,68,W. Dennis,G,40,False,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,73,A. Smith,D,15,False,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,74,A. Truffert,D,3,False,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,91,84,M. Tavernier,M,16,False,4-2-3-1,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,105,H. R. Valdimarsson,G,12,True,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,108,K. Ajer,D,20,True,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,113,S. van den Berg,D,4,True,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,111,E. Pinnock,D,5,True,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,116,A. Hickey,M,2,True,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,128,F. Onyeka,M,15,True,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,126,M. Jensen,M,8,True,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,109,R. Henry,M,3,True,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,122,A. Milambo,F,17,True,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,120,K. Schade,F,7,True,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,,F. Carvalho,F,14,True,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,106,N. Collins,D,22,False,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,110,M. Kayode,D,33,False,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,83,D. Ouattara,F,19,False,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,,I. Thiago,F,9,False,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,129,Y. Yarmoliuk,M,18,False,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,101,C. Kelleher,G,1,False,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,107,K. Lewis-Potter,F,23,False,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,133,M. Peart-Harris,M,25,False,3-4-1-2,confirmed
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,94,121,M. Damsgaard,M,24,False,3-4-1-2,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,664,B. Lecomte,G,23,True,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,319,T. Castagne,D,21,True,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,320,I. Diop,D,31,True,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,321,J. Cuenca,D,15,True,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,328,R. Sessegnon,D,30,True,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,336,H. Reed,M,6,True,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,331,T. Cairney,M,10,True,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,,A. Traoré,M,11,True,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,329,H. Wilson,M,8,True,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,325,E. Smith Rowe,M,32,True,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,,R. Jiménez,F,7,True,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,318,C. Bassey,D,3,False,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,324,A. Iwobi,F,17,False,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,,R. Muniz,F,9,False,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,,J. King,M,24,False,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,332,S. Lukić,M,20,False,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,314,B. Leno,G,1,False,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,322,K. Tete,D,2,False,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,317,J. Andersen,D,5,False,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,away,54,330,S. Berge,M,16,False,4-2-3-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,J. Lumley,G,13,True,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,G. Tanner,D,19,True,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,R. Dickie,D,16,True,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,Z. Vyner,D,14,True,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,Y. Hirakawa,M,7,True,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,J. Knight,M,12,True,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,M. Bird,M,6,True,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,R. McCrorie,M,2,True,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,S. Bell,F,20,True,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,J. Stokes,F,26,True,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,S. Armstrong,F,30,True,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,A. Mehmeti,M,11,False,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,M. Sykes,M,17,False,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,A. Randell,M,4,False,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,F. Mayulu,F,9,False,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,H. Roberts,D,24,False,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,L. Thomas,G,32,False,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,E. R. Jacobsen,F,18,False,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,S. Twine,M,10,False,3-4-2-1,confirmed
+25-26-efl-cup-bristol-city-vs-fulham,home,,,H. Cornick,F,27,False,3-4-2-1,confirmed

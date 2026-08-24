@@ -1,0 +1,582 @@
+match_id,team_side,player_id,player_name,jersey_number,position,x,y
+25-26-champions-league-arsenal-vs-slavia-prague,away,,V. Kušej,8,F,40.1,76.6
+25-26-champions-league-arsenal-vs-slavia-prague,away,,T. Chorý,21,F,69.4,33.8
+25-26-champions-league-arsenal-vs-slavia-prague,away,,D. Moses,25,M,57.7,14.0
+25-26-champions-league-arsenal-vs-slavia-prague,away,,D. Doudera,7,M,66.1,8.1
+25-26-champions-league-arsenal-vs-slavia-prague,away,,M. Sadílek,44,M,53.3,45.0
+25-26-champions-league-arsenal-vs-slavia-prague,away,,C. Zafeiris,30,M,55.9,38.8
+25-26-champions-league-arsenal-vs-slavia-prague,away,,D. Zima,39,D,39.6,57.0
+25-26-champions-league-arsenal-vs-slavia-prague,away,,T. Vlček,39,D,42.2,19.8
+25-26-champions-league-arsenal-vs-slavia-prague,away,,J. Markovič,47,G,10.2,48.8
+25-26-champions-league-arsenal-vs-slavia-prague,away,,M. Cham-Saračević,8,M,41.3,48.6
+25-26-champions-league-arsenal-vs-slavia-prague,away,,S. Chaloupek,54,D,33.0,45.3
+25-26-champions-league-arsenal-vs-slavia-prague,away,,M. Chytil,15,F,74.1,33.9
+25-26-champions-league-arsenal-vs-slavia-prague,away,,D. Hashioka,1,D,53.1,18.9
+25-26-champions-league-arsenal-vs-slavia-prague,away,,L. Provod,49,F,59.8,41.4
+25-26-champions-league-arsenal-vs-slavia-prague,away,,Y. Sanyang,58,M,47.6,68.1
+25-26-champions-league-arsenal-vs-slavia-prague,away,,Y. Mbodji,47,D,38.7,76.5
+25-26-champions-league-arsenal-vs-slavia-prague,home,10,Lewis-Skelly,9,D,40.7,82.3
+25-26-champions-league-arsenal-vs-slavia-prague,home,266,Eze,4,M,56.5,40.2
+25-26-champions-league-arsenal-vs-slavia-prague,home,,B. White,2,D,32.9,45.2
+25-26-champions-league-arsenal-vs-slavia-prague,home,700,Dowman,6,M,78.0,8.9
+25-26-champions-league-arsenal-vs-slavia-prague,home,25,Nwaneri,36,M,55.9,41.5
+25-26-champions-league-arsenal-vs-slavia-prague,home,16,Saka,45,F,65.3,30.6
+25-26-champions-league-arsenal-vs-slavia-prague,home,20,Trossard,36,F,66.9,73.1
+25-26-champions-league-arsenal-vs-slavia-prague,home,8,J.Timber,43,D,43.3,24.9
+25-26-champions-league-arsenal-vs-slavia-prague,home,,D. Raya,49,G,14.5,48.7
+25-26-champions-league-arsenal-vs-slavia-prague,home,24,Nørgaard,48,M,49.3,51.1
+25-26-champions-league-arsenal-vs-slavia-prague,home,725,Hincapie,49,D,44.6,88.2
+25-26-champions-league-arsenal-vs-slavia-prague,home,,G. Magalhaes,69,D,35.8,65.7
+25-26-champions-league-arsenal-vs-slavia-prague,home,711,Harriman-Annous,6,M,47.7,67.5
+25-26-champions-league-arsenal-vs-slavia-prague,home,21,Rice,60,M,57.5,65.2
+25-26-champions-league-arsenal-vs-slavia-prague,home,,M. Merino,54,M,57.4,51.3
+25-26-champions-league-arsenal-vs-slavia-prague,home,6,Saliba,56,D,34.0,44.3
+25-26-champions-league-athletic-club-vs-newcastle-united,away,485,Gordon,22,F,50.0,84.0
+25-26-champions-league-athletic-club-vs-newcastle-united,away,486,Elanga,20,F,53.7,85.3
+25-26-champions-league-athletic-club-vs-newcastle-united,away,52,J.Ramsey,4,M,34.7,46.8
+25-26-champions-league-athletic-club-vs-newcastle-united,away,497,L.Miley,22,M,43.1,49.2
+25-26-champions-league-athletic-club-vs-newcastle-united,away,473,Hall,25,D,32.8,84.1
+25-26-champions-league-athletic-club-vs-newcastle-united,away,487,Barnes,31,F,63.3,56.6
+25-26-champions-league-athletic-club-vs-newcastle-united,away,714,Woltemade,37,F,51.1,51.0
+25-26-champions-league-athletic-club-vs-newcastle-united,away,489,J.Murphy,29,F,54.1,13.1
+25-26-champions-league-athletic-club-vs-newcastle-united,away,,B. Guimarães,46,M,51.1,37.6
+25-26-champions-league-athletic-club-vs-newcastle-united,away,684,Thiaw,109,D,31.0,34.0
+25-26-champions-league-athletic-club-vs-newcastle-united,away,476,Burn,71,D,41.6,78.7
+25-26-champions-league-athletic-club-vs-newcastle-united,away,469,Pope,77,G,9.1,48.8
+25-26-champions-league-athletic-club-vs-newcastle-united,away,491,Tonali,89,M,42.5,57.4
+25-26-champions-league-athletic-club-vs-newcastle-united,away,,Joelinton,68,M,48.7,74.0
+25-26-champions-league-athletic-club-vs-newcastle-united,away,475,Botman,91,D,31.9,66.3
+25-26-champions-league-athletic-club-vs-newcastle-united,away,478,Trippier,88,D,39.9,12.4
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,N. Serrano,18,M,72.4,32.9
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,S. Sánchez,14,M,62.5,55.3
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,A. Gorosabel,13,D,57.5,11.4
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,A. Hierro,13,F,70.5,61.6
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,I. R. d. Galarreta,23,M,58.8,43.5
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,U. Gómez,27,M,63.8,42.3
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,R. Navarro,38,M,51.0,26.9
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,A. Rego Mora,42,M,52.8,40.8
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,M. Jauregizar,50,M,48.7,53.6
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,J. Areso,53,D,46.2,11.0
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,A. Boiro,53,D,48.1,85.6
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,D. Vivian,73,D,40.9,34.8
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,Á. Berenguer,80,M,63.4,77.0
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,A. Paredes,73,D,39.4,62.9
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,M. Vesga,59,M,56.8,73.6
+25-26-champions-league-athletic-club-vs-newcastle-united,home,,U. Simón,60,G,14.3,52.4
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,402,Aït-Nouri,3,D,50.0,82
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,,R. Dias,6,D,21.1,65.1
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,427,Reijnders,43,M,57.8,40.5
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,430,Haaland,28,F,66.6,47.3
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,,B. Silva,16,M,45.3,53.5
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,403,Gvardiol,96,D,31.5,69.9
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,411,O'Reilly,62,D,48.2,85.5
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,418,Doku,59,M,52.4,79.5
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,,N. González,104,M,43.0,54.7
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,417,Cherki,12,M,59.0,62.9
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,407,Matheus N.,87,D,36.4,14.9
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,409,Stones,61,D,26.3,38.5
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,736,Donnarumma,55,G,9.0,49.4
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,,Savinho,61,M,62.8,21.0
+25-26-champions-league-borussia-dortmund-vs-manchester-city,away,414,Foden,78,M,55.7,43.1
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,783,Groß,25,M,57.3,21.7
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,J. Bellingham,22,M,45.8,49.4
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,C. Chukwuemeka,16,M,66.8,74.5
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,F. Silva,8,F,69.7,45.0
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,E. Can,35,D,37.8,47.8
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,M. Sabitzer,33,M,56.0,32.9
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,R. Bensebaini,51,D,45.2,79.6
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,S. Guirassy,43,F,63.2,54.0
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,D. Svensson,59,M,55.5,75.9
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,K. Adeyemi,50,F,68.0,23.6
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,J. Ryerson,74,M,49.6,21.7
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,G. Kobel,46,G,7.6,47.9
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,F. Nmecha,74,M,49.2,54.2
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,N. Schlotterbeck,91,D,38.8,64.7
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,M. Beier,45,F,57.1,83.5
+25-26-champions-league-borussia-dortmund-vs-manchester-city,home,,W. Anton,96,D,41.9,26.9
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,Dani Bolt,7,D,64.9,18.7
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,C. Durán,19,F,71.8,49.3
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,L. Andrade,29,M,55.7,25.1
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,O. Kashchuk,10,M,62.5,28.1
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,B. Mustafazada,41,D,22.0,26.7
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,K. Borges,16,M,36.2,17.4
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,M. Kochalski,46,G,7.5,47.3
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,E. Addai,37,M,54.7,73.4
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,E. Cafarquliyev,47,D,41.1,86.9
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,T. Bayramov,16,D,49.2,57.7
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,N. Akhundzade,13,F,54.0,61.8
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,A. Zoubir,43,M,58.7,60.8
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,M. Janković,71,M,40.8,58.4
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,M. Silva,69,D,34.0,16.7
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,K. Medina,62,D,26.0,66.8
+25-26-champions-league-chelsea-vs-qarabag-fk,away,,P. Bicalho,61,M,33.1,39.6
+25-26-champions-league-chelsea-vs-qarabag-fk,home,250,Delap,8,F,67.8,37.1
+25-26-champions-league-chelsea-vs-qarabag-fk,home,168,Buonanotte,19,M,57.1,62.8
+25-26-champions-league-chelsea-vs-qarabag-fk,home,244,Lavia,2,M,32.8,71.6
+25-26-champions-league-chelsea-vs-qarabag-fk,home,,A. Santos,37,M,53.8,44.3
+25-26-champions-league-chelsea-vs-qarabag-fk,home,,J. Gittens,30,M,76.2,82.7
+25-26-champions-league-chelsea-vs-qarabag-fk,home,,R. Sánchez,46,G,13.4,51.7
+25-26-champions-league-chelsea-vs-qarabag-fk,home,243,George,16,F,63.3,58.2
+25-26-champions-league-chelsea-vs-qarabag-fk,home,,A. Garnacho,31,F,69.5,67.4
+25-26-champions-league-chelsea-vs-qarabag-fk,home,232,Tosin,101,D,36.9,39.5
+25-26-champions-league-chelsea-vs-qarabag-fk,home,,J. Pedro,43,F,57.8,58.2
+25-26-champions-league-chelsea-vs-qarabag-fk,home,,Estêvão,67,M,73.1,19.6
+25-26-champions-league-chelsea-vs-qarabag-fk,home,672,Hato,93,D,36.4,71.2
+25-26-champions-league-chelsea-vs-qarabag-fk,home,,M. Cucurella,71,D,54.9,73.0
+25-26-champions-league-chelsea-vs-qarabag-fk,home,,M. Caicedo,78,M,46.6,52.9
+25-26-champions-league-chelsea-vs-qarabag-fk,home,237,Enzo,52,M,65.6,33.2
+25-26-champions-league-chelsea-vs-qarabag-fk,home,225,James,88,D,49.8,21.7
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,570,Danso,18,D,19.1,27.4
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,,Richarlison,19,F,65.4,38.1
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,,J. Palhinha,29,M,47.6,35.0
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,573,Spence,7,D,56.7,80.9
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,726,Kolo Muani,36,F,68.5,49.3
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,580,Johnson,28,F,67.5,17.5
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,574,Udogie,62,D,54.1,83.8
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,,P. Porro,108,D,44.3,19.5
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,569,Romero,83,D,37.8,38.1
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,588,Odobert,49,F,58.8,68.7
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,599,Scarlett,9,F,67.8,59.2
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,575,Van de Ven,85,D,40.2,72.0
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,593,P.M.Sarr,75,M,54.1,50.7
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,565,Vicario,53,G,12.5,49.6
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,717,Xavi,51,M,60.6,42.3
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,away,585,Bentancur,88,M,49.0,41.4
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,V. B. Dadason,14,F,69.4,46.5
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,M. Garananga,17,D,37.2,39.6
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,J. Larsson,9,M,53.8,20.7
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,A. Cornelius,7,F,88.6,62.9
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,Y. Moukoko,28,F,58.0,54.5
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,E. Achouri,48,M,62.9,80.0
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,L. Lerager,49,M,46.4,47.4
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,D. Kotarski,43,G,9.7,56.7
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,J. Suzuki,51,D,44.3,14.5
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,Robert,14,M,63.7,83.6
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,V. Claesson,14,M,62.4,35.8
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,W. Clem,68,M,40.5,59.8
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,P. Hatzidiakos,76,D,33.2,62.0
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,M. López,69,D,49.7,85.5
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,M. Elyounoussi,42,M,62.0,59.0
+25-26-champions-league-fc-københavn-vs-tottenham-hotspur,home,,G. Pereira,52,D,32.8,35.8
+25-26-champions-league-real-madrid-vs-liverpool,away,367,Mamardashvili,28,G,8.9,50.8
+25-26-champions-league-real-madrid-vs-liverpool,away,374,Konaté,52,D,34.5,35.0
+25-26-champions-league-real-madrid-vs-liverpool,away,384,Gakpo,13,M,67.6,52.1
+25-26-champions-league-real-madrid-vs-liverpool,away,388,C.Jones,5,M,35,54.3
+25-26-champions-league-real-madrid-vs-liverpool,away,386,Mac Allister,62,M,53.3,63.1
+25-26-champions-league-real-madrid-vs-liverpool,away,381,M.Salah,57,M,61.6,23.2
+25-26-champions-league-real-madrid-vs-liverpool,away,385,Chiesa,3,F,47.7,36.4
+25-26-champions-league-real-madrid-vs-liverpool,away,373,Virgil,50,D,41.9,64.4
+25-26-champions-league-real-madrid-vs-liverpool,away,382,Wirtz,60,M,66.5,66.8
+25-26-champions-league-real-madrid-vs-liverpool,away,371,Kerkez,2,D,48.5,52.0
+25-26-champions-league-real-madrid-vs-liverpool,away,387,Szoboszlai,70,M,56.9,39.9
+25-26-champions-league-real-madrid-vs-liverpool,away,,A. Robertson,53,D,51.5,83.5
+25-26-champions-league-real-madrid-vs-liverpool,away,390,Gravenberch,56,M,46.4,43.1
+25-26-champions-league-real-madrid-vs-liverpool,away,661,Ekitiké,41,F,72.1,51
+25-26-champions-league-real-madrid-vs-liverpool,away,375,Bradley,76,D,39.6,13.2
+25-26-champions-league-real-madrid-vs-liverpool,home,,T. Alexander-Arnold,11,D,45.2,26.4
+25-26-champions-league-real-madrid-vs-liverpool,home,,Rodrygo,21,F,68.8,33.1
+25-26-champions-league-real-madrid-vs-liverpool,home,,E. Camavinga,51,M,43.5,26.8
+25-26-champions-league-real-madrid-vs-liverpool,home,,Vinícius Jr.,63,F,76.9,87.3
+25-26-champions-league-real-madrid-vs-liverpool,home,,K. Mbappé,54,F,64.8,53.8
+25-26-champions-league-real-madrid-vs-liverpool,home,,B. Díaz,6,M,51.5,61.2
+25-26-champions-league-real-madrid-vs-liverpool,home,,A. Güler,75,M,48.7,42.9
+25-26-champions-league-real-madrid-vs-liverpool,home,,É. Militão,83,D,33.0,39.4
+25-26-champions-league-real-madrid-vs-liverpool,home,,D. Huijsen,93,D,38.2,66.8
+25-26-champions-league-real-madrid-vs-liverpool,home,,A. Tchouaméni,84,M,45.2,61.1
+25-26-champions-league-real-madrid-vs-liverpool,home,,J. Bellingham,65,M,54.6,56.0
+25-26-champions-league-real-madrid-vs-liverpool,home,,F. Valverde,78,M,36.3,22.5
+25-26-champions-league-real-madrid-vs-liverpool,home,,T. Courtois,62,G,10.1,49.6
+25-26-champions-league-real-madrid-vs-liverpool,home,,Á. Carreras,88,D,47.7,84.6
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,500,Osula,8,F,62.6,77.1
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,,Joelinton,10,M,60.5,60.2
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,52,J.Ramsey,52,M,55.3,64.0
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,714,Woltemade,28,F,65.2,43.1
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,478,Trippier,28,D,50.4,17.5
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,494,Willock,45,M,60.7,31.4
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,479,Krafth,45,D,54.6,13.5
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,485,Gordon,3,F,59.9,85.7
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,,B. Guimarães,14,M,52.5,30.9
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,487,Barnes,44,F,71.1,79.6
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,474,Schär,82,D,39.3,35.2
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,674,Ramsdale,54,G,8.8,51.0
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,684,Thiaw,59,D,45.6,65.4
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,476,Burn,70,D,49.6,77.3
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,491,Tonali,94,M,54.5,39.0
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,away,486,Elanga,72,F,61.9,17.0
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,582,Kudus,20,M,60.8,26.9
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,584,Tel,7,F,50.7,84.9
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,717,Xavi,56,M,54.0,40.4
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,580,Johnson,34,F,63.8,21.5
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,726,Kolo Muani,13,F,48.8,78.4
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,585,Bentancur,50,M,47.3,43.6
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,570,Danso,78,D,33.5,69.1
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,,Richarlison,43,F,56.4,58.6
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,586,Bergvall,63,M,49.8,57.7
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,593,P.M.Sarr,77,M,46.2,65.8
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,,J. Palhinha,87,M,32.9,35.2
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,567,Kinsky,64,G,11.8,50.5
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,573,Spence,85,D,44.1,82.1
+25-26-efl-cup-tottenham-hotspur-vs-newcastle-united,home,,P. Porro,83,D,45.4,24.6
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,54,McGinn,7,M,68.0,18.0
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,53,Malen,28,F,69.6,47.3
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,677,Guessand,36,F,54.4,11.6
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,47,Rogers,40,M,69.4,45.3
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,48,Tielemans,29,M,34.8,62.7
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,58,Kamara,45,M,42.4,30.7
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,,E. Konsa,117,D,39.1,33.1
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,64,Watkins,4,F,47.6,80.4
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,41,Pau,71,D,44.6,72.1
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,,E. Buendía,17,M,37.0,78.6
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,,E. Martínez,68,G,10.2,50.4
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,44,Bogarde,84,M,45.4,22.8
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,456,Sancho,45,M,68.8,77.5
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,39,Maatsen,83,D,44.7,82.2
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,59,Onana,59,M,48.8,63.5
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,719,Lindelöf,88,D,34.3,40.0
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,K. Andrade,9,M,54.7,47.9
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,I. Shahar,16,M,50.5,66.8
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,Heitor,41,D,32.0,53.8
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,O. Davida,21,M,42.5,13.6
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,T. Asante,53,D,35.3,17.8
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,E. Madmon,51,F,48.7,67.6
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,D. Peretz,38,M,49.3,36.0
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,I. Noy,23,M,45.3,66.0
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,S. Jehezkel,15,D,81.7,18.1
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,M. Camara,11,D,31.5,59.7
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,H. Varela,37,M,63.4,87.4
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,R. Shlomo,64,D,27.1,57.1
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,R. Revivo,66,D,38.5,84.4
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,I. Nicolaescu,4,F,60.7,76.2
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,R. Mishpati,45,G,8.4,52.6
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,I. Sissokho,69,M,37.6,46.6
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,J. Mitchell,4,D,56.3,5.9
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,S. Hierländer,9,M,26.4,66.7
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,M. Malone,25,F,53.1,36.0
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,A. Kayombo,18,F,57.8,69.5
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,D. Lavalėe,34,D,32.3,77.7
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,N. Geyrhofer,62,D,26.9,68.1
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,S. Jatta,8,F,50.6,38.7
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,O. Christensen,50,G,11.0,48.4
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,O. Kiteishvili,59,M,49.1,56.0
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,E. Aiwu,57,D,27.4,37.7
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,E. Karić,84,D,39.2,87.4
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,J. Hödl,68,M,45.3,60.0
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,F. Rózga,53,M,47.2,84.2
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,J. G. Stanković,64,M,38.5,48.7
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,T. Horvat,47,M,47.1,31.4
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,A. Malić,62,D,37.8,17.0
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,513,Abbott,20,D,56.9,9.3
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,669,Ndoye,13,M,53.6,28.6
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,,Murillo,18,D,38.1,52.5
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,,J. Victor,30,G,14.2,47.2
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,696,Kalimuendo,31,F,65.1,51.9
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,515,Gibbs-White,62,M,65.0,51.0
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,426,McAtee,50,M,58.7,26.6
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,522,Yates,76,M,52.3,32.2
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,508,N.Williams,88,D,58.4,84.7
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,519,Dominguez,57,M,61.2,77.5
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,505,Milenković,101,D,41.6,34.1
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,716,Savona,103,D,53.8,8.5
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,521,Sangaré,108,M,46.0,60.0
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,,Morato,96,D,37.9,67.6
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,180,Tzimas,9,F,59.2,58.7
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,172,Watson,14,M,63.7,52.4
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,178,Welbeck,18,F,64.0,60.6
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,160,Minteh,11,M,63.6,18.8
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,151,Van Hecke,6,D,36.5,31.4
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,181,Kostoulas,19,F,94.8,96.8
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,158,Georginio,10,M,59.6,34.6
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,169,D. Gómez,25,M,58.8,59.6
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,146,Dunk,5,D,32.8,64.9
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,148,F.Kadıoğlu,24,D,46.7,83.8
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,167,Baleba,17,M,43.9,43.7
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,166,Ayari,26,M,51.3,60.8
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,173,Wieffer,27,D,38.6,13.2
+25-26-prem-brighton-hove-albion-vs-leeds-united,home,139,Verbruggen,1,G,11.5,47.8
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,365,Nmecha,14,F,65.6,73.3
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,352,Harrison,20,F,39.0,85.6
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,691,Calvert-Lewin,9,F,63.8,52.3
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,660,Stach,18,M,57.3,57.3
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,353,James,7,M,56.4,14.4
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,350,Aaronson,11,M,56.8,34.9
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,665,L. Perri,1,G,9.9,49.0
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,706,Justin,24,D,24.2,11.6
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,358,A. Tanaka,22,M,43.0,55.9
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,493,Longstaff,8,M,56.2,43.2
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,698,Okafor,19,F,67.3,80.5
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,342,Bogle,2,D,42.5,12.8
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,354,Ampadu,4,M,42.0,53.5
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,344,Bijol,15,D,31.8,63.6
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,347,Gudmundsson,3,D,38.9,84.9
+25-26-prem-brighton-hove-albion-vs-leeds-united,away,348,Rodon,6,D,35.5,34.0
+25-26-prem-burnley-vs-arsenal,home,207,Hannibal,28,M,61.7,56.1
+25-26-prem-burnley-vs-arsenal,home,680,Broja,27,F,75.6,42.8
+25-26-prem-burnley-vs-arsenal,home,200,Anthony,11,M,45.3,72.6
+25-26-prem-burnley-vs-arsenal,home,187,Walker,2,D,51.2,13.4
+25-26-prem-burnley-vs-arsenal,home,210,Tchaouna,17,F,66.1,26.6
+25-26-prem-burnley-vs-arsenal,home,202,Bruun Larsen,,F,64.4,78.2
+25-26-prem-burnley-vs-arsenal,home,206,Edwards,10,F,81.4,60.8
+25-26-prem-burnley-vs-arsenal,home,205,Cullen,24,M,50.9,42.7
+25-26-prem-burnley-vs-arsenal,home,209,Laurent,29,M,41.2,22.8
+25-26-prem-burnley-vs-arsenal,home,676,Ugochukwu,8,M,56.7,30.3
+25-26-prem-burnley-vs-arsenal,home,192,Hartman,3,D,43.1,87.0
+25-26-prem-burnley-vs-arsenal,home,191,Estève,5,D,38.6,68.4
+25-26-prem-burnley-vs-arsenal,home,215,Flemming,19,F,65.5,42.0
+25-26-prem-burnley-vs-arsenal,home,470,Dúbravka,1,G,8.6,48.8
+25-26-prem-burnley-vs-arsenal,home,198,Tuanzebe,6,D,32.4,38.7
+25-26-prem-burnley-vs-arsenal,home,722,F. Luís,16,M,42.2,57.5
+25-26-prem-burnley-vs-arsenal,away,24,Nørgaard,16,M,39.3,53.0
+25-26-prem-burnley-vs-arsenal,away,725,Hincapie,5,D,42.4,85.8
+25-26-prem-burnley-vs-arsenal,away,25,Nwaneri,22,M,55.2,41.3
+25-26-prem-burnley-vs-arsenal,away,16,Saka,7,F,63.7,26.4
+25-26-prem-burnley-vs-arsenal,away,10,Lewis-Skelly,49,D,60.6,89.4
+25-26-prem-burnley-vs-arsenal,away,22,M. Merino,23,M,50.8,56.8
+25-26-prem-burnley-vs-arsenal,away,666,Gyökeres,14,F,66.2,54.8
+25-26-prem-burnley-vs-arsenal,away,6,Saliba,2,D,34.1,34.6
+25-26-prem-burnley-vs-arsenal,away,1,D. Raya,1,G,15.3,52.0
+25-26-prem-burnley-vs-arsenal,away,266,Eze,10,M,53.5,57.8
+25-26-prem-burnley-vs-arsenal,away,7,Calafiori,33,D,44.4,84.3
+25-26-prem-burnley-vs-arsenal,away,21,Rice,41,M,45.1,61.0
+25-26-prem-burnley-vs-arsenal,away,8,J.Timber,12,D,47.6,18.9
+25-26-prem-burnley-vs-arsenal,away,26,M. Zubimendi,36,M,49.5,41.1
+25-26-prem-burnley-vs-arsenal,away,20,Trossard,19,F,56.1,82.2
+25-26-prem-burnley-vs-arsenal,away,5,G. Magalhaes,,D,33.3,65.9
+25-26-prem-crystal-palace-vs-brentford,home,723,Canvot,23,D,48.0,10.1
+25-26-prem-crystal-palace-vs-brentford,home,283,Mateta,14,F,61.1,33.7
+25-26-prem-crystal-palace-vs-brentford,home,253,Henderson,1,G,11.4,47.2
+25-26-prem-crystal-palace-vs-brentford,home,270,Hughes,19,M,49.6,34.5
+25-26-prem-crystal-palace-vs-brentford,home,257,Lacroix,5,D,28.5,50.8
+25-26-prem-crystal-palace-vs-brentford,home,276,Devenny,55,M,58.7,72.8
+25-26-prem-crystal-palace-vs-brentford,home,267,Sarr,7,F,61.0,35.8
+25-26-prem-crystal-palace-vs-brentford,home,260,Guéhi,6,D,37.7,68.9
+25-26-prem-crystal-palace-vs-brentford,home,271,Kamada,18,M,46.3,65.5
+25-26-prem-crystal-palace-vs-brentford,home,256,D. Muñoz,2,M,48.6,18.4
+25-26-prem-crystal-palace-vs-brentford,home,258,Mitchell,3,M,47.9,83.9
+25-26-prem-crystal-palace-vs-brentford,home,261,Richards,26,D,37.5,27.0
+25-26-prem-crystal-palace-vs-brentford,home,272,J. Lerma,8,M,55.1,45.9
+25-26-prem-crystal-palace-vs-brentford,home,712,Y. Pino,10,F,56.6,67.6
+25-26-prem-crystal-palace-vs-brentford,away,123,F. Carvalho,14,F,76.2,54.2
+25-26-prem-crystal-palace-vs-brentford,away,27,Nelson,11,M,66.2,73.2
+25-26-prem-crystal-palace-vs-brentford,away,136,I. Thiago,9,F,54.7,47.6
+25-26-prem-crystal-palace-vs-brentford,away,125,Janelt,27,M,40.6,76.2
+25-26-prem-crystal-palace-vs-brentford,away,126,Jensen,8,M,46.4,36.4
+25-26-prem-crystal-palace-vs-brentford,away,107,Lewis-Potter,23,D,50.5,86.2
+25-26-prem-crystal-palace-vs-brentford,away,120,Schade,7,M,52.8,63.6
+25-26-prem-crystal-palace-vs-brentford,away,129,Yarmoliuk,,M,45.6,53.4
+25-26-prem-crystal-palace-vs-brentford,away,110,Kayode,33,D,43.7,25.7
+25-26-prem-crystal-palace-vs-brentford,away,121,Damsgaard,24,M,59.8,47.3
+25-26-prem-crystal-palace-vs-brentford,away,106,Collins,22,D,33.6,40.1
+25-26-prem-crystal-palace-vs-brentford,away,83,O.Dango,19,M,55.7,28.8
+25-26-prem-crystal-palace-vs-brentford,away,108,Ajer,20,D,45.9,66.1
+25-26-prem-crystal-palace-vs-brentford,away,113,Van den Berg,4,D,33.4,67.7
+25-26-prem-crystal-palace-vs-brentford,away,101,Kelleher,1,G,11.9,50.1
+25-26-prem-crystal-palace-vs-brentford,away,124,Henderson,6,M,42.6,40.6
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,727,Chukwueze,19,F,74.8,28.0
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,331,Cairney,10,M,61.0,49.3
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,338,R. Muniz,9,F,67.2,51.6
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,325,Smith Rowe,32,M,61.8,72.1
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,317,Andersen,5,D,39.2,35.8
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,329,Wilson,8,M,58.6,27.9
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,335,J. King,24,M,55.8,34.4
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,337,R. Jiménez,7,F,55.5,48.6
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,326,A. Traoré,11,F,66.4,77.4
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,328,Sessegnon,30,D,45.1,85.9
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,731,Kevin,22,M,66.4,85.6
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,314,Leno,1,G,9.9,51.5
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,322,Tete,2,D,51.0,19.5
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,318,Bassey,3,D,36.0,67.8
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,324,Iwobi,17,M,55.8,73.9
+25-26-prem-fulham-vs-wolverhampton-wanderers,home,330,Berge,16,M,50.2,56.0
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,643,André,7,M,37.4,67.2
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,720,Tolu,14,F,55.6,68.4
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,663,J.Arias,10,M,57.1,70.7
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,634,Y. Mosquera,15,D,30.4,28.6
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,637,Toti,24,D,45.7,79.6
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,646,J. Gomes,8,M,41.4,59.5
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,695,Tchatchoua,38,M,43.8,15.3
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,633,H. Bueno,3,D,54.4,82.9
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,631,Agbadou,12,D,35.1,46.4
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,644,Bellegarde,,M,62.7,37.5
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,638,Hoever,26,D,49.7,15.8
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,654,Strand Larsen,,F,67.2,46.2
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,648,Munetsi,5,M,54.6,40.7
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,709,Krejčí,37,D,39.9,60.4
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,636,S. Bueno,4,D,32.3,34.1
+25-26-prem-fulham-vs-wolverhampton-wanderers,away,627,Johnstone,31,G,11.4,49.7
+25-26-prem-liverpool-vs-aston-villa,home,661,Ekitiké,22,F,65.0,69.9
+25-26-prem-liverpool-vs-aston-villa,home,367,Mamardashvili,25,G,9.3,47.7
+25-26-prem-liverpool-vs-aston-villa,home,382,Wirtz,7,M,53.7,46.9
+25-26-prem-liverpool-vs-aston-villa,home,375,Bradley,12,D,42.0,20.8
+25-26-prem-liverpool-vs-aston-villa,home,386,Mac Allister,10,M,49.2,64.1
+25-26-prem-liverpool-vs-aston-villa,home,372,A. Robertson,26,D,49.4,80.4
+25-26-prem-liverpool-vs-aston-villa,home,374,Konaté,5,D,35.6,30.2
+25-26-prem-liverpool-vs-aston-villa,home,387,Szoboszlai,8,M,61.5,38.5
+25-26-prem-liverpool-vs-aston-villa,home,381,M.Salah,11,M,67.4,20.9
+25-26-prem-liverpool-vs-aston-villa,home,390,Gravenberch,38,M,53.3,51.8
+25-26-prem-liverpool-vs-aston-villa,home,384,Gakpo,18,M,68.0,74.1
+25-26-prem-liverpool-vs-aston-villa,home,373,Virgil,4,D,36.3,61.1
+25-26-prem-liverpool-vs-aston-villa,away,53,Malen,17,F,74.8,53.0
+25-26-prem-liverpool-vs-aston-villa,away,55,Barkley,6,M,61.5,49.6
+25-26-prem-liverpool-vs-aston-villa,away,54,McGinn,7,M,53.7,80.0
+25-26-prem-liverpool-vs-aston-villa,away,456,Sancho,19,M,70.3,78.5
+25-26-prem-liverpool-vs-aston-villa,away,64,Watkins,11,F,69.9,76.8
+25-26-prem-liverpool-vs-aston-villa,away,39,Maatsen,22,D,59.5,72.7
+25-26-prem-liverpool-vs-aston-villa,away,40,Mings,5,D,29.8,74.6
+25-26-prem-liverpool-vs-aston-villa,away,37,Digne,12,D,39.5,85.4
+25-26-prem-liverpool-vs-aston-villa,away,677,Guessand,29,F,53.6,33.6
+25-26-prem-liverpool-vs-aston-villa,away,36,Cash,2,D,51.5,16.2
+25-26-prem-liverpool-vs-aston-villa,away,59,Onana,24,M,43.5,59.5
+25-26-prem-liverpool-vs-aston-villa,away,47,Rogers,27,M,58.9,51.0
+25-26-prem-liverpool-vs-aston-villa,away,41,Pau,14,D,21.4,65.4
+25-26-prem-liverpool-vs-aston-villa,away,58,Kamara,44,M,41.4,42.0
+25-26-prem-liverpool-vs-aston-villa,away,32,E. Martínez,23,G,8.3,49.4
+25-26-prem-liverpool-vs-aston-villa,away,38,E. Konsa,4,D,30.6,30.6
+25-26-prem-manchester-city-vs-afc-bournemouth,home,421,Rodri,16,M,51.2,48.6
+25-26-prem-manchester-city-vs-afc-bournemouth,home,413,Marmoush,7,F,51.4,46.2
+25-26-prem-manchester-city-vs-afc-bournemouth,home,415,Savinho,26,M,68.6,23.3
+25-26-prem-manchester-city-vs-afc-bournemouth,home,402,Aït-Nouri,21,D,69.5,71.1
+25-26-prem-manchester-city-vs-afc-bournemouth,home,427,Reijnders,4,M,69.7,47.7
+25-26-prem-manchester-city-vs-afc-bournemouth,home,430,Haaland,9,F,67.6,52.3
+25-26-prem-manchester-city-vs-afc-bournemouth,home,736,Donnarumma,25,G,10.1,47.7
+25-26-prem-manchester-city-vs-afc-bournemouth,home,417,Cherki,10,M,58.9,28.9
+25-26-prem-manchester-city-vs-afc-bournemouth,home,408,R. Dias,3,D,35.5,24.2
+25-26-prem-manchester-city-vs-afc-bournemouth,home,414,Foden,47,M,63.1,50.0
+25-26-prem-manchester-city-vs-afc-bournemouth,home,407,Matheus N.,27,D,39.1,12.9
+25-26-prem-manchester-city-vs-afc-bournemouth,home,403,Gvardiol,24,D,34.1,72.7
+25-26-prem-manchester-city-vs-afc-bournemouth,home,418,Doku,11,M,67.1,59.3
+25-26-prem-manchester-city-vs-afc-bournemouth,home,411,O'Reilly,33,D,51.5,78.9
+25-26-prem-manchester-city-vs-afc-bournemouth,home,423,N. González,14,M,45.6,47.5
+25-26-prem-manchester-city-vs-afc-bournemouth,home,416,B. Silva,20,M,50.0,41.1
+25-26-prem-manchester-city-vs-afc-bournemouth,away,391,Gannon-Doak,11,M,70.4,12.6
+25-26-prem-manchester-city-vs-afc-bournemouth,away,100,E. J. Kroupi,22,F,69.2,56.9
+25-26-prem-manchester-city-vs-afc-bournemouth,away,97,Evanilson,9,F,76.0,43.1
+25-26-prem-manchester-city-vs-afc-bournemouth,away,81,Kluivert,19,M,63.3,67.7
+25-26-prem-manchester-city-vs-afc-bournemouth,away,86,Brooks,7,M,59.4,26.5
+25-26-prem-manchester-city-vs-afc-bournemouth,away,90,Scott,8,M,51.8,50.3
+25-26-prem-manchester-city-vs-afc-bournemouth,away,87,Christie,10,M,48.6,43.2
+25-26-prem-manchester-city-vs-afc-bournemouth,away,713,A. Jiménez,20,D,39.3,19.6
+25-26-prem-manchester-city-vs-afc-bournemouth,away,72,M. Senesi,5,D,35.5,65.7
+25-26-prem-manchester-city-vs-afc-bournemouth,away,88,Cook,4,M,44.0,16.8
+25-26-prem-manchester-city-vs-afc-bournemouth,away,67,Petrović,1,G,10.0,48.9
+25-26-prem-manchester-city-vs-afc-bournemouth,away,84,Tavernier,16,M,59.9,43.5
+25-26-prem-manchester-city-vs-afc-bournemouth,away,74,Truffert,3,D,44.6,84.3
+25-26-prem-manchester-city-vs-afc-bournemouth,away,685,Diakité,18,D,32.4,32.5
+25-26-prem-manchester-city-vs-afc-bournemouth,away,82,Semenyo,24,M,61.6,83.6
+25-26-prem-manchester-city-vs-afc-bournemouth,away,85,Adams,12,M,46.7,65.6
+25-26-prem-nottingham-forest-vs-manchester-united,home,527,Awoniyi,9,F,55.7,44.4
+25-26-prem-nottingham-forest-vs-manchester-united,home,521,Sangaré,6,M,37.8,72.8
+25-26-prem-nottingham-forest-vs-manchester-united,home,699,D. Luiz,12,M,45.2,60.0
+25-26-prem-nottingham-forest-vs-manchester-united,home,502,Sels,26,G,12.2,46.9
+25-26-prem-nottingham-forest-vs-manchester-united,home,526,I. Jesus,19,F,71.5,51.0
+25-26-prem-nottingham-forest-vs-manchester-united,home,517,Anderson,8,M,51.4,52.4
+25-26-prem-nottingham-forest-vs-manchester-united,home,522,Yates,22,M,50.5,39.1
+25-26-prem-nottingham-forest-vs-manchester-united,home,506,Murillo,5,D,38.2,61.7
+25-26-prem-nottingham-forest-vs-manchester-united,home,516,Hudson-Odoi,7,M,67.4,72.2
+25-26-prem-nottingham-forest-vs-manchester-united,home,716,Savona,37,D,53.3,19.0
+25-26-prem-nottingham-forest-vs-manchester-united,home,515,Gibbs-White,10,M,61.1,42.5
+25-26-prem-nottingham-forest-vs-manchester-united,home,508,N.Williams,3,D,44.4,83.3
+25-26-prem-nottingham-forest-vs-manchester-united,home,669,Ndoye,14,M,62.1,21.7
+25-26-prem-nottingham-forest-vs-manchester-united,home,505,Milenković,31,D,35.4,36.6
+25-26-prem-nottingham-forest-vs-manchester-united,away,681,Šeško,30,F,59.1,54.6
+25-26-prem-nottingham-forest-vs-manchester-united,away,438,Mazraoui,3,D,37.6,24.6
+25-26-prem-nottingham-forest-vs-manchester-united,away,441,Dorgu,13,M,46.1,83.9
+25-26-prem-nottingham-forest-vs-manchester-united,away,457,Casemiro,18,M,50.2,45.4
+25-26-prem-nottingham-forest-vs-manchester-united,away,449,B. Fernandes,8,M,47.3,60.2
+25-26-prem-nottingham-forest-vs-manchester-united,away,443,Shaw,23,D,34.2,71.7
+25-26-prem-nottingham-forest-vs-manchester-united,away,444,Yoro,15,D,35.0,25.8
+25-26-prem-nottingham-forest-vs-manchester-united,away,436,De Ligt,4,D,33.2,51.5
+25-26-prem-nottingham-forest-vs-manchester-united,away,733,Lammens,31,G,10.2,50.1
+25-26-prem-nottingham-forest-vs-manchester-united,away,440,D. Dalot,2,D,41.9,79.1
+25-26-prem-nottingham-forest-vs-manchester-united,away,452,Amad,16,F,49.4,22.3
+25-26-prem-nottingham-forest-vs-manchester-united,away,119,Mbeumo,19,F,60.4,33.9
+25-26-prem-nottingham-forest-vs-manchester-united,away,450,M. Cunha,10,F,49.7,70.9
+25-26-prem-sunderland-vs-everton,home,560,Isidor,18,F,73.0,51.3
+25-26-prem-sunderland-vs-everton,home,532,Hume,32,D,57.1,30.4
+25-26-prem-sunderland-vs-everton,home,735,Traoré,25,F,64.3,18.7
+25-26-prem-sunderland-vs-everton,home,730,Brobbey,9,F,64.3,47.9
+25-26-prem-sunderland-vs-everton,home,553,Talbi,7,M,52.6,7.7
+25-26-prem-sunderland-vs-everton,home,531,Ballard,5,D,39.6,38.9
+25-26-prem-sunderland-vs-everton,home,547,E.Le Fée,28,M,61.6,75.7
+25-26-prem-sunderland-vs-everton,home,724,Geertruida,6,D,38.3,70.2
+25-26-prem-sunderland-vs-everton,home,670,Roefs,22,G,14.5,52.8
+25-26-prem-sunderland-vs-everton,home,668,Xhaka,34,M,54.3,47.6
+25-26-prem-sunderland-vs-everton,home,552,Sadiki,27,M,55.0,65.4
+25-26-prem-sunderland-vs-everton,home,541,Reinildo,17,D,53.1,81.8
+25-26-prem-sunderland-vs-everton,home,694,Mukiele,20,D,52.4,19.4
+25-26-prem-sunderland-vs-everton,away,304,Iroegbunam,42,M,41.2,72.0
+25-26-prem-sunderland-vs-everton,away,301,C. Alcaraz,24,M,54.7,42.8
+25-26-prem-sunderland-vs-everton,away,300,McNeil,7,M,48.0,27.4
+25-26-prem-sunderland-vs-everton,away,310,Barry,11,F,64.7,42.3
+25-26-prem-sunderland-vs-everton,away,311,Beto,9,F,27.2,54.5
+25-26-prem-sunderland-vs-everton,away,299,Ndiaye,10,M,49.2,18.2
+25-26-prem-sunderland-vs-everton,away,293,O'Brien,15,D,32.8,14.3
+25-26-prem-sunderland-vs-everton,away,303,Garner,37,M,48.0,44.6
+25-26-prem-sunderland-vs-everton,away,302,Gana,27,M,41.0,54.7
+25-26-prem-sunderland-vs-everton,away,242,Dewsbury-Hall,22,M,51.4,67.8
+25-26-prem-sunderland-vs-everton,away,295,Keane,5,D,28.1,67.1
+25-26-prem-sunderland-vs-everton,away,291,Tarkowski,6,D,38.8,35.9
+25-26-prem-sunderland-vs-everton,away,287,Pickford,1,G,16,57.6
+25-26-prem-sunderland-vs-everton,away,292,V. Mykolenko,16,D,36.0,86.4
+25-26-prem-sunderland-vs-everton,away,419,Grealish,18,M,50.4,83.9
+25-26-prem-tottenham-hotspur-vs-chelsea,home,580,Johnson,22,F,59.1,13
+25-26-prem-tottenham-hotspur-vs-chelsea,home,574,Udogie,13,D,31.0,85.4
+25-26-prem-tottenham-hotspur-vs-chelsea,home,726,Kolo Muani,,F,58.9,59.2
+25-26-prem-tottenham-hotspur-vs-chelsea,home,586,Bergvall,15,M,54.0,42.5
+25-26-prem-tottenham-hotspur-vs-chelsea,home,569,Romero,17,D,37.9,25.0
+25-26-prem-tottenham-hotspur-vs-chelsea,home,597,Richarlison,9,F,51.1,41.8
+25-26-prem-tottenham-hotspur-vs-chelsea,home,585,Bentancur,30,M,50.0,56.6
+25-26-prem-tottenham-hotspur-vs-chelsea,home,570,Danso,4,D,36.9,37.6
+25-26-prem-tottenham-hotspur-vs-chelsea,home,588,Odobert,28,F,22.6,69.2
+25-26-prem-tottenham-hotspur-vs-chelsea,home,593,P.M.Sarr,,M,45.7,42.1
+25-26-prem-tottenham-hotspur-vs-chelsea,home,568,P. Porro,23,D,49.2,20.7
+25-26-prem-tottenham-hotspur-vs-chelsea,home,673,J. Palhinha,6,M,41.6,40.3
+25-26-prem-tottenham-hotspur-vs-chelsea,home,717,Xavi,7,M,52.0,71.5
+25-26-prem-tottenham-hotspur-vs-chelsea,home,582,Kudus,20,M,59.6,23.3
+25-26-prem-tottenham-hotspur-vs-chelsea,home,575,Van de Ven,37,D,31.8,71.9
+25-26-prem-tottenham-hotspur-vs-chelsea,home,573,Spence,24,D,42.7,64.2
+25-26-prem-tottenham-hotspur-vs-chelsea,home,565,Vicario,1,G,12.0,52.1
+25-26-prem-tottenham-hotspur-vs-chelsea,away,232,Tosin,4,D,26.2,34.2
+25-26-prem-tottenham-hotspur-vs-chelsea,away,244,Lavia,45,M,65.2,39.5
+25-26-prem-tottenham-hotspur-vs-chelsea,away,238,Estêvão,41,M,72.7,15.6
+25-26-prem-tottenham-hotspur-vs-chelsea,away,228,Gusto,27,D,46.9,18.0
+25-26-prem-tottenham-hotspur-vs-chelsea,away,220,R. Sánchez,1,G,12.7,49.7
+25-26-prem-tottenham-hotspur-vs-chelsea,away,239,J. Gittens,11,M,72.8,87.1
+25-26-prem-tottenham-hotspur-vs-chelsea,away,237,Enzo,8,M,58.5,62.7
+25-26-prem-tottenham-hotspur-vs-chelsea,away,453,A. Garnacho,49,F,63.8,77.5
+25-26-prem-tottenham-hotspur-vs-chelsea,away,225,James,24,D,52.9,37.0
+25-26-prem-tottenham-hotspur-vs-chelsea,away,241,M. Caicedo,25,M,54.1,60.5
+25-26-prem-tottenham-hotspur-vs-chelsea,away,226,Chalobah,23,D,28.1,64.5
+25-26-prem-tottenham-hotspur-vs-chelsea,away,224,M. Cucurella,3,D,46.6,84.2
+25-26-prem-tottenham-hotspur-vs-chelsea,away,230,Fofana,29,D,33.0,36.0
+25-26-prem-tottenham-hotspur-vs-chelsea,away,236,P. Neto,7,M,67.0,17.1
+25-26-prem-tottenham-hotspur-vs-chelsea,away,249,J. Pedro,20,F,63.9,50.4
+25-26-prem-west-ham-united-vs-newcastle-united,home,659,Walker-Peters,2,D,45.1,78.4
+25-26-prem-west-ham-united-vs-newcastle-united,home,671,Wilson,9,F,58.6,47.2
+25-26-prem-west-ham-united-vs-newcastle-united,home,149,I. Júlio,5,D,29.4,57.6
+25-26-prem-west-ham-united-vs-newcastle-united,home,613,Souček,28,M,56.9,57.0
+25-26-prem-west-ham-united-vs-newcastle-united,home,605,M. Kilman,3,D,38.3,33.4
+25-26-prem-west-ham-united-vs-newcastle-united,home,615,Summerville,7,M,54.4,76.7
+25-26-prem-west-ham-united-vs-newcastle-united,home,609,Todibo,,D,29.9,65.6
+25-26-prem-west-ham-united-vs-newcastle-united,home,600,Areola,23,G,8.4,52.2
+25-26-prem-west-ham-united-vs-newcastle-united,home,708,M. Fernandes,18,M,48.7,36.4
+25-26-prem-west-ham-united-vs-newcastle-united,home,610,Wan-Bissaka,29,D,40.4,16.0
+25-26-prem-west-ham-united-vs-newcastle-united,home,623,Potts,32,M,44.7,55.3
+25-26-prem-west-ham-united-vs-newcastle-united,home,624,Bowen,20,M,64.7,31.6
+25-26-prem-west-ham-united-vs-newcastle-united,home,603,Diouf,12,D,40.3,86.7
+25-26-prem-west-ham-united-vs-newcastle-united,home,612,L. Paquetá,10,M,50.4,61.3
+25-26-prem-west-ham-united-vs-newcastle-united,away,486,Elanga,20,F,66.4,8.8
+25-26-prem-west-ham-united-vs-newcastle-united,away,714,Woltemade,27,F,64.0,41.7
+25-26-prem-west-ham-united-vs-newcastle-united,away,487,Barnes,11,F,69.4,60.9
+25-26-prem-west-ham-united-vs-newcastle-united,away,485,Gordon,10,F,63.1,82.6
+25-26-prem-west-ham-united-vs-newcastle-united,away,479,Krafth,17,D,53.0,5.8
+25-26-prem-west-ham-united-vs-newcastle-united,away,500,Osula,18,F,81.1,42.5
+25-26-prem-west-ham-united-vs-newcastle-united,away,488,B. Guimarães,39,M,57.3,41.3
+25-26-prem-west-ham-united-vs-newcastle-united,away,52,J.Ramsey,41,M,59.2,50.1
+25-26-prem-west-ham-united-vs-newcastle-united,away,469,Pope,1,G,10.4,50.1
+25-26-prem-west-ham-united-vs-newcastle-united,away,491,Tonali,8,M,53.6,42.6
+25-26-prem-west-ham-united-vs-newcastle-united,away,474,Schär,5,D,42.2,31.4
+25-26-prem-west-ham-united-vs-newcastle-united,away,490,Joelinton,7,M,56.1,68.9
+25-26-prem-west-ham-united-vs-newcastle-united,away,489,J.Murphy,23,F,66.1,20.0
+25-26-prem-west-ham-united-vs-newcastle-united,away,475,Botman,4,D,40.2,63.7
+25-26-prem-west-ham-united-vs-newcastle-united,away,476,Burn,33,D,52.2,75.9
+25-26-prem-west-ham-united-vs-newcastle-united,away,684,Thiaw,12,D,43.8,39.5

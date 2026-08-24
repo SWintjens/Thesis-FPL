@@ -1,0 +1,17 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status,home_shot_model_xg,away_shot_model_xg,incident_timing_coverage,unlocated_card_count,quarantined_incident_count
+25-26-champions-league-ajax-vs-chelsea,,,,,,False,False,confirmed,,,,,
+25-26-champions-league-benfica-vs-newcastle-united,,,,,,False,False,confirmed,,,,,
+25-26-champions-league-liverpool-vs-eintracht-frankfurt,,,,,,False,False,confirmed,,,,,
+25-26-champions-league-manchester-city-vs-villarreal,,,,,,False,False,confirmed,,,,,
+25-26-champions-league-tottenham-hotspur-vs-monaco,,,,,,False,False,confirmed,,,,,
+25-26-europa-league-aston-villa-vs-go-ahead-eagles,,,,,,False,False,confirmed,,,,,
+25-26-prem-brighton-hove-albion-vs-newcastle-united,,,,,,False,False,confirmed,0.9145,1.4497,available,0,0
+25-26-prem-burnley-vs-leeds-united,,,,,,False,False,confirmed,0.4541,2.6252,available,0,0
+25-26-prem-crystal-palace-vs-afc-bournemouth,,,,,,False,False,confirmed,4.4733,2.0457,available,0,0
+25-26-prem-fulham-vs-arsenal,,,,,,False,False,confirmed,0.4039,1.9087,available,0,0
+25-26-prem-liverpool-vs-manchester-united,,,,,,False,False,confirmed,2.7517,1.339,available,0,0
+25-26-prem-manchester-city-vs-everton,,,,,,False,False,confirmed,2.4076,1.0753,available,0,0
+25-26-prem-nottingham-forest-vs-chelsea,,,,,,False,False,confirmed,2.2015,1.6744,available,0,0
+25-26-prem-sunderland-vs-wolverhampton-wanderers,,,,,,False,False,confirmed,0.6457,0.827,available,0,0
+25-26-prem-tottenham-hotspur-vs-aston-villa,,,,,,False,False,confirmed,0.8678,0.3154,available,0,0
+25-26-prem-west-ham-united-vs-brentford,,,,,,False,False,confirmed,0.3813,2.3732,available,0,0

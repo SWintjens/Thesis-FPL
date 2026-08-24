@@ -1,0 +1,655 @@
+date,season,home,away,bet,result,edge,odds,profit,won,month,quarter,odds_range
+2024-08-16,2024/2025,Manchester United,Fulham,A,H,0.1255,5.6,-1.0,False,8,Q1 (Aug-Oct),4.0-6.0
+2024-08-17,2024/2025,Nottingham Forest,Bournemouth,H,D,0.0646,2.54,-1.0,False,8,Q1 (Aug-Oct),2.5-3.0
+2024-08-17,2024/2025,West Ham United,Aston Villa,A,A,0.0334,2.94,1.94,True,8,Q1 (Aug-Oct),2.5-3.0
+2024-08-17,2024/2025,Everton,Brighton & Hove Albion,H,A,0.0387,2.78,-1.0,False,8,Q1 (Aug-Oct),2.5-3.0
+2024-08-17,2024/2025,Arsenal,Wolverhampton Wanderers,H,H,0.0129,1.19,0.19,True,8,Q1 (Aug-Oct),1.0-1.5
+2024-08-18,2024/2025,Brentford,Crystal Palace,H,H,0.0181,2.54,1.54,True,8,Q1 (Aug-Oct),2.5-3.0
+2024-08-18,2024/2025,Chelsea,Manchester City,H,A,0.0256,4.3,-1.0,False,8,Q1 (Aug-Oct),4.0-6.0
+2024-08-24,2024/2025,Crystal Palace,West Ham United,H,A,0.1478,2.24,-1.0,False,8,Q1 (Aug-Oct),2.0-2.5
+2024-08-24,2024/2025,Brighton & Hove Albion,Manchester United,H,H,0.131,2.58,1.58,True,8,Q1 (Aug-Oct),2.5-3.0
+2024-08-24,2024/2025,Aston Villa,Arsenal,A,A,0.0087,1.8,0.8,True,8,Q1 (Aug-Oct),1.5-2.0
+2024-08-24,2024/2025,Tottenham Hotspur,Everton,A,H,0.0824,7.8,-1.0,False,8,Q1 (Aug-Oct),6.0+
+2024-08-25,2024/2025,Wolverhampton Wanderers,Chelsea,A,A,0.0271,1.81,0.81,True,8,Q1 (Aug-Oct),1.5-2.0
+2024-08-25,2024/2025,Liverpool,Brentford,D,H,0.0465,7.6,-1.0,False,8,Q1 (Aug-Oct),6.0+
+2024-08-25,2024/2025,Bournemouth,Newcastle United,H,D,0.0894,3.15,-1.0,False,8,Q1 (Aug-Oct),3.0-4.0
+2024-08-31,2024/2025,Nottingham Forest,Wolverhampton Wanderers,H,D,0.159,2.08,-1.0,False,8,Q1 (Aug-Oct),2.0-2.5
+2024-08-31,2024/2025,Everton,Bournemouth,A,A,0.0153,2.68,1.68,True,8,Q1 (Aug-Oct),2.5-3.0
+2024-08-31,2024/2025,Arsenal,Brighton & Hove Albion,D,D,0.0724,6.0,5.0,True,8,Q1 (Aug-Oct),6.0+
+2024-08-31,2024/2025,West Ham United,Manchester City,D,A,0.0323,5.9,-1.0,False,8,Q1 (Aug-Oct),4.0-6.0
+2024-09-01,2024/2025,Manchester United,Liverpool,A,A,0.098,1.9,0.9,True,9,Q1 (Aug-Oct),1.5-2.0
+2024-09-01,2024/2025,Newcastle United,Tottenham Hotspur,H,H,0.1118,2.62,1.62,True,9,Q1 (Aug-Oct),2.5-3.0
+2024-09-01,2024/2025,Chelsea,Crystal Palace,A,D,0.0588,5.4,-1.0,False,9,Q1 (Aug-Oct),4.0-6.0
+2024-09-14,2024/2025,Aston Villa,Everton,A,H,0.1078,7.0,-1.0,False,9,Q1 (Aug-Oct),6.0+
+2024-09-14,2024/2025,Fulham,West Ham United,H,D,0.0854,2.5,-1.0,False,9,Q1 (Aug-Oct),2.5-3.0
+2024-09-14,2024/2025,Bournemouth,Chelsea,H,A,0.1328,3.55,-1.0,False,9,Q1 (Aug-Oct),3.0-4.0
+2024-09-14,2024/2025,Manchester City,Brentford,D,H,0.0902,9.6,-1.0,False,9,Q1 (Aug-Oct),6.0+
+2024-09-14,2024/2025,Liverpool,Nottingham Forest,D,A,0.0764,7.8,-1.0,False,9,Q1 (Aug-Oct),6.0+
+2024-09-15,2024/2025,Wolverhampton Wanderers,Newcastle United,A,A,0.0653,2.16,1.16,True,9,Q1 (Aug-Oct),2.0-2.5
+2024-09-15,2024/2025,Tottenham Hotspur,Arsenal,A,A,0.0227,2.4,1.4,True,9,Q1 (Aug-Oct),2.0-2.5
+2024-09-21,2024/2025,Aston Villa,Wolverhampton Wanderers,A,H,0.0079,5.9,-1.0,False,9,Q1 (Aug-Oct),4.0-6.0
+2024-09-21,2024/2025,West Ham United,Chelsea,A,A,0.0514,2.08,1.08,True,9,Q1 (Aug-Oct),2.0-2.5
+2024-09-21,2024/2025,Tottenham Hotspur,Brentford,A,H,0.0937,5.8,-1.0,False,9,Q1 (Aug-Oct),4.0-6.0
+2024-09-21,2024/2025,Fulham,Newcastle United,H,H,0.0143,3.0,2.0,True,9,Q1 (Aug-Oct),3.0-4.0
+2024-09-21,2024/2025,Crystal Palace,Manchester United,H,D,0.1389,2.96,-1.0,False,9,Q1 (Aug-Oct),2.5-3.0
+2024-09-21,2024/2025,Liverpool,Bournemouth,A,H,0.0574,10.5,-1.0,False,9,Q1 (Aug-Oct),6.0+
+2024-09-22,2024/2025,Manchester City,Arsenal,A,D,0.0516,4.9,-1.0,False,9,Q1 (Aug-Oct),4.0-6.0
+2024-09-22,2024/2025,Brighton & Hove Albion,Nottingham Forest,A,D,0.1085,4.9,-1.0,False,9,Q1 (Aug-Oct),4.0-6.0
+2024-09-28,2024/2025,Chelsea,Brighton & Hove Albion,A,H,0.0139,4.7,-1.0,False,9,Q1 (Aug-Oct),4.0-6.0
+2024-09-28,2024/2025,Newcastle United,Manchester City,H,D,0.0602,5.6,-1.0,False,9,Q1 (Aug-Oct),4.0-6.0
+2024-09-28,2024/2025,Nottingham Forest,Fulham,H,A,0.0631,2.44,-1.0,False,9,Q1 (Aug-Oct),2.0-2.5
+2024-09-28,2024/2025,Wolverhampton Wanderers,Liverpool,D,A,0.0303,6.0,-1.0,False,9,Q1 (Aug-Oct),6.0+
+2024-09-28,2024/2025,Brentford,West Ham United,H,D,0.1717,2.32,-1.0,False,9,Q1 (Aug-Oct),2.0-2.5
+2024-09-28,2024/2025,Everton,Crystal Palace,H,H,0.0214,2.84,1.84,True,9,Q1 (Aug-Oct),2.5-3.0
+2024-09-29,2024/2025,Manchester United,Tottenham Hotspur,A,A,0.0667,2.86,1.86,True,9,Q1 (Aug-Oct),2.5-3.0
+2024-10-05,2024/2025,Everton,Newcastle United,H,D,0.0227,3.25,-1.0,False,10,Q1 (Aug-Oct),3.0-4.0
+2024-10-05,2024/2025,Crystal Palace,Liverpool,H,A,0.0896,6.6,-1.0,False,10,Q1 (Aug-Oct),6.0+
+2024-10-05,2024/2025,Brentford,Wolverhampton Wanderers,H,H,0.0837,2.16,1.16,True,10,Q1 (Aug-Oct),2.0-2.5
+2024-10-05,2024/2025,Manchester City,Fulham,D,H,0.0764,7.6,-1.0,False,10,Q1 (Aug-Oct),6.0+
+2024-10-06,2024/2025,Chelsea,Nottingham Forest,A,D,0.0825,7.4,-1.0,False,10,Q1 (Aug-Oct),6.0+
+2024-10-06,2024/2025,Aston Villa,Manchester United,H,D,0.1068,2.28,-1.0,False,10,Q1 (Aug-Oct),2.0-2.5
+2024-10-06,2024/2025,Brighton & Hove Albion,Tottenham Hotspur,A,H,0.0709,2.34,-1.0,False,10,Q1 (Aug-Oct),2.0-2.5
+2024-10-19,2024/2025,Manchester United,Brentford,A,H,0.1492,4.8,-1.0,False,10,Q1 (Aug-Oct),4.0-6.0
+2024-10-19,2024/2025,Fulham,Aston Villa,H,A,0.1076,2.52,-1.0,False,10,Q1 (Aug-Oct),2.5-3.0
+2024-10-19,2024/2025,Tottenham Hotspur,West Ham United,H,H,0.0708,1.54,0.54,True,10,Q1 (Aug-Oct),1.5-2.0
+2024-10-19,2024/2025,Newcastle United,Brighton & Hove Albion,H,A,0.0185,2.02,-1.0,False,10,Q1 (Aug-Oct),2.0-2.5
+2024-10-19,2024/2025,Bournemouth,Arsenal,H,H,0.0659,5.5,4.5,True,10,Q1 (Aug-Oct),4.0-6.0
+2024-10-20,2024/2025,Liverpool,Chelsea,A,H,0.0177,5.2,-1.0,False,10,Q1 (Aug-Oct),4.0-6.0
+2024-10-20,2024/2025,Wolverhampton Wanderers,Manchester City,D,A,0.0414,6.2,-1.0,False,10,Q1 (Aug-Oct),6.0+
+2024-10-21,2024/2025,Nottingham Forest,Crystal Palace,H,H,0.0612,2.48,1.48,True,10,Q1 (Aug-Oct),2.0-2.5
+2024-10-26,2024/2025,Brighton & Hove Albion,Wolverhampton Wanderers,H,D,0.0153,1.67,-1.0,False,10,Q1 (Aug-Oct),1.5-2.0
+2024-10-26,2024/2025,Aston Villa,Bournemouth,A,D,0.1517,4.3,-1.0,False,10,Q1 (Aug-Oct),4.0-6.0
+2024-10-26,2024/2025,Everton,Fulham,A,D,0.0669,2.78,-1.0,False,10,Q1 (Aug-Oct),2.5-3.0
+2024-10-27,2024/2025,Chelsea,Newcastle United,A,H,0.0133,4.4,-1.0,False,10,Q1 (Aug-Oct),4.0-6.0
+2024-10-27,2024/2025,Crystal Palace,Tottenham Hotspur,H,H,0.0548,4.1,3.1,True,10,Q1 (Aug-Oct),4.0-6.0
+2024-10-27,2024/2025,West Ham United,Manchester United,H,H,0.1126,3.0,2.0,True,10,Q1 (Aug-Oct),3.0-4.0
+2024-10-27,2024/2025,Arsenal,Liverpool,H,D,0.0704,2.58,-1.0,False,10,Q1 (Aug-Oct),2.5-3.0
+2024-11-02,2024/2025,Wolverhampton Wanderers,Crystal Palace,A,D,0.0647,3.0,-1.0,False,11,Q2 (Nov-Jan),3.0-4.0
+2024-11-02,2024/2025,Liverpool,Brighton & Hove Albion,D,H,0.0269,5.8,-1.0,False,11,Q2 (Nov-Jan),4.0-6.0
+2024-11-02,2024/2025,Bournemouth,Manchester City,H,H,0.1063,5.9,4.9,True,11,Q2 (Nov-Jan),4.0-6.0
+2024-11-02,2024/2025,Nottingham Forest,West Ham United,H,H,0.0948,2.2,1.2,True,11,Q2 (Nov-Jan),2.0-2.5
+2024-11-02,2024/2025,Newcastle United,Arsenal,H,H,0.0518,4.0,3.0,True,11,Q2 (Nov-Jan),4.0-6.0
+2024-11-03,2024/2025,Tottenham Hotspur,Aston Villa,H,H,0.0791,1.99,0.99,True,11,Q2 (Nov-Jan),1.5-2.0
+2024-11-03,2024/2025,Manchester United,Chelsea,A,D,0.0917,2.66,-1.0,False,11,Q2 (Nov-Jan),2.5-3.0
+2024-11-04,2024/2025,Fulham,Brentford,H,H,0.0042,2.08,1.08,True,11,Q2 (Nov-Jan),2.0-2.5
+2024-11-09,2024/2025,Crystal Palace,Fulham,H,A,0.0214,2.9,-1.0,False,11,Q2 (Nov-Jan),2.5-3.0
+2024-11-09,2024/2025,West Ham United,Everton,A,D,0.0135,3.7,-1.0,False,11,Q2 (Nov-Jan),3.0-4.0
+2024-11-09,2024/2025,Brighton & Hove Albion,Manchester City,H,H,0.0432,4.6,3.6,True,11,Q2 (Nov-Jan),4.0-6.0
+2024-11-09,2024/2025,Wolverhampton Wanderers,Southampton,A,H,0.037,4.0,-1.0,False,11,Q2 (Nov-Jan),4.0-6.0
+2024-11-09,2024/2025,Brentford,Bournemouth,H,H,0.0356,2.62,1.62,True,11,Q2 (Nov-Jan),2.5-3.0
+2024-11-09,2024/2025,Liverpool,Aston Villa,D,H,0.0199,5.5,-1.0,False,11,Q2 (Nov-Jan),4.0-6.0
+2024-11-10,2024/2025,Manchester United,Leicester City,A,H,0.0867,8.2,-1.0,False,11,Q2 (Nov-Jan),6.0+
+2024-11-10,2024/2025,Nottingham Forest,Newcastle United,H,A,0.0824,2.78,-1.0,False,11,Q2 (Nov-Jan),2.5-3.0
+2024-11-10,2024/2025,Chelsea,Arsenal,A,D,0.0418,2.64,-1.0,False,11,Q2 (Nov-Jan),2.5-3.0
+2024-11-10,2024/2025,Tottenham Hotspur,Ipswich Town,H,A,0.0785,1.29,-1.0,False,11,Q2 (Nov-Jan),1.0-1.5
+2024-11-23,2024/2025,Arsenal,Nottingham Forest,A,H,0.0758,10.5,-1.0,False,11,Q2 (Nov-Jan),6.0+
+2024-11-23,2024/2025,Aston Villa,Crystal Palace,A,D,0.103,5.8,-1.0,False,11,Q2 (Nov-Jan),4.0-6.0
+2024-11-23,2024/2025,Manchester City,Tottenham Hotspur,A,A,0.0388,6.6,5.6,True,11,Q2 (Nov-Jan),6.0+
+2024-11-23,2024/2025,Bournemouth,Brighton & Hove Albion,H,A,0.0892,2.46,-1.0,False,11,Q2 (Nov-Jan),2.0-2.5
+2024-11-23,2024/2025,Fulham,Wolverhampton Wanderers,H,A,0.0676,1.69,-1.0,False,11,Q2 (Nov-Jan),1.5-2.0
+2024-11-23,2024/2025,Leicester City,Chelsea,H,A,0.1129,7.2,-1.0,False,11,Q2 (Nov-Jan),6.0+
+2024-11-23,2024/2025,Everton,Brentford,A,D,0.0436,3.1,-1.0,False,11,Q2 (Nov-Jan),3.0-4.0
+2024-11-24,2024/2025,Ipswich Town,Manchester United,H,D,0.0897,5.5,-1.0,False,11,Q2 (Nov-Jan),4.0-6.0
+2024-11-24,2024/2025,Southampton,Liverpool,H,A,0.0521,12.0,-1.0,False,11,Q2 (Nov-Jan),6.0+
+2024-11-25,2024/2025,Newcastle United,West Ham United,A,A,0.03,6.8,5.8,True,11,Q2 (Nov-Jan),6.0+
+2024-11-29,2024/2025,Brighton & Hove Albion,Southampton,D,D,0.0364,5.6,4.6,True,11,Q2 (Nov-Jan),4.0-6.0
+2024-11-30,2024/2025,West Ham United,Arsenal,H,A,0.0622,7.6,-1.0,False,11,Q2 (Nov-Jan),6.0+
+2024-11-30,2024/2025,Brentford,Leicester City,H,H,0.0203,1.69,0.69,True,11,Q2 (Nov-Jan),1.5-2.0
+2024-11-30,2024/2025,Wolverhampton Wanderers,Bournemouth,A,A,0.1094,2.58,1.58,True,11,Q2 (Nov-Jan),2.5-3.0
+2024-11-30,2024/2025,Crystal Palace,Newcastle United,H,D,0.0385,3.15,-1.0,False,11,Q2 (Nov-Jan),3.0-4.0
+2024-11-30,2024/2025,Nottingham Forest,Ipswich Town,H,H,0.1124,1.78,0.78,True,11,Q2 (Nov-Jan),1.5-2.0
+2024-12-01,2024/2025,Liverpool,Manchester City,H,H,0.0485,2.14,1.14,True,12,Q2 (Nov-Jan),2.0-2.5
+2024-12-01,2024/2025,Tottenham Hotspur,Fulham,D,D,0.03,4.6,3.6,True,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-01,2024/2025,Manchester United,Everton,A,H,0.1337,7.0,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2024-12-01,2024/2025,Chelsea,Aston Villa,A,H,0.0488,5.0,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-03,2024/2025,Ipswich Town,Crystal Palace,A,A,0.0968,2.46,1.46,True,12,Q2 (Nov-Jan),2.0-2.5
+2024-12-03,2024/2025,Leicester City,West Ham United,H,H,0.0415,3.0,2.0,True,12,Q2 (Nov-Jan),3.0-4.0
+2024-12-04,2024/2025,Everton,Wolverhampton Wanderers,H,H,0.0441,2.24,1.24,True,12,Q2 (Nov-Jan),2.0-2.5
+2024-12-04,2024/2025,Manchester City,Nottingham Forest,A,H,0.1102,9.4,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2024-12-04,2024/2025,Southampton,Chelsea,H,A,0.1181,9.6,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2024-12-04,2024/2025,Aston Villa,Brentford,A,H,0.0573,4.5,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-04,2024/2025,Arsenal,Manchester United,H,H,0.0524,1.47,0.47,True,12,Q2 (Nov-Jan),1.0-1.5
+2024-12-04,2024/2025,Newcastle United,Liverpool,H,D,0.0411,4.6,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-05,2024/2025,Fulham,Brighton & Hove Albion,H,H,0.0522,2.46,1.46,True,12,Q2 (Nov-Jan),2.0-2.5
+2024-12-05,2024/2025,Bournemouth,Tottenham Hotspur,H,H,0.1283,2.78,1.78,True,12,Q2 (Nov-Jan),2.5-3.0
+2024-12-07,2024/2025,Crystal Palace,Manchester City,H,D,0.1364,5.8,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-07,2024/2025,Brentford,Newcastle United,H,H,0.0678,3.0,2.0,True,12,Q2 (Nov-Jan),3.0-4.0
+2024-12-07,2024/2025,Aston Villa,Southampton,A,H,0.004,8.6,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2024-12-07,2024/2025,Manchester United,Nottingham Forest,A,A,0.1805,5.5,4.5,True,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-08,2024/2025,Leicester City,Brighton & Hove Albion,H,D,0.0702,4.8,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-08,2024/2025,Tottenham Hotspur,Chelsea,H,A,0.0921,3.4,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2024-12-08,2024/2025,Fulham,Arsenal,H,D,0.0752,6.0,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2024-12-08,2024/2025,Ipswich Town,Bournemouth,A,A,0.1717,2.08,1.08,True,12,Q2 (Nov-Jan),2.0-2.5
+2024-12-09,2024/2025,West Ham United,Wolverhampton Wanderers,H,H,0.0262,1.94,0.94,True,12,Q2 (Nov-Jan),1.5-2.0
+2024-12-14,2024/2025,Wolverhampton Wanderers,Ipswich Town,H,A,0.0082,1.98,-1.0,False,12,Q2 (Nov-Jan),1.5-2.0
+2024-12-14,2024/2025,Liverpool,Fulham,D,D,0.039,6.2,5.2,True,12,Q2 (Nov-Jan),6.0+
+2024-12-14,2024/2025,Nottingham Forest,Aston Villa,H,H,0.0342,2.76,1.76,True,12,Q2 (Nov-Jan),2.5-3.0
+2024-12-14,2024/2025,Newcastle United,Leicester City,A,H,0.0646,10.5,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2024-12-14,2024/2025,Arsenal,Everton,D,D,0.0395,7.2,6.2,True,12,Q2 (Nov-Jan),6.0+
+2024-12-15,2024/2025,Chelsea,Brentford,A,H,0.0732,9.4,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2024-12-15,2024/2025,Brighton & Hove Albion,Crystal Palace,A,A,0.0461,4.3,3.3,True,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-15,2024/2025,Manchester City,Manchester United,H,A,0.0548,1.62,-1.0,False,12,Q2 (Nov-Jan),1.5-2.0
+2024-12-15,2024/2025,Southampton,Tottenham Hotspur,D,A,0.0057,4.7,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-16,2024/2025,Bournemouth,West Ham United,H,D,0.1428,1.74,-1.0,False,12,Q2 (Nov-Jan),1.5-2.0
+2024-12-21,2024/2025,West Ham United,Brighton & Hove Albion,H,D,0.0464,2.94,-1.0,False,12,Q2 (Nov-Jan),2.5-3.0
+2024-12-21,2024/2025,Brentford,Nottingham Forest,D,A,0.0103,3.65,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2024-12-21,2024/2025,Ipswich Town,Newcastle United,A,A,0.0154,1.78,0.78,True,12,Q2 (Nov-Jan),1.5-2.0
+2024-12-21,2024/2025,Crystal Palace,Arsenal,H,A,0.0835,6.6,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2024-12-21,2024/2025,Aston Villa,Manchester City,H,H,0.0785,3.4,2.4,True,12,Q2 (Nov-Jan),3.0-4.0
+2024-12-22,2024/2025,Fulham,Southampton,D,D,0.0166,5.3,4.3,True,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-22,2024/2025,Manchester United,Bournemouth,A,A,0.1986,4.4,3.4,True,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-22,2024/2025,Everton,Chelsea,H,D,0.0932,5.6,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-22,2024/2025,Leicester City,Wolverhampton Wanderers,H,A,0.0444,2.62,-1.0,False,12,Q2 (Nov-Jan),2.5-3.0
+2024-12-22,2024/2025,Tottenham Hotspur,Liverpool,H,A,0.0987,4.6,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-26,2024/2025,Newcastle United,Aston Villa,A,H,0.005,3.95,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2024-12-26,2024/2025,Liverpool,Leicester City,D,H,0.0104,14.5,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2024-12-26,2024/2025,Manchester City,Everton,D,D,0.071,6.0,5.0,True,12,Q2 (Nov-Jan),6.0+
+2024-12-26,2024/2025,Chelsea,Fulham,A,A,0.0619,7.0,6.0,True,12,Q2 (Nov-Jan),6.0+
+2024-12-26,2024/2025,Southampton,West Ham United,H,A,0.0242,3.4,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2024-12-26,2024/2025,Nottingham Forest,Tottenham Hotspur,H,H,0.04,2.42,1.42,True,12,Q2 (Nov-Jan),2.0-2.5
+2024-12-26,2024/2025,Wolverhampton Wanderers,Manchester United,H,H,0.0504,4.0,3.0,True,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-26,2024/2025,Bournemouth,Crystal Palace,H,D,0.0482,1.96,-1.0,False,12,Q2 (Nov-Jan),1.5-2.0
+2024-12-27,2024/2025,Arsenal,Ipswich Town,H,H,0.0147,1.17,0.17,True,12,Q2 (Nov-Jan),1.0-1.5
+2024-12-27,2024/2025,Brighton & Hove Albion,Brentford,A,D,0.081,5.2,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2024-12-29,2024/2025,Leicester City,Manchester City,H,A,0.0953,9.0,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2024-12-29,2024/2025,Everton,Nottingham Forest,A,A,0.0245,2.94,1.94,True,12,Q2 (Nov-Jan),2.5-3.0
+2024-12-29,2024/2025,Crystal Palace,Southampton,H,H,0.0632,1.64,0.64,True,12,Q2 (Nov-Jan),1.5-2.0
+2024-12-29,2024/2025,Fulham,Bournemouth,A,D,0.0518,3.1,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2024-12-29,2024/2025,Tottenham Hotspur,Wolverhampton Wanderers,H,D,0.0385,1.68,-1.0,False,12,Q2 (Nov-Jan),1.5-2.0
+2024-12-29,2024/2025,West Ham United,Liverpool,H,A,0.0239,7.6,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2024-12-30,2024/2025,Manchester United,Newcastle United,A,A,0.0398,2.6,1.6,True,12,Q2 (Nov-Jan),2.5-3.0
+2024-12-30,2024/2025,Aston Villa,Brighton & Hove Albion,A,D,0.0235,3.75,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2024-12-30,2024/2025,Ipswich Town,Chelsea,H,H,0.0413,7.4,6.4,True,12,Q2 (Nov-Jan),6.0+
+2025-01-01,2024/2025,Brentford,Arsenal,H,A,0.0703,7.4,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2025-01-04,2024/2025,Bournemouth,Everton,H,H,0.0754,1.78,0.78,True,1,Q2 (Nov-Jan),1.5-2.0
+2025-01-04,2024/2025,Crystal Palace,Chelsea,H,D,0.149,3.9,-1.0,False,1,Q2 (Nov-Jan),3.0-4.0
+2025-01-04,2024/2025,Southampton,Brentford,A,A,0.0755,2.58,1.58,True,1,Q2 (Nov-Jan),2.5-3.0
+2025-01-04,2024/2025,Brighton & Hove Albion,Arsenal,D,D,0.0208,4.0,3.0,True,1,Q2 (Nov-Jan),4.0-6.0
+2025-01-04,2024/2025,Aston Villa,Leicester City,A,H,0.0729,10.5,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2025-01-04,2024/2025,Tottenham Hotspur,Newcastle United,H,A,0.0423,3.05,-1.0,False,1,Q2 (Nov-Jan),3.0-4.0
+2025-01-04,2024/2025,Manchester City,West Ham United,D,H,0.0424,6.8,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2025-01-05,2024/2025,Liverpool,Manchester United,D,D,0.0063,6.6,5.6,True,1,Q2 (Nov-Jan),6.0+
+2025-01-05,2024/2025,Fulham,Ipswich Town,D,D,0.0152,4.5,3.5,True,1,Q2 (Nov-Jan),4.0-6.0
+2025-01-06,2024/2025,Wolverhampton Wanderers,Nottingham Forest,A,A,0.0226,2.4,1.4,True,1,Q2 (Nov-Jan),2.0-2.5
+2025-01-14,2024/2025,West Ham United,Fulham,H,H,0.0214,3.1,2.1,True,1,Q2 (Nov-Jan),3.0-4.0
+2025-01-14,2024/2025,Chelsea,Bournemouth,A,D,0.1762,6.2,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2025-01-14,2024/2025,Brentford,Manchester City,H,D,0.2099,5.3,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2025-01-14,2024/2025,Nottingham Forest,Liverpool,H,D,0.0617,5.6,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2025-01-15,2024/2025,Newcastle United,Wolverhampton Wanderers,D,H,0.0159,5.9,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2025-01-15,2024/2025,Arsenal,Tottenham Hotspur,H,H,0.0045,1.45,0.45,True,1,Q2 (Nov-Jan),1.0-1.5
+2025-01-15,2024/2025,Everton,Aston Villa,H,A,0.0109,3.35,-1.0,False,1,Q2 (Nov-Jan),3.0-4.0
+2025-01-15,2024/2025,Leicester City,Crystal Palace,H,A,0.0329,4.0,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2025-01-16,2024/2025,Manchester United,Southampton,A,H,0.0321,11.0,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2025-01-16,2024/2025,Ipswich Town,Brighton & Hove Albion,H,A,0.0213,4.0,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2025-01-18,2024/2025,Leicester City,Fulham,H,A,0.0544,4.5,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2025-01-18,2024/2025,Arsenal,Aston Villa,H,D,0.006,1.55,-1.0,False,1,Q2 (Nov-Jan),1.5-2.0
+2025-01-18,2024/2025,Newcastle United,Bournemouth,A,A,0.0877,5.4,4.4,True,1,Q2 (Nov-Jan),4.0-6.0
+2025-01-18,2024/2025,Brentford,Liverpool,H,A,0.0766,7.2,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2025-01-18,2024/2025,West Ham United,Crystal Palace,A,A,0.0656,2.82,1.82,True,1,Q2 (Nov-Jan),2.5-3.0
+2025-01-19,2024/2025,Nottingham Forest,Southampton,H,H,0.0288,1.44,0.44,True,1,Q2 (Nov-Jan),1.0-1.5
+2025-01-19,2024/2025,Everton,Tottenham Hotspur,A,H,0.0183,2.56,-1.0,False,1,Q2 (Nov-Jan),2.5-3.0
+2025-01-19,2024/2025,Ipswich Town,Manchester City,H,A,0.0786,8.8,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2025-01-19,2024/2025,Manchester United,Brighton & Hove Albion,A,A,0.0318,3.65,2.65,True,1,Q2 (Nov-Jan),3.0-4.0
+2025-01-20,2024/2025,Chelsea,Wolverhampton Wanderers,D,H,0.0144,5.7,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2025-01-25,2024/2025,Southampton,Newcastle United,H,A,0.0125,7.6,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2025-01-25,2024/2025,Wolverhampton Wanderers,Arsenal,D,A,0.0395,5.0,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2025-01-25,2024/2025,Brighton & Hove Albion,Everton,A,A,0.0472,5.8,4.8,True,1,Q2 (Nov-Jan),4.0-6.0
+2025-01-25,2024/2025,Liverpool,Ipswich Town,H,H,0.018,1.12,0.12,True,1,Q2 (Nov-Jan),1.0-1.5
+2025-01-25,2024/2025,Manchester City,Chelsea,A,H,0.0448,3.5,-1.0,False,1,Q2 (Nov-Jan),3.0-4.0
+2025-01-25,2024/2025,Bournemouth,Nottingham Forest,H,H,0.0873,2.14,1.14,True,1,Q2 (Nov-Jan),2.0-2.5
+2025-01-26,2024/2025,Crystal Palace,Brentford,H,A,0.0253,2.12,-1.0,False,1,Q2 (Nov-Jan),2.0-2.5
+2025-01-26,2024/2025,Fulham,Manchester United,H,A,0.0951,2.42,-1.0,False,1,Q2 (Nov-Jan),2.0-2.5
+2025-01-26,2024/2025,Tottenham Hotspur,Leicester City,D,A,0.0251,5.6,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2025-01-26,2024/2025,Aston Villa,West Ham United,A,D,0.0131,6.2,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2025-02-01,2024/2025,Wolverhampton Wanderers,Aston Villa,D,H,0.0232,3.75,-1.0,False,2,Q3 (Feb-Mar),3.0-4.0
+2025-02-01,2024/2025,Everton,Leicester City,A,H,0.0375,5.0,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2025-02-01,2024/2025,Newcastle United,Fulham,A,A,0.0368,5.0,4.0,True,2,Q3 (Feb-Mar),4.0-6.0
+2025-02-01,2024/2025,Ipswich Town,Southampton,H,A,0.0383,2.06,-1.0,False,2,Q3 (Feb-Mar),2.0-2.5
+2025-02-01,2024/2025,Nottingham Forest,Brighton & Hove Albion,H,H,0.0328,2.56,1.56,True,2,Q3 (Feb-Mar),2.5-3.0
+2025-02-01,2024/2025,Bournemouth,Liverpool,H,A,0.1187,4.8,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2025-02-02,2024/2025,Manchester United,Crystal Palace,A,A,0.0813,4.1,3.1,True,2,Q3 (Feb-Mar),4.0-6.0
+2025-02-02,2024/2025,Brentford,Tottenham Hotspur,H,A,0.0583,2.18,-1.0,False,2,Q3 (Feb-Mar),2.0-2.5
+2025-02-02,2024/2025,Arsenal,Manchester City,H,H,0.0658,2.02,1.02,True,2,Q3 (Feb-Mar),2.0-2.5
+2025-02-03,2024/2025,Chelsea,West Ham United,A,H,0.0244,8.6,-1.0,False,2,Q3 (Feb-Mar),6.0+
+2025-02-12,2024/2025,Everton,Liverpool,H,D,0.0439,8.0,-1.0,False,2,Q3 (Feb-Mar),6.0+
+2025-02-14,2024/2025,Brighton & Hove Albion,Chelsea,A,H,0.0159,2.5,-1.0,False,2,Q3 (Feb-Mar),2.5-3.0
+2025-02-15,2024/2025,Southampton,Bournemouth,A,A,0.0866,1.56,0.56,True,2,Q3 (Feb-Mar),1.5-2.0
+2025-02-15,2024/2025,Manchester City,Newcastle United,A,H,0.037,3.65,-1.0,False,2,Q3 (Feb-Mar),3.0-4.0
+2025-02-15,2024/2025,Crystal Palace,Everton,A,A,0.0501,5.2,4.2,True,2,Q3 (Feb-Mar),4.0-6.0
+2025-02-15,2024/2025,Fulham,Nottingham Forest,D,H,0.005,3.4,-1.0,False,2,Q3 (Feb-Mar),3.0-4.0
+2025-02-15,2024/2025,Leicester City,Arsenal,D,A,0.0635,5.8,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2025-02-15,2024/2025,Aston Villa,Ipswich Town,D,D,0.0425,5.2,4.2,True,2,Q3 (Feb-Mar),4.0-6.0
+2025-02-15,2024/2025,West Ham United,Brentford,A,A,0.0511,2.98,1.98,True,2,Q3 (Feb-Mar),2.5-3.0
+2025-02-16,2024/2025,Liverpool,Wolverhampton Wanderers,D,H,0.0291,8.8,-1.0,False,2,Q3 (Feb-Mar),6.0+
+2025-02-16,2024/2025,Tottenham Hotspur,Manchester United,H,H,0.0751,2.48,1.48,True,2,Q3 (Feb-Mar),2.0-2.5
+2025-02-19,2024/2025,Aston Villa,Liverpool,A,D,0.0247,1.92,-1.0,False,2,Q3 (Feb-Mar),1.5-2.0
+2025-02-21,2024/2025,Leicester City,Brentford,H,A,0.0142,3.9,-1.0,False,2,Q3 (Feb-Mar),3.0-4.0
+2025-02-22,2024/2025,Southampton,Brighton & Hove Albion,H,A,0.0624,6.2,-1.0,False,2,Q3 (Feb-Mar),6.0+
+2025-02-22,2024/2025,Everton,Manchester United,H,D,0.0526,2.68,-1.0,False,2,Q3 (Feb-Mar),2.5-3.0
+2025-02-22,2024/2025,Ipswich Town,Tottenham Hotspur,H,A,0.0355,4.2,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2025-02-22,2024/2025,Fulham,Crystal Palace,A,A,0.0125,3.9,2.9,True,2,Q3 (Feb-Mar),3.0-4.0
+2025-02-22,2024/2025,Arsenal,West Ham United,D,A,0.0441,6.6,-1.0,False,2,Q3 (Feb-Mar),6.0+
+2025-02-22,2024/2025,Aston Villa,Chelsea,H,H,0.0174,2.7,1.7,True,2,Q3 (Feb-Mar),2.5-3.0
+2025-02-22,2024/2025,Bournemouth,Wolverhampton Wanderers,H,A,0.0377,1.61,-1.0,False,2,Q3 (Feb-Mar),1.5-2.0
+2025-02-23,2024/2025,Newcastle United,Nottingham Forest,A,H,0.0317,4.4,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2025-02-23,2024/2025,Manchester City,Liverpool,D,A,0.0106,4.1,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2025-02-25,2024/2025,Wolverhampton Wanderers,Fulham,D,A,0.0283,3.45,-1.0,False,2,Q3 (Feb-Mar),3.0-4.0
+2025-02-25,2024/2025,Crystal Palace,Aston Villa,H,H,0.119,2.64,1.64,True,2,Q3 (Feb-Mar),2.5-3.0
+2025-02-25,2024/2025,Brighton & Hove Albion,Bournemouth,A,H,0.0564,3.5,-1.0,False,2,Q3 (Feb-Mar),3.0-4.0
+2025-02-25,2024/2025,Chelsea,Southampton,D,H,0.0086,9.6,-1.0,False,2,Q3 (Feb-Mar),6.0+
+2025-02-26,2024/2025,Brentford,Everton,H,D,0.0156,2.1,-1.0,False,2,Q3 (Feb-Mar),2.0-2.5
+2025-02-26,2024/2025,Liverpool,Newcastle United,D,H,0.0145,5.2,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2025-02-26,2024/2025,Nottingham Forest,Arsenal,H,D,0.024,4.1,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2025-02-26,2024/2025,Manchester United,Ipswich Town,D,H,0.0302,4.8,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2025-02-26,2024/2025,Tottenham Hotspur,Manchester City,H,A,0.0197,3.45,-1.0,False,2,Q3 (Feb-Mar),3.0-4.0
+2025-02-27,2024/2025,West Ham United,Leicester City,D,H,0.0356,4.4,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2025-03-08,2024/2025,Brentford,Aston Villa,H,A,0.0826,2.34,-1.0,False,3,Q3 (Feb-Mar),2.0-2.5
+2025-03-08,2024/2025,Crystal Palace,Ipswich Town,H,H,0.0631,1.52,0.52,True,3,Q3 (Feb-Mar),1.5-2.0
+2025-03-08,2024/2025,Liverpool,Southampton,H,H,0.0452,1.15,0.15,True,3,Q3 (Feb-Mar),1.0-1.5
+2025-03-08,2024/2025,Wolverhampton Wanderers,Everton,H,D,0.0073,2.8,-1.0,False,3,Q3 (Feb-Mar),2.5-3.0
+2025-03-08,2024/2025,Brighton & Hove Albion,Fulham,A,H,0.0288,3.95,-1.0,False,3,Q3 (Feb-Mar),3.0-4.0
+2025-03-08,2024/2025,Nottingham Forest,Manchester City,H,H,0.0882,4.1,3.1,True,3,Q3 (Feb-Mar),4.0-6.0
+2025-03-09,2024/2025,Chelsea,Leicester City,D,H,0.078,8.8,-1.0,False,3,Q3 (Feb-Mar),6.0+
+2025-03-09,2024/2025,Tottenham Hotspur,Bournemouth,A,D,0.0092,2.46,-1.0,False,3,Q3 (Feb-Mar),2.0-2.5
+2025-03-09,2024/2025,Manchester United,Arsenal,H,D,0.0414,6.0,-1.0,False,3,Q3 (Feb-Mar),6.0+
+2025-03-10,2024/2025,West Ham United,Newcastle United,A,A,0.0145,2.28,1.28,True,3,Q3 (Feb-Mar),2.0-2.5
+2025-03-15,2024/2025,Bournemouth,Brentford,A,A,0.0035,4.5,3.5,True,3,Q3 (Feb-Mar),4.0-6.0
+2025-03-15,2024/2025,Ipswich Town,Nottingham Forest,D,A,0.0093,3.7,-1.0,False,3,Q3 (Feb-Mar),3.0-4.0
+2025-03-15,2024/2025,Southampton,Wolverhampton Wanderers,A,A,0.0386,2.1,1.1,True,3,Q3 (Feb-Mar),2.0-2.5
+2025-03-15,2024/2025,Manchester City,Brighton & Hove Albion,A,D,0.0419,5.0,-1.0,False,3,Q3 (Feb-Mar),4.0-6.0
+2025-03-15,2024/2025,Everton,West Ham United,H,D,0.0366,2.18,-1.0,False,3,Q3 (Feb-Mar),2.0-2.5
+2025-03-16,2024/2025,Arsenal,Chelsea,H,H,0.0484,1.86,0.86,True,3,Q3 (Feb-Mar),1.5-2.0
+2025-03-16,2024/2025,Fulham,Tottenham Hotspur,H,H,0.0347,2.08,1.08,True,3,Q3 (Feb-Mar),2.0-2.5
+2025-03-16,2024/2025,Leicester City,Manchester United,H,A,0.0924,4.6,-1.0,False,3,Q3 (Feb-Mar),4.0-6.0
+2025-04-01,2024/2025,Arsenal,Fulham,D,H,0.0574,4.3,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2025-04-01,2024/2025,Nottingham Forest,Manchester United,H,H,0.081,2.38,1.38,True,4,Q4 (Apr-May),2.0-2.5
+2025-04-01,2024/2025,Wolverhampton Wanderers,West Ham United,H,H,0.0246,2.66,1.66,True,4,Q4 (Apr-May),2.5-3.0
+2025-04-02,2024/2025,Bournemouth,Ipswich Town,H,A,0.0157,1.41,-1.0,False,4,Q4 (Apr-May),1.0-1.5
+2025-04-02,2024/2025,Brighton & Hove Albion,Aston Villa,H,A,0.0752,2.2,-1.0,False,4,Q4 (Apr-May),2.0-2.5
+2025-04-02,2024/2025,Manchester City,Leicester City,D,H,0.0743,8.6,-1.0,False,4,Q4 (Apr-May),6.0+
+2025-04-02,2024/2025,Southampton,Crystal Palace,A,D,0.1064,1.65,-1.0,False,4,Q4 (Apr-May),1.5-2.0
+2025-04-02,2024/2025,Newcastle United,Brentford,D,H,0.0226,4.6,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2025-04-02,2024/2025,Liverpool,Everton,D,H,0.0299,5.4,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2025-04-03,2024/2025,Chelsea,Tottenham Hotspur,D,H,0.0202,4.8,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2025-04-05,2024/2025,Everton,Arsenal,H,D,0.0847,5.8,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2025-04-05,2024/2025,Crystal Palace,Brighton & Hove Albion,H,H,0.0792,2.5,1.5,True,4,Q4 (Apr-May),2.5-3.0
+2025-04-05,2024/2025,Ipswich Town,Wolverhampton Wanderers,D,A,0.0188,3.4,-1.0,False,4,Q4 (Apr-May),3.0-4.0
+2025-04-05,2024/2025,West Ham United,Bournemouth,A,D,0.0278,2.48,-1.0,False,4,Q4 (Apr-May),2.0-2.5
+2025-04-05,2024/2025,Aston Villa,Nottingham Forest,A,H,0.0178,3.95,-1.0,False,4,Q4 (Apr-May),3.0-4.0
+2025-04-06,2024/2025,Brentford,Chelsea,H,D,0.1212,3.4,-1.0,False,4,Q4 (Apr-May),3.0-4.0
+2025-04-06,2024/2025,Tottenham Hotspur,Southampton,H,H,0.0294,1.42,0.42,True,4,Q4 (Apr-May),1.0-1.5
+2025-04-06,2024/2025,Fulham,Liverpool,D,H,0.0228,3.9,-1.0,False,4,Q4 (Apr-May),3.0-4.0
+2025-04-06,2024/2025,Manchester United,Manchester City,D,D,0.006,3.75,2.75,True,4,Q4 (Apr-May),3.0-4.0
+2025-04-07,2024/2025,Leicester City,Newcastle United,H,A,0.0576,7.2,-1.0,False,4,Q4 (Apr-May),6.0+
+2025-04-12,2024/2025,Brighton & Hove Albion,Leicester City,D,D,0.05,6.4,5.4,True,4,Q4 (Apr-May),6.0+
+2025-04-12,2024/2025,Arsenal,Brentford,D,D,0.019,4.4,3.4,True,4,Q4 (Apr-May),4.0-6.0
+2025-04-12,2024/2025,Southampton,Aston Villa,H,A,0.0124,6.2,-1.0,False,4,Q4 (Apr-May),6.0+
+2025-04-12,2024/2025,Manchester City,Crystal Palace,A,H,0.0994,6.4,-1.0,False,4,Q4 (Apr-May),6.0+
+2025-04-12,2024/2025,Nottingham Forest,Everton,A,A,0.0652,4.0,3.0,True,4,Q4 (Apr-May),4.0-6.0
+2025-04-13,2024/2025,Chelsea,Ipswich Town,D,D,0.0562,6.8,5.8,True,4,Q4 (Apr-May),6.0+
+2025-04-13,2024/2025,Liverpool,West Ham United,D,H,0.0222,6.4,-1.0,False,4,Q4 (Apr-May),6.0+
+2025-04-13,2024/2025,Newcastle United,Manchester United,D,H,0.0048,4.4,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2025-04-13,2024/2025,Wolverhampton Wanderers,Tottenham Hotspur,A,H,0.0488,3.35,-1.0,False,4,Q4 (Apr-May),3.0-4.0
+2025-04-14,2024/2025,Bournemouth,Fulham,H,H,0.0342,2.2,1.2,True,4,Q4 (Apr-May),2.0-2.5
+2025-04-16,2024/2025,Newcastle United,Crystal Palace,A,H,0.0247,5.3,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2025-04-19,2024/2025,West Ham United,Southampton,H,D,0.0186,1.55,-1.0,False,4,Q4 (Apr-May),1.5-2.0
+2025-04-19,2024/2025,Aston Villa,Newcastle United,A,H,0.0303,3.0,-1.0,False,4,Q4 (Apr-May),3.0-4.0
+2025-04-19,2024/2025,Crystal Palace,Bournemouth,H,D,0.0353,2.66,-1.0,False,4,Q4 (Apr-May),2.5-3.0
+2025-04-19,2024/2025,Brentford,Brighton & Hove Albion,A,H,0.0041,2.84,-1.0,False,4,Q4 (Apr-May),2.5-3.0
+2025-04-19,2024/2025,Everton,Manchester City,H,A,0.0653,4.1,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2025-04-20,2024/2025,Fulham,Chelsea,H,A,0.0627,2.98,-1.0,False,4,Q4 (Apr-May),2.5-3.0
+2025-04-20,2024/2025,Leicester City,Liverpool,D,A,0.0596,7.2,-1.0,False,4,Q4 (Apr-May),6.0+
+2025-04-20,2024/2025,Ipswich Town,Arsenal,D,A,0.0519,5.0,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2025-04-20,2024/2025,Manchester United,Wolverhampton Wanderers,D,A,0.0161,3.65,-1.0,False,4,Q4 (Apr-May),3.0-4.0
+2025-04-21,2024/2025,Tottenham Hotspur,Nottingham Forest,H,A,0.0852,2.6,-1.0,False,4,Q4 (Apr-May),2.5-3.0
+2025-04-22,2024/2025,Manchester City,Aston Villa,H,H,0.0074,1.9,0.9,True,4,Q4 (Apr-May),1.5-2.0
+2025-04-23,2024/2025,Arsenal,Crystal Palace,A,D,0.0718,9.8,-1.0,False,4,Q4 (Apr-May),6.0+
+2025-04-26,2024/2025,Southampton,Fulham,D,A,0.0316,4.3,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2025-04-26,2024/2025,Wolverhampton Wanderers,Leicester City,D,H,0.0274,4.4,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2025-04-26,2024/2025,Chelsea,Everton,A,H,0.0898,6.6,-1.0,False,4,Q4 (Apr-May),6.0+
+2025-04-26,2024/2025,Brighton & Hove Albion,West Ham United,D,H,0.0096,4.2,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2025-04-26,2024/2025,Newcastle United,Ipswich Town,D,H,0.043,8.4,-1.0,False,4,Q4 (Apr-May),6.0+
+2025-04-27,2024/2025,Liverpool,Tottenham Hotspur,D,H,0.0429,7.2,-1.0,False,4,Q4 (Apr-May),6.0+
+2025-04-27,2024/2025,Bournemouth,Manchester United,D,D,0.017,4.3,3.3,True,4,Q4 (Apr-May),4.0-6.0
+2025-05-01,2024/2025,Nottingham Forest,Brentford,A,A,0.0882,3.45,2.45,True,5,Q4 (Apr-May),3.0-4.0
+2025-05-02,2024/2025,Manchester City,Wolverhampton Wanderers,D,H,0.0427,5.3,-1.0,False,5,Q4 (Apr-May),4.0-6.0
+2025-05-03,2024/2025,Leicester City,Southampton,H,H,0.0583,2.44,1.44,True,5,Q4 (Apr-May),2.0-2.5
+2025-05-03,2024/2025,Aston Villa,Fulham,D,H,0.0227,4.0,-1.0,False,5,Q4 (Apr-May),4.0-6.0
+2025-05-03,2024/2025,Arsenal,Bournemouth,H,A,0.0685,2.16,-1.0,False,5,Q4 (Apr-May),2.0-2.5
+2025-05-03,2024/2025,Everton,Ipswich Town,D,D,0.0098,4.5,3.5,True,5,Q4 (Apr-May),4.0-6.0
+2025-05-04,2024/2025,West Ham United,Tottenham Hotspur,A,D,0.0594,3.5,-1.0,False,5,Q4 (Apr-May),3.0-4.0
+2025-05-04,2024/2025,Brighton & Hove Albion,Newcastle United,H,D,0.0466,2.94,-1.0,False,5,Q4 (Apr-May),2.5-3.0
+2025-05-04,2024/2025,Chelsea,Liverpool,A,H,0.1669,3.3,-1.0,False,5,Q4 (Apr-May),3.0-4.0
+2025-05-04,2024/2025,Brentford,Manchester United,A,H,0.0374,4.9,-1.0,False,5,Q4 (Apr-May),4.0-6.0
+2025-05-05,2024/2025,Crystal Palace,Nottingham Forest,H,D,0.1244,2.38,-1.0,False,5,Q4 (Apr-May),2.0-2.5
+2025-05-10,2024/2025,Wolverhampton Wanderers,Brighton & Hove Albion,D,A,0.0206,3.6,-1.0,False,5,Q4 (Apr-May),3.0-4.0
+2025-05-10,2024/2025,Southampton,Manchester City,D,D,0.0794,8.6,7.6,True,5,Q4 (Apr-May),6.0+
+2025-05-10,2024/2025,Ipswich Town,Brentford,D,A,0.0025,4.4,-1.0,False,5,Q4 (Apr-May),4.0-6.0
+2025-05-10,2024/2025,Fulham,Everton,D,A,0.0561,3.65,-1.0,False,5,Q4 (Apr-May),3.0-4.0
+2025-05-10,2024/2025,Bournemouth,Aston Villa,H,A,0.0326,2.58,-1.0,False,5,Q4 (Apr-May),2.5-3.0
+2025-05-11,2024/2025,Tottenham Hotspur,Crystal Palace,H,A,0.0322,2.82,-1.0,False,5,Q4 (Apr-May),2.5-3.0
+2025-05-11,2024/2025,Manchester United,West Ham United,D,A,0.0306,3.8,-1.0,False,5,Q4 (Apr-May),3.0-4.0
+2025-05-11,2024/2025,Nottingham Forest,Leicester City,D,D,0.0751,5.6,4.6,True,5,Q4 (Apr-May),4.0-6.0
+2025-05-11,2024/2025,Newcastle United,Chelsea,H,H,0.0649,2.28,1.28,True,5,Q4 (Apr-May),2.0-2.5
+2025-05-11,2024/2025,Liverpool,Arsenal,H,D,0.0217,2.24,-1.0,False,5,Q4 (Apr-May),2.0-2.5
+2025-05-16,2024/2025,Aston Villa,Tottenham Hotspur,A,H,0.0738,9.6,-1.0,False,5,Q4 (Apr-May),6.0+
+2025-05-16,2024/2025,Chelsea,Manchester United,A,H,0.0765,7.2,-1.0,False,5,Q4 (Apr-May),6.0+
+2025-05-18,2024/2025,Leicester City,Ipswich Town,D,H,0.0194,3.7,-1.0,False,5,Q4 (Apr-May),3.0-4.0
+2025-05-18,2024/2025,Brentford,Fulham,D,A,0.0314,4.0,-1.0,False,5,Q4 (Apr-May),4.0-6.0
+2025-05-18,2024/2025,Arsenal,Newcastle United,A,H,0.0178,4.0,-1.0,False,5,Q4 (Apr-May),4.0-6.0
+2025-05-18,2024/2025,West Ham United,Nottingham Forest,H,A,0.0928,2.92,-1.0,False,5,Q4 (Apr-May),2.5-3.0
+2025-05-18,2024/2025,Everton,Southampton,D,H,0.0307,5.1,-1.0,False,5,Q4 (Apr-May),4.0-6.0
+2025-05-19,2024/2025,Brighton & Hove Albion,Liverpool,A,H,0.0689,2.52,-1.0,False,5,Q4 (Apr-May),2.5-3.0
+2025-05-20,2024/2025,Crystal Palace,Wolverhampton Wanderers,H,H,0.1629,2.4,1.4,True,5,Q4 (Apr-May),2.0-2.5
+2025-05-20,2024/2025,Manchester City,Bournemouth,A,H,0.0763,6.2,-1.0,False,5,Q4 (Apr-May),6.0+
+2025-05-25,2024/2025,Fulham,Manchester City,H,A,0.1469,5.6,-1.0,False,5,Q4 (Apr-May),4.0-6.0
+2025-05-25,2024/2025,Tottenham Hotspur,Brighton & Hove Albion,H,A,0.1359,4.4,-1.0,False,5,Q4 (Apr-May),4.0-6.0
+2025-05-25,2024/2025,Liverpool,Crystal Palace,A,D,0.0516,7.0,-1.0,False,5,Q4 (Apr-May),6.0+
+2025-05-25,2024/2025,Ipswich Town,West Ham United,D,A,0.0464,3.9,-1.0,False,5,Q4 (Apr-May),3.0-4.0
+2025-05-25,2024/2025,Bournemouth,Leicester City,D,H,0.0111,5.8,-1.0,False,5,Q4 (Apr-May),4.0-6.0
+2025-05-25,2024/2025,Manchester United,Aston Villa,H,H,0.1195,4.7,3.7,True,5,Q4 (Apr-May),4.0-6.0
+2025-05-25,2024/2025,Wolverhampton Wanderers,Brentford,D,D,0.0266,3.85,2.85,True,5,Q4 (Apr-May),3.0-4.0
+2025-05-25,2024/2025,Southampton,Arsenal,D,A,0.0513,6.4,-1.0,False,5,Q4 (Apr-May),6.0+
+2025-05-25,2024/2025,Nottingham Forest,Chelsea,D,A,0.032,3.9,-1.0,False,5,Q4 (Apr-May),3.0-4.0
+2025-05-25,2024/2025,Newcastle United,Everton,D,A,0.0904,6.2,-1.0,False,5,Q4 (Apr-May),6.0+
+2025-08-15,2025/2026,Liverpool,Bournemouth,A,H,0.0795,9.4,-1.0,False,8,Q1 (Aug-Oct),6.0+
+2025-08-16,2025/2026,Brighton & Hove Albion,Fulham,A,D,0.021,4.2,-1.0,False,8,Q1 (Aug-Oct),4.0-6.0
+2025-08-16,2025/2026,Aston Villa,Newcastle United,A,D,0.0526,3.1,-1.0,False,8,Q1 (Aug-Oct),3.0-4.0
+2025-08-16,2025/2026,Wolverhampton Wanderers,Manchester City,H,A,0.1431,7.4,-1.0,False,8,Q1 (Aug-Oct),6.0+
+2025-08-17,2025/2026,Manchester United,Arsenal,H,A,0.0571,3.9,-1.0,False,8,Q1 (Aug-Oct),3.0-4.0
+2025-08-17,2025/2026,Nottingham Forest,Brentford,A,H,0.1321,3.55,-1.0,False,8,Q1 (Aug-Oct),3.0-4.0
+2025-08-17,2025/2026,Chelsea,Crystal Palace,A,D,0.1328,5.4,-1.0,False,8,Q1 (Aug-Oct),4.0-6.0
+2025-08-22,2025/2026,West Ham United,Chelsea,H,A,0.0887,5.1,-1.0,False,8,Q1 (Aug-Oct),4.0-6.0
+2025-08-23,2025/2026,Bournemouth,Wolverhampton Wanderers,D,H,0.0184,4.0,-1.0,False,8,Q1 (Aug-Oct),4.0-6.0
+2025-08-23,2025/2026,Manchester City,Tottenham Hotspur,D,A,0.0165,5.1,-1.0,False,8,Q1 (Aug-Oct),4.0-6.0
+2025-08-23,2025/2026,Brentford,Aston Villa,H,H,0.167,3.3,2.3,True,8,Q1 (Aug-Oct),3.0-4.0
+2025-08-24,2025/2026,Everton,Brighton & Hove Albion,H,H,0.0743,3.25,2.25,True,8,Q1 (Aug-Oct),3.0-4.0
+2025-08-24,2025/2026,Fulham,Manchester United,H,D,0.1278,3.5,-1.0,False,8,Q1 (Aug-Oct),3.0-4.0
+2025-08-24,2025/2026,Crystal Palace,Nottingham Forest,H,D,0.1668,2.46,-1.0,False,8,Q1 (Aug-Oct),2.0-2.5
+2025-08-25,2025/2026,Newcastle United,Liverpool,H,A,0.122,3.45,-1.0,False,8,Q1 (Aug-Oct),3.0-4.0
+2025-08-30,2025/2026,Wolverhampton Wanderers,Everton,D,A,0.0206,3.25,-1.0,False,8,Q1 (Aug-Oct),3.0-4.0
+2025-08-30,2025/2026,Chelsea,Fulham,A,H,0.0552,6.0,-1.0,False,8,Q1 (Aug-Oct),6.0+
+2025-08-30,2025/2026,Tottenham Hotspur,Bournemouth,A,A,0.1691,4.6,3.6,True,8,Q1 (Aug-Oct),4.0-6.0
+2025-08-31,2025/2026,Nottingham Forest,West Ham United,A,A,0.0388,5.5,4.5,True,8,Q1 (Aug-Oct),4.0-6.0
+2025-08-31,2025/2026,Brighton & Hove Albion,Manchester City,H,H,0.1352,4.0,3.0,True,8,Q1 (Aug-Oct),4.0-6.0
+2025-08-31,2025/2026,Liverpool,Arsenal,H,H,0.0278,2.28,1.28,True,8,Q1 (Aug-Oct),2.0-2.5
+2025-08-31,2025/2026,Aston Villa,Crystal Palace,A,A,0.0978,4.5,3.5,True,8,Q1 (Aug-Oct),4.0-6.0
+2025-09-13,2025/2026,Brentford,Chelsea,H,D,0.1924,4.9,-1.0,False,9,Q1 (Aug-Oct),4.0-6.0
+2025-09-13,2025/2026,Everton,Aston Villa,D,D,0.0099,3.4,2.4,True,9,Q1 (Aug-Oct),3.0-4.0
+2025-09-13,2025/2026,West Ham United,Tottenham Hotspur,H,A,0.1257,3.6,-1.0,False,9,Q1 (Aug-Oct),3.0-4.0
+2025-09-13,2025/2026,Bournemouth,Brighton & Hove Albion,H,H,0.0821,2.46,1.46,True,9,Q1 (Aug-Oct),2.0-2.5
+2025-09-13,2025/2026,Newcastle United,Wolverhampton Wanderers,D,H,0.0284,4.9,-1.0,False,9,Q1 (Aug-Oct),4.0-6.0
+2025-09-13,2025/2026,Arsenal,Nottingham Forest,D,H,0.0635,5.3,-1.0,False,9,Q1 (Aug-Oct),4.0-6.0
+2025-09-14,2025/2026,Manchester City,Manchester United,A,H,0.023,4.6,-1.0,False,9,Q1 (Aug-Oct),4.0-6.0
+2025-09-20,2025/2026,Brighton & Hove Albion,Tottenham Hotspur,H,D,0.1376,2.38,-1.0,False,9,Q1 (Aug-Oct),2.0-2.5
+2025-09-20,2025/2026,Manchester United,Chelsea,H,H,0.0306,2.8,1.8,True,9,Q1 (Aug-Oct),2.5-3.0
+2025-09-20,2025/2026,West Ham United,Crystal Palace,A,A,0.0637,2.5,1.5,True,9,Q1 (Aug-Oct),2.5-3.0
+2025-09-20,2025/2026,Fulham,Brentford,A,H,0.0998,4.0,-1.0,False,9,Q1 (Aug-Oct),4.0-6.0
+2025-09-20,2025/2026,Liverpool,Everton,A,H,0.0494,8.0,-1.0,False,9,Q1 (Aug-Oct),6.0+
+2025-09-21,2025/2026,Arsenal,Manchester City,D,D,0.0184,3.85,2.85,True,9,Q1 (Aug-Oct),3.0-4.0
+2025-09-21,2025/2026,Bournemouth,Newcastle United,D,D,0.0119,3.6,2.6,True,9,Q1 (Aug-Oct),3.0-4.0
+2025-09-27,2025/2026,Tottenham Hotspur,Wolverhampton Wanderers,A,D,0.1194,7.2,-1.0,False,9,Q1 (Aug-Oct),6.0+
+2025-09-27,2025/2026,Crystal Palace,Liverpool,H,H,0.139,4.2,3.2,True,9,Q1 (Aug-Oct),4.0-6.0
+2025-09-27,2025/2026,Brentford,Manchester United,H,H,0.1615,3.7,2.7,True,9,Q1 (Aug-Oct),3.0-4.0
+2025-09-27,2025/2026,Chelsea,Brighton & Hove Albion,A,A,0.0075,4.1,3.1,True,9,Q1 (Aug-Oct),4.0-6.0
+2025-09-28,2025/2026,Aston Villa,Fulham,H,H,0.0091,2.38,1.38,True,9,Q1 (Aug-Oct),2.0-2.5
+2025-09-28,2025/2026,Newcastle United,Arsenal,H,A,0.1158,3.75,-1.0,False,9,Q1 (Aug-Oct),3.0-4.0
+2025-09-29,2025/2026,Everton,West Ham United,D,D,0.026,3.9,2.9,True,9,Q1 (Aug-Oct),3.0-4.0
+2025-10-03,2025/2026,Bournemouth,Fulham,D,H,0.0144,3.65,-1.0,False,10,Q1 (Aug-Oct),3.0-4.0
+2025-10-04,2025/2026,Arsenal,West Ham United,D,H,0.0952,7.8,-1.0,False,10,Q1 (Aug-Oct),6.0+
+2025-10-04,2025/2026,Chelsea,Liverpool,H,H,0.0365,3.0,2.0,True,10,Q1 (Aug-Oct),3.0-4.0
+2025-10-05,2025/2026,Newcastle United,Nottingham Forest,D,H,0.0212,4.5,-1.0,False,10,Q1 (Aug-Oct),4.0-6.0
+2025-10-05,2025/2026,Everton,Crystal Palace,A,H,0.0515,3.1,-1.0,False,10,Q1 (Aug-Oct),3.0-4.0
+2025-10-05,2025/2026,Wolverhampton Wanderers,Brighton & Hove Albion,H,D,0.0565,3.85,-1.0,False,10,Q1 (Aug-Oct),3.0-4.0
+2025-10-05,2025/2026,Brentford,Manchester City,H,A,0.1766,5.2,-1.0,False,10,Q1 (Aug-Oct),4.0-6.0
+2025-10-18,2025/2026,Crystal Palace,Bournemouth,H,D,0.0615,2.32,-1.0,False,10,Q1 (Aug-Oct),2.0-2.5
+2025-10-18,2025/2026,Fulham,Arsenal,H,A,0.1057,6.8,-1.0,False,10,Q1 (Aug-Oct),6.0+
+2025-10-18,2025/2026,Manchester City,Everton,A,H,0.0917,8.8,-1.0,False,10,Q1 (Aug-Oct),6.0+
+2025-10-18,2025/2026,Brighton & Hove Albion,Newcastle United,A,H,0.0066,2.66,-1.0,False,10,Q1 (Aug-Oct),2.5-3.0
+2025-10-18,2025/2026,Nottingham Forest,Chelsea,D,A,0.0241,3.95,-1.0,False,10,Q1 (Aug-Oct),3.0-4.0
+2025-10-19,2025/2026,Tottenham Hotspur,Aston Villa,A,A,0.0659,3.6,2.6,True,10,Q1 (Aug-Oct),3.0-4.0
+2025-10-19,2025/2026,Liverpool,Manchester United,A,A,0.0329,5.5,4.5,True,10,Q1 (Aug-Oct),4.0-6.0
+2025-10-20,2025/2026,West Ham United,Brentford,A,A,0.0991,2.9,1.9,True,10,Q1 (Aug-Oct),2.5-3.0
+2025-10-25,2025/2026,Manchester United,Brighton & Hove Albion,A,H,0.005,3.7,-1.0,False,10,Q1 (Aug-Oct),3.0-4.0
+2025-10-25,2025/2026,Brentford,Liverpool,H,H,0.1565,4.5,3.5,True,10,Q1 (Aug-Oct),4.0-6.0
+2025-10-25,2025/2026,Newcastle United,Fulham,D,H,0.0172,4.1,-1.0,False,10,Q1 (Aug-Oct),4.0-6.0
+2025-10-26,2025/2026,Bournemouth,Nottingham Forest,H,H,0.0669,1.84,0.84,True,10,Q1 (Aug-Oct),1.5-2.0
+2025-10-26,2025/2026,Arsenal,Crystal Palace,A,H,0.1388,8.6,-1.0,False,10,Q1 (Aug-Oct),6.0+
+2025-10-26,2025/2026,Aston Villa,Manchester City,H,H,0.0737,4.6,3.6,True,10,Q1 (Aug-Oct),4.0-6.0
+2025-10-26,2025/2026,Everton,Tottenham Hotspur,H,A,0.0705,2.42,-1.0,False,10,Q1 (Aug-Oct),2.0-2.5
+2025-11-01,2025/2026,Fulham,Wolverhampton Wanderers,A,H,0.035,4.8,-1.0,False,11,Q2 (Nov-Jan),4.0-6.0
+2025-11-01,2025/2026,Liverpool,Aston Villa,H,H,0.0149,1.68,0.68,True,11,Q2 (Nov-Jan),1.5-2.0
+2025-11-01,2025/2026,Crystal Palace,Brentford,H,H,0.0202,1.99,0.99,True,11,Q2 (Nov-Jan),1.5-2.0
+2025-11-01,2025/2026,Tottenham Hotspur,Chelsea,A,A,0.0027,2.62,1.62,True,11,Q2 (Nov-Jan),2.5-3.0
+2025-11-01,2025/2026,Nottingham Forest,Manchester United,D,D,0.0071,3.9,2.9,True,11,Q2 (Nov-Jan),3.0-4.0
+2025-11-02,2025/2026,West Ham United,Newcastle United,D,H,0.0211,4.4,-1.0,False,11,Q2 (Nov-Jan),4.0-6.0
+2025-11-02,2025/2026,Manchester City,Bournemouth,D,H,0.0518,4.8,-1.0,False,11,Q2 (Nov-Jan),4.0-6.0
+2025-11-08,2025/2026,Tottenham Hotspur,Manchester United,A,D,0.0575,2.66,-1.0,False,11,Q2 (Nov-Jan),2.5-3.0
+2025-11-08,2025/2026,Everton,Fulham,D,H,0.0139,3.4,-1.0,False,11,Q2 (Nov-Jan),3.0-4.0
+2025-11-08,2025/2026,Chelsea,Wolverhampton Wanderers,D,H,0.0692,5.5,-1.0,False,11,Q2 (Nov-Jan),4.0-6.0
+2025-11-08,2025/2026,Sunderland,Arsenal,D,D,0.0884,5.1,4.1,True,11,Q2 (Nov-Jan),4.0-6.0
+2025-11-08,2025/2026,West Ham United,Burnley,H,H,0.0068,1.98,0.98,True,11,Q2 (Nov-Jan),1.5-2.0
+2025-11-09,2025/2026,Crystal Palace,Brighton & Hove Albion,H,D,0.1073,2.38,-1.0,False,11,Q2 (Nov-Jan),2.0-2.5
+2025-11-09,2025/2026,Nottingham Forest,Leeds United,A,H,0.0221,3.45,-1.0,False,11,Q2 (Nov-Jan),3.0-4.0
+2025-11-09,2025/2026,Brentford,Newcastle United,H,H,0.0765,2.96,1.96,True,11,Q2 (Nov-Jan),2.5-3.0
+2025-11-09,2025/2026,Manchester City,Liverpool,A,H,0.0268,4.0,-1.0,False,11,Q2 (Nov-Jan),4.0-6.0
+2025-11-09,2025/2026,Aston Villa,Bournemouth,D,H,0.0255,3.6,-1.0,False,11,Q2 (Nov-Jan),3.0-4.0
+2025-11-22,2025/2026,Bournemouth,West Ham United,D,D,0.0205,4.4,3.4,True,11,Q2 (Nov-Jan),4.0-6.0
+2025-11-22,2025/2026,Burnley,Chelsea,H,A,0.0137,7.6,-1.0,False,11,Q2 (Nov-Jan),6.0+
+2025-11-22,2025/2026,Newcastle United,Manchester City,H,H,0.1226,3.85,2.85,True,11,Q2 (Nov-Jan),3.0-4.0
+2025-11-22,2025/2026,Liverpool,Nottingham Forest,A,A,0.0134,8.0,7.0,True,11,Q2 (Nov-Jan),6.0+
+2025-11-22,2025/2026,Fulham,Sunderland,H,H,0.043,2.2,1.2,True,11,Q2 (Nov-Jan),2.0-2.5
+2025-11-22,2025/2026,Brighton & Hove Albion,Brentford,A,H,0.1138,4.1,-1.0,False,11,Q2 (Nov-Jan),4.0-6.0
+2025-11-22,2025/2026,Wolverhampton Wanderers,Crystal Palace,A,A,0.0183,2.0,1.0,True,11,Q2 (Nov-Jan),2.0-2.5
+2025-11-23,2025/2026,Leeds United,Aston Villa,H,A,0.0346,3.15,-1.0,False,11,Q2 (Nov-Jan),3.0-4.0
+2025-11-23,2025/2026,Arsenal,Tottenham Hotspur,D,H,0.0212,5.0,-1.0,False,11,Q2 (Nov-Jan),4.0-6.0
+2025-11-24,2025/2026,Manchester United,Everton,A,A,0.0572,4.8,3.8,True,11,Q2 (Nov-Jan),4.0-6.0
+2025-11-29,2025/2026,Tottenham Hotspur,Fulham,A,A,0.0709,3.5,2.5,True,11,Q2 (Nov-Jan),3.0-4.0
+2025-11-29,2025/2026,Manchester City,Leeds United,D,H,0.0612,7.0,-1.0,False,11,Q2 (Nov-Jan),6.0+
+2025-11-29,2025/2026,Sunderland,Bournemouth,A,H,0.047,2.44,-1.0,False,11,Q2 (Nov-Jan),2.0-2.5
+2025-11-29,2025/2026,Everton,Newcastle United,A,A,0.0202,2.74,1.74,True,11,Q2 (Nov-Jan),2.5-3.0
+2025-11-29,2025/2026,Brentford,Burnley,H,H,0.1495,1.51,0.51,True,11,Q2 (Nov-Jan),1.5-2.0
+2025-11-30,2025/2026,Aston Villa,Wolverhampton Wanderers,D,H,0.0847,4.8,-1.0,False,11,Q2 (Nov-Jan),4.0-6.0
+2025-11-30,2025/2026,Nottingham Forest,Brighton & Hove Albion,A,A,0.0255,2.74,1.74,True,11,Q2 (Nov-Jan),2.5-3.0
+2025-11-30,2025/2026,Crystal Palace,Manchester United,H,A,0.0711,2.36,-1.0,False,11,Q2 (Nov-Jan),2.0-2.5
+2025-11-30,2025/2026,Chelsea,Arsenal,H,D,0.0706,3.55,-1.0,False,11,Q2 (Nov-Jan),3.0-4.0
+2025-11-30,2025/2026,West Ham United,Liverpool,A,A,0.0165,1.79,0.79,True,11,Q2 (Nov-Jan),1.5-2.0
+2025-12-02,2025/2026,Bournemouth,Everton,H,A,0.0699,2.32,-1.0,False,12,Q2 (Nov-Jan),2.0-2.5
+2025-12-02,2025/2026,Fulham,Manchester City,H,A,0.0903,5.1,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-02,2025/2026,Newcastle United,Tottenham Hotspur,H,D,0.0911,1.88,-1.0,False,12,Q2 (Nov-Jan),1.5-2.0
+2025-12-03,2025/2026,Leeds United,Chelsea,H,H,0.0439,4.4,3.4,True,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-03,2025/2026,Burnley,Crystal Palace,A,A,0.1087,1.86,0.86,True,12,Q2 (Nov-Jan),1.5-2.0
+2025-12-03,2025/2026,Wolverhampton Wanderers,Nottingham Forest,H,A,0.0827,3.4,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2025-12-03,2025/2026,Brighton & Hove Albion,Aston Villa,H,A,0.0655,2.22,-1.0,False,12,Q2 (Nov-Jan),2.0-2.5
+2025-12-03,2025/2026,Liverpool,Sunderland,D,D,0.0218,5.7,4.7,True,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-03,2025/2026,Arsenal,Brentford,A,H,0.1525,10.5,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2025-12-04,2025/2026,Manchester United,West Ham United,D,D,0.0151,5.2,4.2,True,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-06,2025/2026,Manchester City,Sunderland,D,H,0.0572,6.8,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2025-12-06,2025/2026,Everton,Nottingham Forest,H,H,0.0339,2.28,1.28,True,12,Q2 (Nov-Jan),2.0-2.5
+2025-12-06,2025/2026,Tottenham Hotspur,Brentford,A,H,0.1837,3.15,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2025-12-06,2025/2026,Aston Villa,Arsenal,D,H,0.0166,3.6,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2025-12-06,2025/2026,Newcastle United,Burnley,D,H,0.0056,6.4,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2025-12-06,2025/2026,Bournemouth,Chelsea,H,D,0.0745,3.35,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2025-12-06,2025/2026,Leeds United,Liverpool,H,D,0.0574,4.1,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-07,2025/2026,Brighton & Hove Albion,West Ham United,D,D,0.0103,4.7,3.7,True,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-07,2025/2026,Fulham,Crystal Palace,A,A,0.0404,2.94,1.94,True,12,Q2 (Nov-Jan),2.5-3.0
+2025-12-08,2025/2026,Wolverhampton Wanderers,Manchester United,D,A,0.0439,4.1,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-13,2025/2026,Chelsea,Everton,A,H,0.0357,5.6,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-13,2025/2026,Liverpool,Brighton & Hove Albion,A,H,0.0431,5.0,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-13,2025/2026,Arsenal,Wolverhampton Wanderers,D,H,0.0971,10.5,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2025-12-13,2025/2026,Burnley,Fulham,H,A,0.0359,4.1,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-14,2025/2026,West Ham United,Aston Villa,H,A,0.0303,3.85,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2025-12-14,2025/2026,Sunderland,Newcastle United,A,H,0.0731,2.32,-1.0,False,12,Q2 (Nov-Jan),2.0-2.5
+2025-12-14,2025/2026,Brentford,Leeds United,H,D,0.1173,2.02,-1.0,False,12,Q2 (Nov-Jan),2.0-2.5
+2025-12-14,2025/2026,Crystal Palace,Manchester City,H,A,0.1503,4.3,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-14,2025/2026,Nottingham Forest,Tottenham Hotspur,H,H,0.0155,2.7,1.7,True,12,Q2 (Nov-Jan),2.5-3.0
+2025-12-15,2025/2026,Manchester United,Bournemouth,D,D,0.0153,4.2,3.2,True,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-20,2025/2026,Everton,Arsenal,H,A,0.085,6.6,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2025-12-20,2025/2026,Tottenham Hotspur,Liverpool,D,A,0.0107,3.85,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2025-12-20,2025/2026,Wolverhampton Wanderers,Brentford,A,A,0.0238,2.12,1.12,True,12,Q2 (Nov-Jan),2.0-2.5
+2025-12-20,2025/2026,Leeds United,Crystal Palace,A,H,0.0469,2.9,-1.0,False,12,Q2 (Nov-Jan),2.5-3.0
+2025-12-20,2025/2026,Newcastle United,Chelsea,H,D,0.0779,2.9,-1.0,False,12,Q2 (Nov-Jan),2.5-3.0
+2025-12-20,2025/2026,Manchester City,West Ham United,D,H,0.069,8.2,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2025-12-20,2025/2026,Brighton & Hove Albion,Sunderland,D,D,0.0153,4.2,3.2,True,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-20,2025/2026,Bournemouth,Burnley,H,D,0.0145,1.52,-1.0,False,12,Q2 (Nov-Jan),1.5-2.0
+2025-12-21,2025/2026,Aston Villa,Manchester United,A,H,0.1017,3.6,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2025-12-22,2025/2026,Fulham,Nottingham Forest,H,H,0.04,2.58,1.58,True,12,Q2 (Nov-Jan),2.5-3.0
+2025-12-26,2025/2026,Manchester United,Newcastle United,H,H,0.0555,2.64,1.64,True,12,Q2 (Nov-Jan),2.5-3.0
+2025-12-27,2025/2026,Arsenal,Brighton & Hove Albion,A,H,0.0463,9.0,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2025-12-27,2025/2026,Chelsea,Aston Villa,D,A,0.0099,4.0,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-27,2025/2026,West Ham United,Fulham,A,A,0.0273,2.74,1.74,True,12,Q2 (Nov-Jan),2.5-3.0
+2025-12-27,2025/2026,Brentford,Bournemouth,H,H,0.0682,2.38,1.38,True,12,Q2 (Nov-Jan),2.0-2.5
+2025-12-27,2025/2026,Nottingham Forest,Manchester City,H,A,0.0584,5.8,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-27,2025/2026,Liverpool,Wolverhampton Wanderers,D,H,0.0839,7.6,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2025-12-27,2025/2026,Burnley,Everton,H,D,0.055,4.2,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-28,2025/2026,Crystal Palace,Tottenham Hotspur,H,A,0.1323,2.36,-1.0,False,12,Q2 (Nov-Jan),2.0-2.5
+2025-12-28,2025/2026,Sunderland,Leeds United,A,D,0.0673,2.98,-1.0,False,12,Q2 (Nov-Jan),2.5-3.0
+2025-12-30,2025/2026,Manchester United,Wolverhampton Wanderers,D,D,0.0406,5.5,4.5,True,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-30,2025/2026,Arsenal,Aston Villa,D,H,0.0449,5.0,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-30,2025/2026,West Ham United,Brighton & Hove Albion,H,D,0.0212,3.65,-1.0,False,12,Q2 (Nov-Jan),3.0-4.0
+2025-12-30,2025/2026,Nottingham Forest,Everton,A,A,0.0496,4.0,3.0,True,12,Q2 (Nov-Jan),4.0-6.0
+2025-12-30,2025/2026,Chelsea,Bournemouth,A,D,0.1109,6.6,-1.0,False,12,Q2 (Nov-Jan),6.0+
+2025-12-30,2025/2026,Burnley,Newcastle United,H,A,0.0168,5.9,-1.0,False,12,Q2 (Nov-Jan),4.0-6.0
+2026-01-01,2025/2026,Sunderland,Manchester City,D,D,0.0702,5.2,4.2,True,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-01,2025/2026,Brentford,Tottenham Hotspur,H,D,0.0974,2.22,-1.0,False,1,Q2 (Nov-Jan),2.0-2.5
+2026-01-01,2025/2026,Liverpool,Leeds United,A,D,0.0987,6.6,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2026-01-01,2025/2026,Crystal Palace,Fulham,H,D,0.0721,2.28,-1.0,False,1,Q2 (Nov-Jan),2.0-2.5
+2026-01-03,2025/2026,Wolverhampton Wanderers,West Ham United,H,H,0.0477,2.62,1.62,True,1,Q2 (Nov-Jan),2.5-3.0
+2026-01-03,2025/2026,Bournemouth,Arsenal,H,A,0.1233,6.6,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2026-01-03,2025/2026,Brighton & Hove Albion,Burnley,A,H,0.0114,7.4,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2026-01-03,2025/2026,Aston Villa,Nottingham Forest,A,H,0.0255,5.0,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-04,2025/2026,Tottenham Hotspur,Sunderland,D,D,0.0421,3.85,2.85,True,1,Q2 (Nov-Jan),3.0-4.0
+2026-01-04,2025/2026,Leeds United,Manchester United,H,D,0.0619,2.82,-1.0,False,1,Q2 (Nov-Jan),2.5-3.0
+2026-01-04,2025/2026,Newcastle United,Crystal Palace,A,H,0.0596,5.3,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-04,2025/2026,Fulham,Liverpool,H,D,0.0557,3.9,-1.0,False,1,Q2 (Nov-Jan),3.0-4.0
+2026-01-04,2025/2026,Manchester City,Chelsea,D,D,0.0065,4.7,3.7,True,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-04,2025/2026,Everton,Brentford,A,A,0.0649,3.25,2.25,True,1,Q2 (Nov-Jan),3.0-4.0
+2026-01-06,2025/2026,West Ham United,Nottingham Forest,H,A,0.04,3.3,-1.0,False,1,Q2 (Nov-Jan),3.0-4.0
+2026-01-07,2025/2026,Everton,Wolverhampton Wanderers,A,D,0.0654,5.4,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-07,2025/2026,Bournemouth,Tottenham Hotspur,H,H,0.0615,2.2,1.2,True,1,Q2 (Nov-Jan),2.0-2.5
+2026-01-07,2025/2026,Brentford,Sunderland,H,H,0.1107,1.91,0.91,True,1,Q2 (Nov-Jan),1.5-2.0
+2026-01-07,2025/2026,Crystal Palace,Aston Villa,H,D,0.192,3.3,-1.0,False,1,Q2 (Nov-Jan),3.0-4.0
+2026-01-07,2025/2026,Fulham,Chelsea,H,H,0.0537,3.7,2.7,True,1,Q2 (Nov-Jan),3.0-4.0
+2026-01-07,2025/2026,Manchester City,Brighton & Hove Albion,A,D,0.0668,8.2,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2026-01-07,2025/2026,Newcastle United,Leeds United,A,H,0.0179,5.6,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-07,2025/2026,Burnley,Manchester United,H,D,0.0212,5.4,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-08,2025/2026,Arsenal,Liverpool,A,D,0.0244,5.7,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-17,2025/2026,Leeds United,Fulham,H,H,0.0709,2.26,1.26,True,1,Q2 (Nov-Jan),2.0-2.5
+2026-01-17,2025/2026,Chelsea,Brentford,A,H,0.1133,5.1,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-17,2025/2026,Manchester United,Manchester City,H,H,0.1278,3.85,2.85,True,1,Q2 (Nov-Jan),3.0-4.0
+2026-01-17,2025/2026,Tottenham Hotspur,West Ham United,D,A,0.0201,4.1,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-17,2025/2026,Nottingham Forest,Arsenal,D,D,0.0519,4.5,3.5,True,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-17,2025/2026,Sunderland,Crystal Palace,A,H,0.1136,2.94,-1.0,False,1,Q2 (Nov-Jan),2.5-3.0
+2026-01-17,2025/2026,Liverpool,Burnley,D,D,0.0351,7.0,6.0,True,1,Q2 (Nov-Jan),6.0+
+2026-01-18,2025/2026,Aston Villa,Everton,A,A,0.0587,5.7,4.7,True,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-18,2025/2026,Wolverhampton Wanderers,Newcastle United,D,D,0.0479,4.2,3.2,True,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-19,2025/2026,Brighton & Hove Albion,Bournemouth,A,D,0.0837,4.0,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-24,2025/2026,Burnley,Tottenham Hotspur,D,D,0.0141,3.6,2.6,True,1,Q2 (Nov-Jan),3.0-4.0
+2026-01-24,2025/2026,West Ham United,Sunderland,H,H,0.0617,2.64,1.64,True,1,Q2 (Nov-Jan),2.5-3.0
+2026-01-24,2025/2026,Bournemouth,Liverpool,H,H,0.1014,4.0,3.0,True,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-24,2025/2026,Fulham,Brighton & Hove Albion,A,H,0.0026,2.88,-1.0,False,1,Q2 (Nov-Jan),2.5-3.0
+2026-01-24,2025/2026,Manchester City,Wolverhampton Wanderers,D,H,0.1013,7.4,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2026-01-25,2025/2026,Crystal Palace,Chelsea,H,A,0.1259,3.8,-1.0,False,1,Q2 (Nov-Jan),3.0-4.0
+2026-01-25,2025/2026,Brentford,Nottingham Forest,H,A,0.124,1.95,-1.0,False,1,Q2 (Nov-Jan),1.5-2.0
+2026-01-25,2025/2026,Arsenal,Manchester United,A,A,0.0506,6.4,5.4,True,1,Q2 (Nov-Jan),6.0+
+2026-01-25,2025/2026,Newcastle United,Aston Villa,H,A,0.0659,2.1,-1.0,False,1,Q2 (Nov-Jan),2.0-2.5
+2026-01-26,2025/2026,Everton,Leeds United,A,D,0.0411,3.15,-1.0,False,1,Q2 (Nov-Jan),3.0-4.0
+2026-01-31,2025/2026,Chelsea,West Ham United,H,H,0.0397,1.56,0.56,True,1,Q2 (Nov-Jan),1.5-2.0
+2026-01-31,2025/2026,Leeds United,Arsenal,H,A,0.1142,6.8,-1.0,False,1,Q2 (Nov-Jan),6.0+
+2026-01-31,2025/2026,Brighton & Hove Albion,Everton,A,D,0.0147,4.3,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2026-01-31,2025/2026,Wolverhampton Wanderers,Bournemouth,A,A,0.0309,2.42,1.42,True,1,Q2 (Nov-Jan),2.0-2.5
+2026-01-31,2025/2026,Liverpool,Newcastle United,A,H,0.0619,4.3,-1.0,False,1,Q2 (Nov-Jan),4.0-6.0
+2026-02-01,2025/2026,Tottenham Hotspur,Manchester City,H,D,0.1034,4.8,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-01,2025/2026,Manchester United,Fulham,H,H,0.0337,1.62,0.62,True,2,Q3 (Feb-Mar),1.5-2.0
+2026-02-01,2025/2026,Nottingham Forest,Crystal Palace,A,D,0.1288,4.1,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-01,2025/2026,Aston Villa,Brentford,A,A,0.1117,3.65,2.65,True,2,Q3 (Feb-Mar),3.0-4.0
+2026-02-02,2025/2026,Sunderland,Burnley,A,H,0.0443,5.0,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-06,2025/2026,Leeds United,Nottingham Forest,H,H,0.0866,2.3,1.3,True,2,Q3 (Feb-Mar),2.0-2.5
+2026-02-07,2025/2026,Wolverhampton Wanderers,Chelsea,H,A,0.0929,5.4,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-07,2025/2026,Manchester United,Tottenham Hotspur,D,H,0.0383,4.9,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-07,2025/2026,Newcastle United,Brentford,A,A,0.0229,3.75,2.75,True,2,Q3 (Feb-Mar),3.0-4.0
+2026-02-07,2025/2026,Arsenal,Sunderland,D,H,0.0232,7.0,-1.0,False,2,Q3 (Feb-Mar),6.0+
+2026-02-07,2025/2026,Burnley,West Ham United,H,A,0.0307,3.5,-1.0,False,2,Q3 (Feb-Mar),3.0-4.0
+2026-02-07,2025/2026,Bournemouth,Aston Villa,H,D,0.1347,2.82,-1.0,False,2,Q3 (Feb-Mar),2.5-3.0
+2026-02-07,2025/2026,Fulham,Everton,A,A,0.0462,3.9,2.9,True,2,Q3 (Feb-Mar),3.0-4.0
+2026-02-08,2025/2026,Liverpool,Manchester City,H,A,0.0738,2.48,-1.0,False,2,Q3 (Feb-Mar),2.0-2.5
+2026-02-08,2025/2026,Brighton & Hove Albion,Crystal Palace,A,A,0.0677,4.0,3.0,True,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-10,2025/2026,Tottenham Hotspur,Newcastle United,H,A,0.0174,3.35,-1.0,False,2,Q3 (Feb-Mar),3.0-4.0
+2026-02-10,2025/2026,West Ham United,Manchester United,H,D,0.0209,4.8,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-10,2025/2026,Everton,Bournemouth,A,A,0.096,3.05,2.05,True,2,Q3 (Feb-Mar),3.0-4.0
+2026-02-10,2025/2026,Chelsea,Leeds United,A,D,0.0708,6.6,-1.0,False,2,Q3 (Feb-Mar),6.0+
+2026-02-11,2025/2026,Sunderland,Liverpool,D,A,0.0272,4.0,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-11,2025/2026,Manchester City,Fulham,D,H,0.0478,5.8,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-11,2025/2026,Nottingham Forest,Wolverhampton Wanderers,A,D,0.1014,5.6,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-11,2025/2026,Aston Villa,Brighton & Hove Albion,A,H,0.0085,4.0,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-11,2025/2026,Crystal Palace,Burnley,H,A,0.0458,1.59,-1.0,False,2,Q3 (Feb-Mar),1.5-2.0
+2026-02-12,2025/2026,Brentford,Arsenal,H,D,0.0712,5.3,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-18,2025/2026,Wolverhampton Wanderers,Arsenal,D,D,0.1006,6.2,5.2,True,2,Q3 (Feb-Mar),6.0+
+2026-02-21,2025/2026,Manchester City,Newcastle United,A,H,0.1188,6.4,-1.0,False,2,Q3 (Feb-Mar),6.0+
+2026-02-21,2025/2026,Brentford,Brighton & Hove Albion,H,A,0.0536,2.1,-1.0,False,2,Q3 (Feb-Mar),2.0-2.5
+2026-02-21,2025/2026,West Ham United,Bournemouth,A,D,0.111,2.84,-1.0,False,2,Q3 (Feb-Mar),2.5-3.0
+2026-02-21,2025/2026,Aston Villa,Leeds United,A,D,0.0773,4.7,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-21,2025/2026,Chelsea,Burnley,A,D,0.008,15.5,-1.0,False,2,Q3 (Feb-Mar),6.0+
+2026-02-22,2025/2026,Crystal Palace,Wolverhampton Wanderers,D,H,0.0071,4.1,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-22,2025/2026,Tottenham Hotspur,Arsenal,D,A,0.0464,4.3,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-22,2025/2026,Sunderland,Fulham,D,A,0.0104,3.35,-1.0,False,2,Q3 (Feb-Mar),3.0-4.0
+2026-02-22,2025/2026,Nottingham Forest,Liverpool,H,A,0.0321,4.4,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-23,2025/2026,Everton,Manchester United,H,A,0.0455,3.8,-1.0,False,2,Q3 (Feb-Mar),3.0-4.0
+2026-02-27,2025/2026,Wolverhampton Wanderers,Aston Villa,H,H,0.0709,4.6,3.6,True,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-28,2025/2026,Leeds United,Manchester City,H,A,0.1483,5.5,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-28,2025/2026,Liverpool,West Ham United,D,H,0.0175,5.4,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-28,2025/2026,Newcastle United,Everton,D,A,0.0123,4.1,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-02-28,2025/2026,Bournemouth,Sunderland,H,D,0.0697,1.83,-1.0,False,2,Q3 (Feb-Mar),1.5-2.0
+2026-02-28,2025/2026,Burnley,Brentford,H,A,0.0117,5.0,-1.0,False,2,Q3 (Feb-Mar),4.0-6.0
+2026-03-01,2025/2026,Manchester United,Crystal Palace,A,H,0.0619,6.4,-1.0,False,3,Q3 (Feb-Mar),6.0+
+2026-03-01,2025/2026,Arsenal,Chelsea,A,H,0.0166,5.9,-1.0,False,3,Q3 (Feb-Mar),4.0-6.0
+2026-03-01,2025/2026,Brighton & Hove Albion,Nottingham Forest,H,H,0.0414,2.16,1.16,True,3,Q3 (Feb-Mar),2.0-2.5
+2026-03-01,2025/2026,Fulham,Tottenham Hotspur,D,H,0.0157,3.75,-1.0,False,3,Q3 (Feb-Mar),3.0-4.0
+2026-03-03,2025/2026,Everton,Burnley,H,H,0.0031,1.62,0.62,True,3,Q3 (Feb-Mar),1.5-2.0
+2026-03-03,2025/2026,Wolverhampton Wanderers,Liverpool,H,H,0.0624,7.0,6.0,True,3,Q3 (Feb-Mar),6.0+
+2026-03-03,2025/2026,Bournemouth,Brentford,H,D,0.0366,2.64,-1.0,False,3,Q3 (Feb-Mar),2.5-3.0
+2026-03-03,2025/2026,Leeds United,Sunderland,H,A,0.0697,1.94,-1.0,False,3,Q3 (Feb-Mar),1.5-2.0
+2026-03-04,2025/2026,Newcastle United,Manchester United,H,H,0.0114,2.72,1.72,True,3,Q3 (Feb-Mar),2.5-3.0
+2026-03-04,2025/2026,Manchester City,Nottingham Forest,D,D,0.0242,5.4,4.4,True,3,Q3 (Feb-Mar),4.0-6.0
+2026-03-04,2025/2026,Fulham,West Ham United,A,A,0.0217,3.85,2.85,True,3,Q3 (Feb-Mar),3.0-4.0
+2026-03-04,2025/2026,Brighton & Hove Albion,Arsenal,D,A,0.0398,4.2,-1.0,False,3,Q3 (Feb-Mar),4.0-6.0
+2026-03-04,2025/2026,Aston Villa,Chelsea,A,A,0.0265,2.62,1.62,True,3,Q3 (Feb-Mar),2.5-3.0
+2026-03-05,2025/2026,Tottenham Hotspur,Crystal Palace,A,A,0.0304,3.1,2.1,True,3,Q3 (Feb-Mar),3.0-4.0
+2026-03-14,2025/2026,Sunderland,Brighton & Hove Albion,D,A,0.0207,3.45,-1.0,False,3,Q3 (Feb-Mar),3.0-4.0
+2026-03-14,2025/2026,Chelsea,Newcastle United,H,A,0.0488,1.88,-1.0,False,3,Q3 (Feb-Mar),1.5-2.0
+2026-03-14,2025/2026,Burnley,Bournemouth,A,D,0.0139,1.89,-1.0,False,3,Q3 (Feb-Mar),1.5-2.0
+2026-03-14,2025/2026,Arsenal,Everton,D,H,0.0433,5.1,-1.0,False,3,Q3 (Feb-Mar),4.0-6.0
+2026-03-14,2025/2026,West Ham United,Manchester City,H,D,0.066,4.9,-1.0,False,3,Q3 (Feb-Mar),4.0-6.0
+2026-03-15,2025/2026,Liverpool,Tottenham Hotspur,D,D,0.0539,6.6,5.6,True,3,Q3 (Feb-Mar),6.0+
+2026-03-15,2025/2026,Crystal Palace,Leeds United,H,D,0.0804,2.58,-1.0,False,3,Q3 (Feb-Mar),2.5-3.0
+2026-03-15,2025/2026,Nottingham Forest,Fulham,A,D,0.0087,3.35,-1.0,False,3,Q3 (Feb-Mar),3.0-4.0
+2026-03-15,2025/2026,Manchester United,Aston Villa,D,H,0.0167,4.4,-1.0,False,3,Q3 (Feb-Mar),4.0-6.0
+2026-03-16,2025/2026,Brentford,Wolverhampton Wanderers,H,D,0.0115,1.61,-1.0,False,3,Q3 (Feb-Mar),1.5-2.0
+2026-03-20,2025/2026,Bournemouth,Manchester United,H,D,0.1003,3.45,-1.0,False,3,Q3 (Feb-Mar),3.0-4.0
+2026-03-21,2025/2026,Fulham,Burnley,A,H,0.0358,6.8,-1.0,False,3,Q3 (Feb-Mar),6.0+
+2026-03-21,2025/2026,Everton,Chelsea,H,H,0.0151,3.55,2.55,True,3,Q3 (Feb-Mar),3.0-4.0
+2026-03-21,2025/2026,Brighton & Hove Albion,Liverpool,D,H,0.0184,3.75,-1.0,False,3,Q3 (Feb-Mar),3.0-4.0
+2026-03-21,2025/2026,Leeds United,Brentford,A,D,0.019,2.94,-1.0,False,3,Q3 (Feb-Mar),2.5-3.0
+2026-03-22,2025/2026,Newcastle United,Sunderland,H,A,0.0169,1.74,-1.0,False,3,Q3 (Feb-Mar),1.5-2.0
+2026-03-22,2025/2026,Aston Villa,West Ham United,D,H,0.0095,3.8,-1.0,False,3,Q3 (Feb-Mar),3.0-4.0
+2026-03-22,2025/2026,Tottenham Hotspur,Nottingham Forest,H,A,0.0216,2.34,-1.0,False,3,Q3 (Feb-Mar),2.0-2.5
+2026-04-10,2025/2026,West Ham United,Wolverhampton Wanderers,A,H,0.0237,4.7,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2026-04-11,2025/2026,Arsenal,Bournemouth,A,A,0.045,8.0,7.0,True,4,Q4 (Apr-May),6.0+
+2026-04-11,2025/2026,Burnley,Brighton & Hove Albion,D,A,0.0241,4.2,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2026-04-11,2025/2026,Liverpool,Fulham,D,H,0.0084,4.4,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2026-04-11,2025/2026,Brentford,Everton,H,D,0.0481,2.22,-1.0,False,4,Q4 (Apr-May),2.0-2.5
+2026-04-12,2025/2026,Chelsea,Manchester City,H,A,0.1292,3.35,-1.0,False,4,Q4 (Apr-May),3.0-4.0
+2026-04-12,2025/2026,Nottingham Forest,Aston Villa,A,D,0.0025,2.82,-1.0,False,4,Q4 (Apr-May),2.5-3.0
+2026-04-12,2025/2026,Sunderland,Tottenham Hotspur,H,H,0.0276,2.78,1.78,True,4,Q4 (Apr-May),2.5-3.0
+2026-04-12,2025/2026,Crystal Palace,Newcastle United,H,H,0.092,3.25,2.25,True,4,Q4 (Apr-May),3.0-4.0
+2026-04-13,2025/2026,Manchester United,Leeds United,D,A,0.0182,4.4,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2026-04-18,2025/2026,Leeds United,Wolverhampton Wanderers,D,H,0.0077,4.3,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2026-04-18,2025/2026,Tottenham Hotspur,Brighton & Hove Albion,D,D,0.0382,3.9,2.9,True,4,Q4 (Apr-May),3.0-4.0
+2026-04-18,2025/2026,Chelsea,Manchester United,H,A,0.0453,2.3,-1.0,False,4,Q4 (Apr-May),2.0-2.5
+2026-04-18,2025/2026,Newcastle United,Bournemouth,A,A,0.0549,3.65,2.65,True,4,Q4 (Apr-May),3.0-4.0
+2026-04-18,2025/2026,Brentford,Fulham,H,D,0.0741,2.18,-1.0,False,4,Q4 (Apr-May),2.0-2.5
+2026-04-19,2025/2026,Manchester City,Arsenal,A,H,0.1159,4.5,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2026-04-19,2025/2026,Everton,Liverpool,H,A,0.0371,3.3,-1.0,False,4,Q4 (Apr-May),3.0-4.0
+2026-04-19,2025/2026,Nottingham Forest,Burnley,A,H,0.0753,7.4,-1.0,False,4,Q4 (Apr-May),6.0+
+2026-04-19,2025/2026,Aston Villa,Sunderland,A,H,0.0368,5.6,-1.0,False,4,Q4 (Apr-May),4.0-6.0
+2026-04-20,2025/2026,Crystal Palace,West Ham United,H,D,0.109,2.5,-1.0,False,4,Q4 (Apr-May),2.5-3.0

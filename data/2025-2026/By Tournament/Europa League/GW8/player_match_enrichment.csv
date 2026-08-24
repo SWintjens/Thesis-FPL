@@ -1,0 +1,15 @@
+player_id,match_id,player_name,rating,possession_lost,attacking_shots_blocked,total_passes,total_long_balls,total_crosses,total_dribbles,ground_duels_lost,aerial_duels_lost,yellow_cards,red_cards,goalkeeper_punches
+36,25-26-europa-league-aston-villa-vs-go-ahead-eagles,Cash,6.9,7,0,25,0,5,0,1,0,0,0,0
+39,25-26-europa-league-aston-villa-vs-go-ahead-eagles,Maatsen,7.1,7,0,37,4,4,1,3,0,0,0,0
+40,25-26-europa-league-aston-villa-vs-go-ahead-eagles,Mings,6.0,7,0,59,1,0,0,3,0,0,0,0
+41,25-26-europa-league-aston-villa-vs-go-ahead-eagles,Pau,6.4,4,0,66,5,0,0,1,0,0,0,0
+44,25-26-europa-league-aston-villa-vs-go-ahead-eagles,Bogarde,6.7,9,1,51,1,0,0,1,0,0,0,0
+47,25-26-europa-league-aston-villa-vs-go-ahead-eagles,Rogers,6.5,10,0,16,0,5,2,1,0,0,0,0
+53,25-26-europa-league-aston-villa-vs-go-ahead-eagles,Malen,6.2,1,0,3,0,0,0,1,0,0,0,0
+54,25-26-europa-league-aston-villa-vs-go-ahead-eagles,McGinn,6.9,4,0,14,2,2,0,0,0,0,0,0
+58,25-26-europa-league-aston-villa-vs-go-ahead-eagles,Kamara,7.3,2,0,32,2,0,1,1,0,0,0,0
+59,25-26-europa-league-aston-villa-vs-go-ahead-eagles,Onana,7.2,4,0,46,2,0,3,4,1,0,0,0
+64,25-26-europa-league-aston-villa-vs-go-ahead-eagles,Watkins,6.2,5,1,10,0,1,0,4,2,0,0,0
+456,25-26-europa-league-aston-villa-vs-go-ahead-eagles,Sancho,6.1,14,1,35,0,6,3,5,0,0,0,0
+677,25-26-europa-league-aston-villa-vs-go-ahead-eagles,Guessand,7.3,17,0,26,1,1,1,4,0,0,0,0
+719,25-26-europa-league-aston-villa-vs-go-ahead-eagles,Lindelöf,6.2,4,0,37,1,0,0,1,1,0,0,0

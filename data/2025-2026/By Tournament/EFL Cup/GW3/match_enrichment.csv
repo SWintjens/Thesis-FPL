@@ -1,0 +1,8 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status
+25-26-efl-cup-brighton-hove-albion-vs-oxford-united,,,,,,False,False,confirmed
+25-26-efl-cup-derby-county-vs-burnley,,,,,,False,False,confirmed
+25-26-efl-cup-huddersfield-town-vs-sunderland,,,,,,False,False,confirmed
+25-26-efl-cup-leeds-united-vs-sheffield-wednesday,,,,,,False,False,confirmed
+25-26-efl-cup-manchester-united-vs-grimsby-town,,,,,,False,False,confirmed
+25-26-efl-cup-mansfield-town-vs-everton,,,,,,False,False,confirmed
+25-26-efl-cup-west-ham-united-vs-wolverhampton-wanderers,,,,,,False,False,confirmed

@@ -1,0 +1,767 @@
+match,date,season,bet,result,edge,odds,profit,cumulative,won
+Chelsea vs Leeds United,2020-12-05,2020/2021,A,H,0.109,6.19,-1.0,-1.0,False
+Liverpool vs Wolverhampton Wanderers,2020-12-06,2020/2021,A,H,0.119,7.17,-1.0,-2.0,False
+West Bromwich Albion vs Crystal Palace,2020-12-06,2020/2021,A,A,0.105,2.61,1.61,-0.39,True
+Brighton & Hove Albion vs Southampton,2020-12-07,2020/2021,H,A,0.118,2.56,-1.0,-1.39,False
+Leeds United vs West Ham United,2020-12-11,2020/2021,H,A,0.057,2.22,-1.0,-2.39,False
+Newcastle United vs West Bromwich Albion,2020-12-12,2020/2021,H,H,0.209,2.62,1.62,-0.77,True
+Manchester United vs Manchester City,2020-12-12,2020/2021,H,D,0.064,4.49,-1.0,-1.77,False
+Arsenal vs Burnley,2020-12-13,2020/2021,A,A,0.068,6.84,5.84,4.07,True
+Crystal Palace vs Tottenham Hotspur,2020-12-13,2020/2021,H,D,0.126,4.92,-1.0,3.07,False
+Fulham vs Liverpool,2020-12-13,2020/2021,H,D,0.094,8.67,-1.0,2.07,False
+Southampton vs Sheffield United,2020-12-13,2020/2021,A,H,0.09,5.07,-1.0,1.07,False
+Wolverhampton Wanderers vs Chelsea,2020-12-15,2020/2021,H,H,0.082,5.59,4.59,5.66,True
+Leicester City vs Everton,2020-12-16,2020/2021,H,A,0.08,2.23,-1.0,4.66,False
+Leeds United vs Newcastle United,2020-12-16,2020/2021,H,H,0.069,1.78,0.78,5.44,True
+Fulham vs Brighton & Hove Albion,2020-12-16,2020/2021,H,D,0.061,3.0,-1.0,4.44,False
+Sheffield United vs Manchester United,2020-12-17,2020/2021,H,A,0.051,7.35,-1.0,3.44,False
+Crystal Palace vs Liverpool,2020-12-19,2020/2021,H,A,0.198,6.52,-1.0,2.44,False
+Southampton vs Manchester City,2020-12-19,2020/2021,H,A,0.067,6.56,-1.0,1.44,False
+West Bromwich Albion vs Aston Villa,2020-12-20,2020/2021,A,A,0.15,2.0,1.0,2.44,True
+Manchester United vs Leeds United,2020-12-20,2020/2021,A,H,0.142,4.66,-1.0,1.44,False
+Burnley vs Wolverhampton Wanderers,2020-12-21,2020/2021,H,H,0.114,3.73,2.73,4.17,True
+Chelsea vs West Ham United,2020-12-21,2020/2021,D,H,0.056,4.72,-1.0,3.17,False
+Fulham vs Southampton,2020-12-26,2020/2021,H,D,0.094,3.29,-1.0,2.17,False
+Leicester City vs Manchester United,2020-12-26,2020/2021,H,D,0.072,3.08,-1.0,1.17,False
+Aston Villa vs Crystal Palace,2020-12-26,2020/2021,H,H,0.118,1.95,0.95,2.12,True
+Sheffield United vs Everton,2020-12-26,2020/2021,H,A,0.064,4.26,-1.0,1.12,False
+Manchester City vs Newcastle United,2020-12-26,2020/2021,D,H,0.09,9.55,-1.0,0.12,False
+Leeds United vs Burnley,2020-12-27,2020/2021,A,H,0.053,4.71,-1.0,-0.88,False
+Wolverhampton Wanderers vs Tottenham Hotspur,2020-12-27,2020/2021,H,D,0.107,3.76,-1.0,-1.88,False
+Crystal Palace vs Leicester City,2020-12-28,2020/2021,H,D,0.126,3.95,-1.0,-2.88,False
+Chelsea vs Aston Villa,2020-12-28,2020/2021,A,D,0.142,4.89,-1.0,-3.88,False
+Burnley vs Sheffield United,2020-12-29,2020/2021,H,H,0.1,2.45,1.45,-2.43,True
+West Bromwich Albion vs Leeds United,2020-12-29,2020/2021,A,A,0.078,2.06,1.06,-1.37,True
+Brighton & Hove Albion vs Arsenal,2020-12-29,2020/2021,H,A,0.185,3.27,-1.0,-2.37,False
+Newcastle United vs Liverpool,2020-12-30,2020/2021,D,D,0.067,6.09,5.09,2.72,True
+Everton vs West Ham United,2021-01-01,2020/2021,A,A,0.05,3.55,2.55,5.27,True
+Manchester United vs Aston Villa,2021-01-01,2020/2021,A,H,0.065,4.52,-1.0,4.27,False
+Tottenham Hotspur vs Leeds United,2021-01-02,2020/2021,A,H,0.06,4.34,-1.0,3.27,False
+Crystal Palace vs Sheffield United,2021-01-02,2020/2021,A,H,0.099,3.84,-1.0,2.27,False
+Newcastle United vs Leicester City,2021-01-03,2020/2021,H,A,0.067,5.35,-1.0,1.27,False
+Wolverhampton Wanderers vs Everton,2021-01-12,2020/2021,A,A,0.077,3.15,2.15,3.42,True
+Burnley vs Manchester United,2021-01-12,2020/2021,H,A,0.1,7.33,-1.0,2.42,False
+Tottenham Hotspur vs Fulham,2021-01-13,2020/2021,A,D,0.096,8.16,-1.0,1.42,False
+Wolverhampton Wanderers vs West Bromwich Albion,2021-01-16,2020/2021,H,A,0.072,1.63,-1.0,0.42,False
+West Ham United vs Burnley,2021-01-16,2020/2021,A,H,0.062,4.88,-1.0,-0.58,False
+Fulham vs Chelsea,2021-01-16,2020/2021,H,A,0.086,6.81,-1.0,-1.58,False
+Liverpool vs Manchester United,2021-01-17,2020/2021,A,D,0.056,3.71,-1.0,-2.58,False
+Sheffield United vs Tottenham Hotspur,2021-01-17,2020/2021,H,A,0.088,6.1,-1.0,-3.58,False
+Arsenal vs Newcastle United,2021-01-18,2020/2021,D,H,0.056,4.73,-1.0,-4.58,False
+West Ham United vs West Bromwich Albion,2021-01-19,2020/2021,H,H,0.076,1.58,0.58,-4.0,True
+Leicester City vs Chelsea,2021-01-19,2020/2021,H,H,0.103,2.92,1.92,-2.08,True
+Manchester City vs Aston Villa,2021-01-20,2020/2021,A,H,0.104,11.61,-1.0,-3.08,False
+Fulham vs Manchester United,2021-01-20,2020/2021,H,A,0.053,6.32,-1.0,-4.08,False
+Liverpool vs Burnley,2021-01-21,2020/2021,D,A,0.1,7.24,-1.0,-5.08,False
+Newcastle United vs Leeds United,2021-01-26,2020/2021,H,A,0.062,3.92,-1.0,-6.08,False
+Manchester City vs Sheffield United,2021-01-30,2020/2021,D,H,0.083,9.43,-1.0,-7.08,False
+Southampton vs Aston Villa,2021-01-30,2020/2021,A,A,0.139,2.44,1.44,-5.64,True
+Chelsea vs Burnley,2021-01-31,2020/2021,D,H,0.057,5.25,-1.0,-6.64,False
+West Ham United vs Liverpool,2021-01-31,2020/2021,H,A,0.114,4.65,-1.0,-7.64,False
+Brighton & Hove Albion vs Tottenham Hotspur,2021-01-31,2020/2021,H,H,0.166,3.18,2.18,-5.46,True
+Sheffield United vs West Bromwich Albion,2021-02-02,2020/2021,H,H,0.05,2.11,1.11,-4.35,True
+Wolverhampton Wanderers vs Arsenal,2021-02-02,2020/2021,H,H,0.078,3.71,2.71,-1.64,True
+Newcastle United vs Crystal Palace,2021-02-02,2020/2021,H,A,0.067,3.01,-1.0,-2.64,False
+Manchester United vs Southampton,2021-02-02,2020/2021,H,H,0.172,1.46,0.46,-2.18,True
+Burnley vs Manchester City,2021-02-03,2020/2021,D,A,0.072,6.57,-1.0,-3.18,False
+Fulham vs Leicester City,2021-02-03,2020/2021,H,A,0.067,4.12,-1.0,-4.18,False
+Leeds United vs Everton,2021-02-03,2020/2021,H,A,0.112,2.51,-1.0,-5.18,False
+Aston Villa vs West Ham United,2021-02-03,2020/2021,H,A,0.069,2.23,-1.0,-6.18,False
+Liverpool vs Brighton & Hove Albion,2021-02-03,2020/2021,D,A,0.053,5.5,-1.0,-7.18,False
+Aston Villa vs Arsenal,2021-02-06,2020/2021,H,H,0.129,2.84,1.84,-5.34,True
+Newcastle United vs Southampton,2021-02-06,2020/2021,H,H,0.091,3.06,2.06,-3.28,True
+Wolverhampton Wanderers vs Leicester City,2021-02-07,2020/2021,H,D,0.079,3.63,-1.0,-4.28,False
+Sheffield United vs Chelsea,2021-02-07,2020/2021,H,A,0.097,7.64,-1.0,-5.28,False
+Leicester City vs Liverpool,2021-02-13,2020/2021,H,H,0.104,3.5,2.5,-2.78,True
+Southampton vs Wolverhampton Wanderers,2021-02-14,2020/2021,A,A,0.084,3.25,2.25,-0.53,True
+West Bromwich Albion vs Manchester United,2021-02-14,2020/2021,D,D,0.068,5.71,4.71,4.18,True
+Arsenal vs Leeds United,2021-02-14,2020/2021,H,H,0.057,1.93,0.93,5.11,True
+Chelsea vs Newcastle United,2021-02-15,2020/2021,D,H,0.1,6.85,-1.0,4.11,False
+Burnley vs Fulham,2021-02-17,2020/2021,A,D,0.057,2.77,-1.0,3.11,False
+Wolverhampton Wanderers vs Leeds United,2021-02-19,2020/2021,H,H,0.154,2.41,1.41,4.52,True
+Liverpool vs Everton,2021-02-20,2020/2021,A,A,0.099,6.94,5.94,10.46,True
+Fulham vs Sheffield United,2021-02-20,2020/2021,H,H,0.073,2.23,1.23,11.69,True
+West Ham United vs Tottenham Hotspur,2021-02-21,2020/2021,H,H,0.149,2.73,1.73,13.42,True
+Brighton & Hove Albion vs Crystal Palace,2021-02-22,2020/2021,H,A,0.127,1.75,-1.0,12.42,False
+Leeds United vs Southampton,2021-02-23,2020/2021,H,H,0.169,2.4,1.4,13.82,True
+Manchester City vs West Ham United,2021-02-27,2020/2021,D,H,0.059,6.76,-1.0,12.82,False
+Tottenham Hotspur vs Burnley,2021-02-28,2020/2021,A,H,0.101,7.22,-1.0,11.82,False
+Sheffield United vs Liverpool,2021-02-28,2020/2021,H,A,0.212,7.95,-1.0,10.82,False
+Burnley vs Leicester City,2021-03-03,2020/2021,H,D,0.119,4.1,-1.0,9.82,False
+Sheffield United vs Aston Villa,2021-03-03,2020/2021,H,H,0.056,3.77,2.77,12.59,True
+Crystal Palace vs Manchester United,2021-03-03,2020/2021,D,D,0.062,4.7,3.7,16.29,True
+Liverpool vs Chelsea,2021-03-04,2020/2021,A,A,0.065,3.2,2.2,18.49,True
+West Bromwich Albion vs Everton,2021-03-04,2020/2021,H,A,0.111,4.49,-1.0,17.49,False
+Fulham vs Tottenham Hotspur,2021-03-04,2020/2021,H,A,0.085,4.02,-1.0,16.49,False
+Sheffield United vs Southampton,2021-03-06,2020/2021,H,A,0.154,3.77,-1.0,15.49,False
+Aston Villa vs Wolverhampton Wanderers,2021-03-06,2020/2021,H,D,0.08,2.48,-1.0,14.49,False
+Burnley vs Arsenal,2021-03-06,2020/2021,H,D,0.104,5.73,-1.0,13.49,False
+Brighton & Hove Albion vs Leicester City,2021-03-06,2020/2021,H,A,0.191,2.54,-1.0,12.49,False
+Liverpool vs Fulham,2021-03-07,2020/2021,A,A,0.151,8.54,7.54,20.03,True
+Newcastle United vs Aston Villa,2021-03-12,2020/2021,H,D,0.11,3.86,-1.0,19.03,False
+Everton vs Burnley,2021-03-13,2020/2021,A,A,0.069,4.54,3.54,22.57,True
+Crystal Palace vs West Bromwich Albion,2021-03-13,2020/2021,A,H,0.061,3.63,-1.0,21.57,False
+Fulham vs Manchester City,2021-03-13,2020/2021,H,A,0.173,10.46,-1.0,20.57,False
+Manchester United vs West Ham United,2021-03-14,2020/2021,A,H,0.067,4.59,-1.0,19.57,False
+Southampton vs Brighton & Hove Albion,2021-03-14,2020/2021,A,A,0.117,2.68,1.68,21.25,True
+Wolverhampton Wanderers vs Liverpool,2021-03-15,2020/2021,H,A,0.149,4.93,-1.0,20.25,False
+Aston Villa vs Tottenham Hotspur,2021-03-21,2020/2021,H,A,0.13,3.03,-1.0,19.25,False
+Arsenal vs Liverpool,2021-04-03,2020/2021,H,A,0.115,3.18,-1.0,18.25,False
+Leicester City vs Manchester City,2021-04-03,2020/2021,H,A,0.093,6.24,-1.0,17.25,False
+Leeds United vs Sheffield United,2021-04-03,2020/2021,H,H,0.057,1.53,0.53,17.78,True
+Chelsea vs West Bromwich Albion,2021-04-03,2020/2021,D,A,0.053,6.5,-1.0,16.78,False
+Newcastle United vs Tottenham Hotspur,2021-04-04,2020/2021,H,D,0.104,5.66,-1.0,15.78,False
+Manchester United vs Brighton & Hove Albion,2021-04-04,2020/2021,A,H,0.068,5.59,-1.0,14.78,False
+Wolverhampton Wanderers vs West Ham United,2021-04-05,2020/2021,A,A,0.058,2.66,1.66,16.44,True
+Manchester City vs Leeds United,2021-04-10,2020/2021,A,A,0.056,10.38,9.38,25.82,True
+Sheffield United vs Arsenal,2021-04-11,2020/2021,H,A,0.073,6.16,-1.0,24.82,False
+West Ham United vs Leicester City,2021-04-11,2020/2021,H,H,0.119,3.11,2.11,26.93,True
+Burnley vs Newcastle United,2021-04-11,2020/2021,A,A,0.172,3.43,2.43,29.36,True
+West Bromwich Albion vs Southampton,2021-04-12,2020/2021,H,H,0.073,3.69,2.69,32.05,True
+Everton vs Tottenham Hotspur,2021-04-16,2020/2021,H,D,0.148,3.46,-1.0,31.05,False
+Wolverhampton Wanderers vs Sheffield United,2021-04-17,2020/2021,H,H,0.077,1.72,0.72,31.77,True
+Arsenal vs Fulham,2021-04-18,2020/2021,A,D,0.061,5.03,-1.0,30.77,False
+Manchester United vs Burnley,2021-04-18,2020/2021,H,H,0.068,1.38,0.38,31.15,True
+Leeds United vs Liverpool,2021-04-19,2020/2021,H,D,0.077,4.85,-1.0,30.15,False
+Arsenal vs Everton,2021-04-23,2020/2021,A,A,0.05,3.88,2.88,33.03,True
+Liverpool vs Newcastle United,2021-04-24,2020/2021,A,D,0.091,12.17,-1.0,32.03,False
+West Ham United vs Chelsea,2021-04-24,2020/2021,H,A,0.084,4.91,-1.0,31.03,False
+Sheffield United vs Brighton & Hove Albion,2021-04-24,2020/2021,A,H,0.077,1.75,-1.0,30.03,False
+Leicester City vs Crystal Palace,2021-04-26,2020/2021,H,H,0.085,1.48,0.48,30.51,True
+Brighton & Hove Albion vs Leeds United,2021-05-01,2020/2021,H,H,0.062,2.19,1.19,31.7,True
+West Bromwich Albion vs Wolverhampton Wanderers,2021-05-03,2020/2021,H,D,0.141,2.97,-1.0,30.7,False
+Burnley vs West Ham United,2021-05-03,2020/2021,H,A,0.098,3.21,-1.0,29.7,False
+Manchester City vs Chelsea,2021-05-08,2020/2021,A,A,0.056,4.38,3.38,33.08,True
+Wolverhampton Wanderers vs Brighton & Hove Albion,2021-05-09,2020/2021,A,H,0.065,2.27,-1.0,32.08,False
+Manchester United vs Leicester City,2021-05-11,2020/2021,H,A,0.084,2.59,-1.0,31.08,False
+Manchester United vs Liverpool,2021-05-13,2020/2021,H,A,0.153,3.12,-1.0,30.08,False
+Newcastle United vs Manchester City,2021-05-14,2020/2021,H,A,0.073,11.02,-1.0,29.08,False
+Brighton & Hove Albion vs West Ham United,2021-05-15,2020/2021,H,D,0.122,3.01,-1.0,28.08,False
+Crystal Palace vs Aston Villa,2021-05-16,2020/2021,H,H,0.058,3.14,2.14,30.22,True
+West Bromwich Albion vs Liverpool,2021-05-16,2020/2021,H,A,0.116,11.65,-1.0,29.22,False
+Manchester United vs Fulham,2021-05-18,2020/2021,D,D,0.082,5.81,4.81,34.03,True
+Southampton vs Leeds United,2021-05-18,2020/2021,A,A,0.058,2.61,1.61,35.64,True
+Tottenham Hotspur vs Aston Villa,2021-05-19,2020/2021,A,A,0.141,5.92,4.92,40.56,True
+Crystal Palace vs Arsenal,2021-05-19,2020/2021,H,A,0.158,6.16,-1.0,39.56,False
+Burnley vs Liverpool,2021-05-19,2020/2021,H,A,0.108,11.1,-1.0,38.56,False
+West Bromwich Albion vs West Ham United,2021-05-19,2020/2021,H,A,0.191,5.35,-1.0,37.56,False
+Fulham vs Newcastle United,2021-05-23,2020/2021,A,A,0.157,3.41,2.41,39.97,True
+Arsenal vs Brighton & Hove Albion,2021-05-23,2020/2021,D,H,0.076,4.46,-1.0,38.97,False
+Aston Villa vs Chelsea,2021-05-23,2020/2021,H,H,0.105,6.75,5.75,44.72,True
+Wolverhampton Wanderers vs Manchester United,2021-05-23,2020/2021,H,A,0.051,2.59,-1.0,43.72,False
+Leicester City vs Tottenham Hotspur,2021-05-23,2020/2021,H,A,0.066,2.06,-1.0,42.72,False
+Southampton vs Aston Villa,2021-11-05,2021/2022,H,H,0.058,2.04,1.04,43.76,True
+Crystal Palace vs Wolverhampton Wanderers,2021-11-06,2021/2022,H,H,0.06,2.56,1.56,45.32,True
+Watford vs Manchester United,2021-11-20,2021/2022,H,H,0.142,6.25,5.25,50.57,True
+Newcastle United vs Brentford,2021-11-20,2021/2022,A,D,0.09,2.81,-1.0,49.57,False
+Wolverhampton Wanderers vs West Ham United,2021-11-20,2021/2022,A,H,0.077,2.49,-1.0,48.57,False
+Arsenal vs Newcastle United,2021-11-27,2021/2022,A,H,0.167,6.77,-1.0,47.57,False
+Crystal Palace vs Aston Villa,2021-11-27,2021/2022,H,A,0.167,2.3,-1.0,46.57,False
+Manchester City vs West Ham United,2021-11-28,2021/2022,D,H,0.07,5.98,-1.0,45.57,False
+Chelsea vs Manchester United,2021-11-28,2021/2022,H,D,0.178,1.63,-1.0,44.57,False
+Brentford vs Everton,2021-11-28,2021/2022,H,H,0.071,2.29,1.29,45.86,True
+Leicester City vs Watford,2021-11-28,2021/2022,A,H,0.056,5.57,-1.0,44.86,False
+Aston Villa vs Manchester City,2021-12-01,2021/2022,D,A,0.058,5.25,-1.0,43.86,False
+Wolverhampton Wanderers vs Burnley,2021-12-01,2021/2022,A,D,0.052,4.39,-1.0,42.86,False
+Watford vs Chelsea,2021-12-01,2021/2022,H,A,0.117,10.31,-1.0,41.86,False
+Manchester United vs Arsenal,2021-12-02,2021/2022,A,H,0.083,3.75,-1.0,40.86,False
+Tottenham Hotspur vs Brentford,2021-12-02,2021/2022,A,H,0.16,5.34,-1.0,39.86,False
+Southampton vs Brighton & Hove Albion,2021-12-04,2021/2022,A,D,0.065,3.22,-1.0,38.86,False
+Watford vs Manchester City,2021-12-04,2021/2022,D,A,0.074,7.43,-1.0,37.86,False
+West Ham United vs Chelsea,2021-12-04,2021/2022,H,H,0.089,4.85,3.85,41.71,True
+Newcastle United vs Burnley,2021-12-04,2021/2022,A,H,0.128,3.22,-1.0,40.71,False
+Manchester United vs Crystal Palace,2021-12-05,2021/2022,A,H,0.205,6.46,-1.0,39.71,False
+Everton vs Arsenal,2021-12-06,2021/2022,H,H,0.063,3.45,2.45,42.16,True
+Brentford vs Watford,2021-12-10,2021/2022,H,H,0.151,2.32,1.32,43.48,True
+Manchester City vs Wolverhampton Wanderers,2021-12-11,2021/2022,D,H,0.079,8.21,-1.0,42.48,False
+Arsenal vs Southampton,2021-12-11,2021/2022,A,H,0.087,5.61,-1.0,41.48,False
+Chelsea vs Leeds United,2021-12-11,2021/2022,A,H,0.069,11.9,-1.0,40.48,False
+Crystal Palace vs Everton,2021-12-12,2021/2022,H,H,0.052,2.3,1.3,41.78,True
+Brighton & Hove Albion vs Wolverhampton Wanderers,2021-12-15,2021/2022,H,A,0.052,2.37,-1.0,40.78,False
+Tottenham Hotspur vs Liverpool,2021-12-19,2021/2022,D,D,0.051,4.78,3.78,44.56,True
+Tottenham Hotspur vs Crystal Palace,2021-12-26,2021/2022,A,H,0.061,5.21,-1.0,43.56,False
+West Ham United vs Southampton,2021-12-26,2021/2022,A,A,0.069,4.28,3.28,46.84,True
+Brighton & Hove Albion vs Brentford,2021-12-26,2021/2022,A,H,0.077,4.25,-1.0,45.84,False
+Newcastle United vs Manchester United,2021-12-27,2021/2022,H,D,0.082,6.92,-1.0,44.84,False
+Watford vs West Ham United,2021-12-28,2021/2022,A,A,0.074,2.24,1.24,46.08,True
+Southampton vs Tottenham Hotspur,2021-12-28,2021/2022,A,D,0.077,2.08,-1.0,45.08,False
+Manchester United vs Burnley,2021-12-30,2021/2022,A,H,0.107,8.67,-1.0,44.08,False
+Arsenal vs Manchester City,2022-01-01,2021/2022,H,A,0.097,6.01,-1.0,43.08,False
+Watford vs Tottenham Hotspur,2022-01-01,2021/2022,A,A,0.092,1.62,0.62,43.7,True
+Crystal Palace vs West Ham United,2022-01-01,2021/2022,H,A,0.073,3.09,-1.0,42.7,False
+Leeds United vs Burnley,2022-01-02,2021/2022,A,H,0.064,3.83,-1.0,41.7,False
+Brentford vs Aston Villa,2022-01-02,2021/2022,H,H,0.089,3.09,2.09,43.79,True
+Everton vs Brighton & Hove Albion,2022-01-02,2021/2022,A,A,0.103,2.78,1.78,45.57,True
+Manchester United vs Wolverhampton Wanderers,2022-01-03,2021/2022,A,A,0.096,5.98,4.98,50.55,True
+Southampton vs Brentford,2022-01-11,2021/2022,A,H,0.178,3.82,-1.0,49.55,False
+Aston Villa vs Manchester United,2022-01-15,2021/2022,H,D,0.056,2.89,-1.0,48.55,False
+Newcastle United vs Watford,2022-01-15,2021/2022,H,D,0.066,2.05,-1.0,47.55,False
+Brighton & Hove Albion vs Chelsea,2022-01-18,2021/2022,H,D,0.052,4.75,-1.0,46.55,False
+Brentford vs Manchester United,2022-01-19,2021/2022,H,A,0.098,4.68,-1.0,45.55,False
+Manchester United vs West Ham United,2022-01-22,2021/2022,A,H,0.054,3.9,-1.0,44.55,False
+Everton vs Aston Villa,2022-01-22,2021/2022,A,A,0.117,2.7,1.7,46.25,True
+Leicester City vs Brighton & Hove Albion,2022-01-23,2021/2022,A,D,0.051,2.78,-1.0,45.25,False
+Burnley vs Manchester United,2022-02-08,2021/2022,H,D,0.167,6.09,-1.0,44.25,False
+West Ham United vs Watford,2022-02-08,2021/2022,A,H,0.097,6.7,-1.0,43.25,False
+Newcastle United vs Everton,2022-02-08,2021/2022,H,H,0.066,2.57,1.57,44.82,True
+Tottenham Hotspur vs Southampton,2022-02-09,2021/2022,H,A,0.099,1.61,-1.0,43.82,False
+Wolverhampton Wanderers vs Arsenal,2022-02-10,2021/2022,H,A,0.052,3.72,-1.0,42.82,False
+Everton vs Leeds United,2022-02-12,2021/2022,A,H,0.084,3.12,-1.0,41.82,False
+Burnley vs Liverpool,2022-02-13,2021/2022,D,A,0.058,6.03,-1.0,40.82,False
+Leicester City vs West Ham United,2022-02-13,2021/2022,H,D,0.088,3.05,-1.0,39.82,False
+Manchester United vs Brighton & Hove Albion,2022-02-15,2021/2022,A,H,0.111,4.87,-1.0,38.82,False
+Brighton & Hove Albion vs Burnley,2022-02-19,2021/2022,A,A,0.052,6.18,5.18,44.0,True
+Crystal Palace vs Chelsea,2022-02-19,2021/2022,H,A,0.057,5.86,-1.0,43.0,False
+Manchester City vs Tottenham Hotspur,2022-02-19,2021/2022,A,A,0.084,11.91,10.91,53.91,True
+Leeds United vs Manchester United,2022-02-20,2021/2022,A,A,0.058,1.93,0.93,54.84,True
+Wolverhampton Wanderers vs Leicester City,2022-02-20,2021/2022,H,H,0.119,2.34,1.34,56.18,True
+Watford vs Crystal Palace,2022-02-23,2021/2022,H,A,0.058,3.24,-1.0,55.18,False
+Arsenal vs Wolverhampton Wanderers,2022-02-24,2021/2022,A,H,0.066,6.08,-1.0,54.18,False
+Crystal Palace vs Burnley,2022-02-26,2021/2022,A,D,0.071,4.29,-1.0,53.18,False
+Leeds United vs Tottenham Hotspur,2022-02-26,2021/2022,A,A,0.128,1.87,0.87,54.05,True
+Brentford vs Newcastle United,2022-02-26,2021/2022,H,A,0.062,2.55,-1.0,53.05,False
+Burnley vs Leicester City,2022-03-01,2021/2022,H,A,0.121,2.98,-1.0,52.05,False
+Leicester City vs Leeds United,2022-03-05,2021/2022,H,H,0.088,1.82,0.82,52.87,True
+Burnley vs Chelsea,2022-03-05,2021/2022,H,A,0.151,7.69,-1.0,51.87,False
+Watford vs Arsenal,2022-03-06,2021/2022,H,A,0.075,6.29,-1.0,50.87,False
+Tottenham Hotspur vs Everton,2022-03-07,2021/2022,H,H,0.056,1.61,0.61,51.48,True
+Wolverhampton Wanderers vs Watford,2022-03-10,2021/2022,A,H,0.075,5.02,-1.0,50.48,False
+Leeds United vs Aston Villa,2022-03-10,2021/2022,A,A,0.093,2.61,1.61,52.09,True
+Manchester United vs Tottenham Hotspur,2022-03-12,2021/2022,A,H,0.109,3.35,-1.0,51.09,False
+Brentford vs Burnley,2022-03-12,2021/2022,H,H,0.052,2.25,1.25,52.34,True
+West Ham United vs Aston Villa,2022-03-13,2021/2022,A,H,0.057,3.28,-1.0,51.34,False
+Southampton vs Watford,2022-03-13,2021/2022,A,A,0.068,5.82,4.82,56.16,True
+Everton vs Wolverhampton Wanderers,2022-03-13,2021/2022,A,A,0.146,3.48,2.48,58.64,True
+Crystal Palace vs Manchester City,2022-03-14,2021/2022,D,D,0.066,5.7,4.7,63.34,True
+Everton vs Newcastle United,2022-03-17,2021/2022,A,H,0.063,3.22,-1.0,62.34,False
+Leicester City vs Brentford,2022-03-20,2021/2022,A,H,0.09,3.43,-1.0,61.34,False
+Burnley vs Manchester City,2022-04-02,2021/2022,D,A,0.054,6.63,-1.0,60.34,False
+Chelsea vs Brentford,2022-04-02,2021/2022,A,A,0.096,10.7,9.7,70.04,True
+Liverpool vs Watford,2022-04-02,2021/2022,D,H,0.084,9.86,-1.0,69.04,False
+Everton vs Manchester United,2022-04-09,2021/2022,H,H,0.053,4.52,3.52,72.56,True
+Southampton vs Chelsea,2022-04-09,2021/2022,H,A,0.095,4.08,-1.0,71.56,False
+Arsenal vs Brighton & Hove Albion,2022-04-09,2021/2022,A,A,0.056,5.85,4.85,76.41,True
+Aston Villa vs Tottenham Hotspur,2022-04-09,2021/2022,A,A,0.056,2.3,1.3,77.71,True
+Brentford vs West Ham United,2022-04-10,2021/2022,H,H,0.13,2.72,1.72,79.43,True
+Southampton vs Arsenal,2022-04-16,2021/2022,A,H,0.063,1.97,-1.0,78.43,False
+Watford vs Brentford,2022-04-16,2021/2022,A,A,0.114,2.62,1.62,80.05,True
+West Ham United vs Burnley,2022-04-17,2021/2022,A,D,0.063,5.11,-1.0,79.05,False
+Manchester City vs Brighton & Hove Albion,2022-04-20,2021/2022,D,H,0.057,7.09,-1.0,78.05,False
+Burnley vs Southampton,2022-04-21,2021/2022,H,H,0.123,2.75,1.75,79.8,True
+Brentford vs Tottenham Hotspur,2022-04-23,2021/2022,H,D,0.114,4.39,-1.0,78.8,False
+Brighton & Hove Albion vs Southampton,2022-04-24,2021/2022,H,D,0.052,2.19,-1.0,77.8,False
+Burnley vs Wolverhampton Wanderers,2022-04-24,2021/2022,H,H,0.084,2.73,1.73,79.53,True
+Leeds United vs Manchester City,2022-04-30,2021/2022,D,A,0.052,6.15,-1.0,78.53,False
+Southampton vs Crystal Palace,2022-04-30,2021/2022,A,A,0.1,3.13,2.13,80.66,True
+Newcastle United vs Liverpool,2022-04-30,2021/2022,H,A,0.097,8.02,-1.0,79.66,False
+West Ham United vs Arsenal,2022-05-01,2021/2022,H,A,0.085,4.68,-1.0,78.66,False
+Manchester United vs Brentford,2022-05-02,2021/2022,A,H,0.171,4.61,-1.0,77.66,False
+Brighton & Hove Albion vs Manchester United,2022-05-07,2021/2022,H,H,0.111,2.81,1.81,79.47,True
+Brentford vs Southampton,2022-05-07,2021/2022,H,H,0.149,2.25,1.25,80.72,True
+Aston Villa vs Liverpool,2022-05-10,2021/2022,H,A,0.109,7.54,-1.0,79.72,False
+Leeds United vs Chelsea,2022-05-11,2021/2022,A,A,0.083,1.68,0.68,80.4,True
+Everton vs Brentford,2022-05-15,2021/2022,A,A,0.18,3.55,2.55,82.95,True
+Leeds United vs Brighton & Hove Albion,2022-05-15,2021/2022,A,D,0.158,2.62,-1.0,81.95,False
+Newcastle United vs Arsenal,2022-05-16,2021/2022,H,H,0.059,4.31,3.31,85.26,True
+Everton vs Crystal Palace,2022-05-19,2021/2022,A,H,0.134,4.25,-1.0,84.26,False
+Arsenal vs Everton,2022-05-22,2021/2022,A,H,0.094,9.24,-1.0,83.26,False
+Brentford vs Leeds United,2022-05-22,2021/2022,H,A,0.212,2.38,-1.0,82.26,False
+Chelsea vs Watford,2022-05-22,2021/2022,D,H,0.079,8.35,-1.0,81.26,False
+Brighton & Hove Albion vs West Ham United,2022-05-22,2021/2022,H,H,0.107,2.38,1.38,82.64,True
+Crystal Palace vs Manchester United,2022-05-22,2021/2022,H,H,0.14,3.15,2.15,84.79,True
+Manchester City vs Aston Villa,2022-05-22,2021/2022,D,H,0.078,8.74,-1.0,83.79,False
+Bournemouth vs Southampton,2022-10-19,2022/2023,H,A,0.062,2.76,-1.0,82.79,False
+Brentford vs Chelsea,2022-10-19,2022/2023,H,D,0.195,4.85,-1.0,81.79,False
+Liverpool vs West Ham United,2022-10-19,2022/2023,A,H,0.073,7.08,-1.0,80.79,False
+Fulham vs Aston Villa,2022-10-20,2022/2023,A,H,0.074,2.54,-1.0,79.79,False
+Manchester City vs Brighton & Hove Albion,2022-10-22,2022/2023,A,H,0.094,15.39,-1.0,78.79,False
+Aston Villa vs Brentford,2022-10-23,2022/2023,A,H,0.077,3.51,-1.0,77.79,False
+Tottenham Hotspur vs Newcastle United,2022-10-23,2022/2023,A,A,0.065,3.63,2.63,80.42,True
+Liverpool vs Leeds United,2022-10-29,2022/2023,A,A,0.051,9.43,8.43,88.85,True
+Brighton & Hove Albion vs Chelsea,2022-10-29,2022/2023,H,H,0.171,3.17,2.17,91.02,True
+Arsenal vs Nottingham Forest,2022-10-30,2022/2023,A,H,0.061,16.85,-1.0,90.02,False
+Nottingham Forest vs Brentford,2022-11-05,2022/2023,H,D,0.096,2.83,-1.0,89.02,False
+Wolverhampton Wanderers vs Brighton & Hove Albion,2022-11-05,2022/2023,A,A,0.161,2.3,1.3,90.32,True
+Tottenham Hotspur vs Liverpool,2022-11-06,2022/2023,H,A,0.096,3.33,-1.0,89.32,False
+Chelsea vs Arsenal,2022-11-06,2022/2023,A,A,0.069,2.71,1.71,91.03,True
+Aston Villa vs Manchester United,2022-11-06,2022/2023,A,H,0.05,2.22,-1.0,90.03,False
+Newcastle United vs Chelsea,2022-11-12,2022/2023,H,H,0.134,2.36,1.36,91.39,True
+Liverpool vs Southampton,2022-11-12,2022/2023,A,H,0.091,11.55,-1.0,90.39,False
+Bournemouth vs Everton,2022-11-12,2022/2023,A,H,0.078,2.63,-1.0,89.39,False
+Manchester City vs Brentford,2022-11-12,2022/2023,D,A,0.065,9.28,-1.0,88.39,False
+Brighton & Hove Albion vs Aston Villa,2022-11-13,2022/2023,H,A,0.085,1.88,-1.0,87.39,False
+Southampton vs Brighton & Hove Albion,2022-12-26,2022/2023,A,A,0.109,2.18,1.18,88.57,True
+Brentford vs Tottenham Hotspur,2022-12-26,2022/2023,H,D,0.169,4.0,-1.0,87.57,False
+Chelsea vs Bournemouth,2022-12-27,2022/2023,A,H,0.096,10.69,-1.0,86.57,False
+Leeds United vs Manchester City,2022-12-28,2022/2023,H,A,0.065,9.78,-1.0,85.57,False
+West Ham United vs Brentford,2022-12-30,2022/2023,A,A,0.076,3.73,2.73,88.3,True
+Bournemouth vs Crystal Palace,2022-12-31,2022/2023,A,A,0.071,2.6,1.6,89.9,True
+Fulham vs Southampton,2022-12-31,2022/2023,H,H,0.055,2.04,1.04,90.94,True
+Nottingham Forest vs Chelsea,2023-01-01,2022/2023,H,D,0.127,5.43,-1.0,89.94,False
+Brentford vs Liverpool,2023-01-02,2022/2023,H,H,0.182,5.76,4.76,94.7,True
+Everton vs Brighton & Hove Albion,2023-01-03,2022/2023,H,A,0.108,3.67,-1.0,93.7,False
+Fulham vs Chelsea,2023-01-12,2022/2023,H,H,0.162,3.43,2.43,96.13,True
+Brighton & Hove Albion vs Liverpool,2023-01-14,2022/2023,H,H,0.107,3.39,2.39,98.52,True
+Manchester United vs Manchester City,2023-01-14,2022/2023,H,H,0.105,4.26,3.26,101.78,True
+Brentford vs Bournemouth,2023-01-14,2022/2023,H,H,0.153,1.69,0.69,102.47,True
+Chelsea vs Crystal Palace,2023-01-15,2022/2023,A,H,0.056,5.64,-1.0,101.47,False
+Crystal Palace vs Manchester United,2023-01-18,2022/2023,A,D,0.055,1.82,-1.0,100.47,False
+Manchester City vs Tottenham Hotspur,2023-01-19,2022/2023,A,H,0.112,7.8,-1.0,99.47,False
+Liverpool vs Chelsea,2023-01-21,2022/2023,A,D,0.2,4.2,-1.0,98.47,False
+Leeds United vs Brentford,2023-01-22,2022/2023,A,D,0.126,2.99,-1.0,97.47,False
+Manchester City vs Wolverhampton Wanderers,2023-01-22,2022/2023,D,H,0.075,7.65,-1.0,96.47,False
+Newcastle United vs West Ham United,2023-02-04,2022/2023,A,D,0.059,6.3,-1.0,95.47,False
+Brighton & Hove Albion vs Bournemouth,2023-02-04,2022/2023,A,H,0.114,9.88,-1.0,94.47,False
+Tottenham Hotspur vs Manchester City,2023-02-05,2022/2023,H,H,0.099,4.44,3.44,97.91,True
+Manchester United vs Leeds United,2023-02-08,2022/2023,A,D,0.073,6.69,-1.0,96.91,False
+West Ham United vs Chelsea,2023-02-11,2022/2023,H,D,0.078,3.43,-1.0,95.91,False
+Arsenal vs Brentford,2023-02-11,2022/2023,A,D,0.096,7.32,-1.0,94.91,False
+Leicester City vs Tottenham Hotspur,2023-02-11,2022/2023,H,H,0.091,3.46,2.46,97.37,True
+Southampton vs Wolverhampton Wanderers,2023-02-11,2022/2023,H,A,0.051,3.16,-1.0,96.37,False
+Bournemouth vs Newcastle United,2023-02-11,2022/2023,H,D,0.06,6.53,-1.0,95.37,False
+Fulham vs Nottingham Forest,2023-02-11,2022/2023,A,H,0.06,4.37,-1.0,94.37,False
+Liverpool vs Everton,2023-02-13,2022/2023,A,H,0.068,6.39,-1.0,93.37,False
+Arsenal vs Manchester City,2023-02-15,2022/2023,A,A,0.054,2.46,1.46,94.83,True
+Wolverhampton Wanderers vs Bournemouth,2023-02-18,2022/2023,A,A,0.181,5.78,4.78,99.61,True
+Newcastle United vs Liverpool,2023-02-18,2022/2023,H,A,0.114,2.57,-1.0,98.61,False
+Brentford vs Crystal Palace,2023-02-18,2022/2023,H,D,0.088,1.85,-1.0,97.61,False
+Manchester United vs Leicester City,2023-02-19,2022/2023,A,H,0.116,5.37,-1.0,96.61,False
+Tottenham Hotspur vs West Ham United,2023-02-19,2022/2023,A,H,0.067,4.47,-1.0,95.61,False
+Fulham vs Wolverhampton Wanderers,2023-02-24,2022/2023,H,D,0.118,2.59,-1.0,94.61,False
+Everton vs Aston Villa,2023-02-25,2022/2023,H,A,0.114,2.59,-1.0,93.61,False
+Bournemouth vs Manchester City,2023-02-25,2022/2023,H,A,0.077,9.67,-1.0,92.61,False
+Liverpool vs Wolverhampton Wanderers,2023-03-01,2022/2023,A,H,0.063,6.68,-1.0,91.61,False
+Aston Villa vs Crystal Palace,2023-03-04,2022/2023,A,H,0.123,3.99,-1.0,90.61,False
+Nottingham Forest vs Everton,2023-03-05,2022/2023,H,D,0.06,2.7,-1.0,89.61,False
+Bournemouth vs Liverpool,2023-03-11,2022/2023,H,H,0.061,7.07,6.07,95.68,True
+Everton vs Brentford,2023-03-11,2022/2023,A,H,0.112,2.82,-1.0,94.68,False
+Leeds United vs Brighton & Hove Albion,2023-03-11,2022/2023,A,D,0.139,1.96,-1.0,93.68,False
+Leicester City vs Chelsea,2023-03-11,2022/2023,H,A,0.128,3.9,-1.0,92.68,False
+Crystal Palace vs Manchester City,2023-03-11,2022/2023,D,A,0.064,5.2,-1.0,91.68,False
+Manchester United vs Southampton,2023-03-12,2022/2023,A,D,0.08,10.01,-1.0,90.68,False
+West Ham United vs Aston Villa,2023-03-12,2022/2023,H,D,0.138,2.25,-1.0,89.68,False
+Brighton & Hove Albion vs Crystal Palace,2023-03-15,2022/2023,H,H,0.078,1.47,0.47,90.15,True
+Southampton vs Brentford,2023-03-15,2022/2023,A,A,0.068,2.49,1.49,91.64,True
+Chelsea vs Everton,2023-03-18,2022/2023,A,D,0.108,7.95,-1.0,90.64,False
+Southampton vs Tottenham Hotspur,2023-03-18,2022/2023,H,D,0.097,4.62,-1.0,89.64,False
+Brentford vs Leicester City,2023-03-18,2022/2023,H,D,0.073,1.95,-1.0,88.64,False
+Aston Villa vs Bournemouth,2023-03-18,2022/2023,A,H,0.112,5.11,-1.0,87.64,False
+Arsenal vs Crystal Palace,2023-03-19,2022/2023,D,H,0.08,6.02,-1.0,86.64,False
+Chelsea vs Aston Villa,2023-04-01,2022/2023,A,A,0.121,5.57,4.57,91.21,True
+Nottingham Forest vs Wolverhampton Wanderers,2023-04-01,2022/2023,A,D,0.131,2.64,-1.0,90.21,False
+Newcastle United vs Manchester United,2023-04-02,2022/2023,H,H,0.126,2.4,1.4,91.61,True
+Leicester City vs Aston Villa,2023-04-04,2022/2023,H,A,0.132,2.68,-1.0,90.61,False
+Leeds United vs Nottingham Forest,2023-04-04,2022/2023,A,H,0.076,5.23,-1.0,89.61,False
+Manchester United vs Brentford,2023-04-05,2022/2023,A,H,0.128,5.09,-1.0,88.61,False
+Fulham vs West Ham United,2023-04-08,2022/2023,A,A,0.066,2.69,1.69,90.3,True
+Manchester United vs Everton,2023-04-08,2022/2023,A,H,0.115,6.88,-1.0,89.3,False
+Brentford vs Newcastle United,2023-04-08,2022/2023,A,A,0.059,2.13,1.13,90.43,True
+Tottenham Hotspur vs Brighton & Hove Albion,2023-04-08,2022/2023,A,H,0.057,2.72,-1.0,89.43,False
+Southampton vs Manchester City,2023-04-08,2022/2023,D,A,0.053,6.46,-1.0,88.43,False
+Leeds United vs Crystal Palace,2023-04-09,2022/2023,A,A,0.123,3.67,2.67,91.1,True
+Chelsea vs Brighton & Hove Albion,2023-04-15,2022/2023,A,A,0.101,2.72,1.72,92.82,True
+Tottenham Hotspur vs Bournemouth,2023-04-15,2022/2023,A,A,0.058,6.8,5.8,98.62,True
+Manchester City vs Leicester City,2023-04-15,2022/2023,D,H,0.068,8.82,-1.0,97.62,False
+Wolverhampton Wanderers vs Brentford,2023-04-15,2022/2023,A,H,0.067,3.01,-1.0,96.62,False
+Southampton vs Crystal Palace,2023-04-15,2022/2023,A,A,0.087,2.73,1.73,98.35,True
+West Ham United vs Arsenal,2023-04-16,2022/2023,H,D,0.172,6.14,-1.0,97.35,False
+Nottingham Forest vs Manchester United,2023-04-16,2022/2023,A,A,0.081,1.71,0.71,98.06,True
+Leeds United vs Liverpool,2023-04-17,2022/2023,A,A,0.086,1.74,0.74,98.8,True
+Arsenal vs Southampton,2023-04-21,2022/2023,D,D,0.061,7.62,6.62,105.42,True
+Crystal Palace vs Everton,2023-04-22,2022/2023,H,D,0.103,2.15,-1.0,104.42,False
+Leicester City vs Wolverhampton Wanderers,2023-04-22,2022/2023,H,H,0.069,2.46,1.46,105.88,True
+Fulham vs Leeds United,2023-04-22,2022/2023,H,H,0.061,2.44,1.44,107.32,True
+Bournemouth vs West Ham United,2023-04-23,2022/2023,H,A,0.056,2.85,-1.0,106.32,False
+Leeds United vs Leicester City,2023-04-25,2022/2023,A,D,0.127,3.02,-1.0,105.32,False
+Wolverhampton Wanderers vs Crystal Palace,2023-04-25,2022/2023,A,H,0.131,3.13,-1.0,104.32,False
+Nottingham Forest vs Brighton & Hove Albion,2023-04-26,2022/2023,A,H,0.103,1.56,-1.0,103.32,False
+Tottenham Hotspur vs Manchester United,2023-04-27,2022/2023,A,D,0.079,2.48,-1.0,102.32,False
+Southampton vs Bournemouth,2023-04-27,2022/2023,A,A,0.065,3.19,2.19,104.51,True
+Brighton & Hove Albion vs Wolverhampton Wanderers,2023-04-29,2022/2023,A,H,0.055,6.75,-1.0,103.51,False
+Bournemouth vs Leeds United,2023-04-30,2022/2023,H,H,0.142,2.65,1.65,105.16,True
+Fulham vs Manchester City,2023-04-30,2022/2023,D,A,0.05,6.48,-1.0,104.16,False
+Leicester City vs Everton,2023-05-01,2022/2023,H,D,0.091,2.04,-1.0,103.16,False
+Arsenal vs Chelsea,2023-05-02,2022/2023,A,H,0.133,5.96,-1.0,102.16,False
+Brighton & Hove Albion vs Manchester United,2023-05-04,2022/2023,H,H,0.122,2.05,1.05,103.21,True
+Bournemouth vs Chelsea,2023-05-06,2022/2023,H,A,0.058,3.46,-1.0,102.21,False
+Tottenham Hotspur vs Crystal Palace,2023-05-06,2022/2023,A,H,0.077,4.24,-1.0,101.21,False
+Newcastle United vs Arsenal,2023-05-07,2022/2023,H,A,0.169,2.51,-1.0,100.21,False
+Brighton & Hove Albion vs Everton,2023-05-08,2022/2023,H,A,0.069,1.38,-1.0,99.21,False
+Nottingham Forest vs Southampton,2023-05-08,2022/2023,A,H,0.051,3.45,-1.0,98.21,False
+Leeds United vs Newcastle United,2023-05-13,2022/2023,A,D,0.121,1.71,-1.0,97.21,False
+Brentford vs West Ham United,2023-05-14,2022/2023,A,H,0.052,3.71,-1.0,96.21,False
+Arsenal vs Brighton & Hove Albion,2023-05-14,2022/2023,A,A,0.084,4.21,3.21,99.42,True
+Leicester City vs Liverpool,2023-05-15,2022/2023,H,A,0.113,4.99,-1.0,98.42,False
+Nottingham Forest vs Arsenal,2023-05-20,2022/2023,H,H,0.071,5.37,4.37,102.79,True
+Tottenham Hotspur vs Brentford,2023-05-20,2022/2023,A,A,0.14,4.16,3.16,105.95,True
+West Ham United vs Leeds United,2023-05-21,2022/2023,H,H,0.103,2.51,1.51,107.46,True
+Manchester City vs Chelsea,2023-05-21,2022/2023,D,H,0.07,6.39,-1.0,106.46,False
+Brighton & Hove Albion vs Manchester City,2023-05-24,2022/2023,A,D,0.104,1.83,-1.0,105.46,False
+Brentford vs Manchester City,2023-05-28,2022/2023,H,H,0.068,4.04,3.04,108.5,True
+Crystal Palace vs Nottingham Forest,2023-05-28,2022/2023,D,D,0.055,4.28,3.28,111.78,True
+Chelsea vs Newcastle United,2023-05-28,2022/2023,A,D,0.137,2.38,-1.0,110.78,False
+Leeds United vs Tottenham Hotspur,2023-05-28,2022/2023,A,A,0.05,2.36,1.36,112.14,True
+Manchester United vs Fulham,2023-05-28,2022/2023,A,H,0.057,5.84,-1.0,111.14,False
+Burnley vs Crystal Palace,2023-11-04,2023/2024,A,A,0.063,2.65,1.65,112.79,True
+Brentford vs West Ham United,2023-11-04,2023/2024,H,H,0.229,2.07,1.07,113.86,True
+Wolverhampton Wanderers vs Tottenham Hotspur,2023-11-11,2023/2024,A,H,0.063,2.23,-1.0,112.86,False
+Manchester United vs Luton Town,2023-11-11,2023/2024,A,H,0.171,9.36,-1.0,111.86,False
+Bournemouth vs Newcastle United,2023-11-11,2023/2024,A,H,0.176,1.76,-1.0,110.86,False
+Crystal Palace vs Everton,2023-11-11,2023/2024,A,A,0.083,3.19,2.19,113.05,True
+Liverpool vs Brentford,2023-11-12,2023/2024,A,H,0.058,7.17,-1.0,112.05,False
+West Ham United vs Nottingham Forest,2023-11-12,2023/2024,A,H,0.085,4.1,-1.0,111.05,False
+Chelsea vs Manchester City,2023-11-12,2023/2024,H,D,0.113,4.92,-1.0,110.05,False
+Burnley vs West Ham United,2023-11-25,2023/2024,A,A,0.064,2.12,1.12,111.17,True
+Brentford vs Arsenal,2023-11-25,2023/2024,H,A,0.131,4.74,-1.0,110.17,False
+Tottenham Hotspur vs Aston Villa,2023-11-26,2023/2024,A,A,0.109,2.82,1.82,111.99,True
+Everton vs Manchester United,2023-11-26,2023/2024,H,A,0.104,2.75,-1.0,110.99,False
+Newcastle United vs Manchester United,2023-12-02,2023/2024,H,H,0.082,1.9,0.9,111.89,True
+Burnley vs Sheffield United,2023-12-02,2023/2024,A,H,0.067,4.65,-1.0,110.89,False
+Brentford vs Luton Town,2023-12-02,2023/2024,H,H,0.097,1.45,0.45,111.34,True
+West Ham United vs Crystal Palace,2023-12-03,2023/2024,A,D,0.065,3.92,-1.0,110.34,False
+Chelsea vs Brighton & Hove Albion,2023-12-03,2023/2024,H,H,0.106,1.75,0.75,111.09,True
+Wolverhampton Wanderers vs Burnley,2023-12-05,2023/2024,A,H,0.077,4.35,-1.0,110.09,False
+Manchester United vs Chelsea,2023-12-06,2023/2024,A,H,0.087,2.42,-1.0,109.09,False
+Aston Villa vs Manchester City,2023-12-06,2023/2024,H,H,0.058,4.35,3.35,112.44,True
+Brighton & Hove Albion vs Brentford,2023-12-06,2023/2024,A,H,0.141,3.79,-1.0,111.44,False
+Everton vs Newcastle United,2023-12-07,2023/2024,A,H,0.087,2.36,-1.0,110.44,False
+Tottenham Hotspur vs West Ham United,2023-12-07,2023/2024,A,A,0.086,4.04,3.04,113.48,True
+Manchester United vs Bournemouth,2023-12-09,2023/2024,A,A,0.083,5.52,4.52,118.0,True
+Sheffield United vs Brentford,2023-12-09,2023/2024,A,H,0.12,1.81,-1.0,117.0,False
+Wolverhampton Wanderers vs Nottingham Forest,2023-12-09,2023/2024,A,D,0.073,4.44,-1.0,116.0,False
+Aston Villa vs Arsenal,2023-12-09,2023/2024,H,H,0.064,3.43,2.43,118.43,True
+Everton vs Chelsea,2023-12-10,2023/2024,H,H,0.157,3.03,2.03,120.46,True
+Fulham vs West Ham United,2023-12-10,2023/2024,H,H,0.081,2.44,1.44,121.9,True
+Luton Town vs Manchester City,2023-12-10,2023/2024,D,A,0.055,10.09,-1.0,120.9,False
+Tottenham Hotspur vs Newcastle United,2023-12-10,2023/2024,A,H,0.189,3.08,-1.0,119.9,False
+Nottingham Forest vs Tottenham Hotspur,2023-12-15,2023/2024,H,A,0.069,4.51,-1.0,118.9,False
+Manchester City vs Crystal Palace,2023-12-16,2023/2024,D,D,0.092,7.98,6.98,125.88,True
+Newcastle United vs Fulham,2023-12-16,2023/2024,A,H,0.117,4.04,-1.0,124.88,False
+Arsenal vs Brighton & Hove Albion,2023-12-17,2023/2024,A,H,0.085,6.67,-1.0,123.88,False
+Brentford vs Aston Villa,2023-12-17,2023/2024,H,A,0.058,3.24,-1.0,122.88,False
+Crystal Palace vs Brighton & Hove Albion,2023-12-21,2023/2024,H,D,0.067,3.4,-1.0,121.88,False
+Tottenham Hotspur vs Everton,2023-12-23,2023/2024,A,H,0.106,4.05,-1.0,120.88,False
+Nottingham Forest vs Bournemouth,2023-12-23,2023/2024,A,A,0.077,2.61,1.61,122.49,True
+Fulham vs Burnley,2023-12-23,2023/2024,A,A,0.084,5.12,4.12,126.61,True
+West Ham United vs Manchester United,2023-12-23,2023/2024,H,H,0.08,2.65,1.65,128.26,True
+Luton Town vs Newcastle United,2023-12-23,2023/2024,A,H,0.112,1.65,-1.0,127.26,False
+Manchester United vs Aston Villa,2023-12-26,2023/2024,H,H,0.064,2.68,1.68,128.94,True
+Newcastle United vs Nottingham Forest,2023-12-26,2023/2024,H,A,0.068,1.51,-1.0,127.94,False
+Bournemouth vs Fulham,2023-12-26,2023/2024,H,H,0.104,2.22,1.22,129.16,True
+Burnley vs Liverpool,2023-12-26,2023/2024,H,A,0.093,8.02,-1.0,128.16,False
+Chelsea vs Crystal Palace,2023-12-27,2023/2024,A,H,0.113,5.06,-1.0,127.16,False
+Everton vs Manchester City,2023-12-27,2023/2024,H,A,0.165,6.32,-1.0,126.16,False
+Wolverhampton Wanderers vs Everton,2023-12-30,2023/2024,A,H,0.061,2.74,-1.0,125.16,False
+Manchester City vs Sheffield United,2023-12-30,2023/2024,D,H,0.068,14.55,-1.0,124.16,False
+Aston Villa vs Burnley,2023-12-30,2023/2024,A,H,0.08,8.1,-1.0,123.16,False
+Fulham vs Arsenal,2023-12-31,2023/2024,H,H,0.085,5.94,4.94,128.1,True
+Tottenham Hotspur vs Bournemouth,2023-12-31,2023/2024,A,H,0.147,4.08,-1.0,127.1,False
+Liverpool vs Newcastle United,2024-01-01,2023/2024,A,H,0.077,6.69,-1.0,126.1,False
+West Ham United vs Brighton & Hove Albion,2024-01-02,2023/2024,A,D,0.074,2.74,-1.0,125.1,False
+Burnley vs Luton Town,2024-01-12,2023/2024,A,D,0.125,3.8,-1.0,124.1,False
+Newcastle United vs Manchester City,2024-01-13,2023/2024,A,A,0.066,1.56,0.56,124.66,True
+Bournemouth vs Liverpool,2024-01-21,2023/2024,H,A,0.118,4.41,-1.0,123.66,False
+Brighton & Hove Albion vs Wolverhampton Wanderers,2024-01-22,2023/2024,A,D,0.052,5.01,-1.0,122.66,False
+Aston Villa vs Newcastle United,2024-01-30,2023/2024,H,A,0.128,1.85,-1.0,121.66,False
+Crystal Palace vs Sheffield United,2024-01-30,2023/2024,A,H,0.081,5.81,-1.0,120.66,False
+Nottingham Forest vs Arsenal,2024-01-30,2023/2024,H,A,0.06,7.77,-1.0,119.66,False
+Luton Town vs Brighton & Hove Albion,2024-01-30,2023/2024,H,H,0.062,4.43,3.43,123.09,True
+Tottenham Hotspur vs Brentford,2024-01-31,2023/2024,A,H,0.072,4.7,-1.0,122.09,False
+Manchester City vs Burnley,2024-01-31,2023/2024,D,H,0.058,12.41,-1.0,121.09,False
+Liverpool vs Chelsea,2024-01-31,2023/2024,A,H,0.081,5.29,-1.0,120.09,False
+Wolverhampton Wanderers vs Manchester United,2024-02-01,2023/2024,H,A,0.105,2.7,-1.0,119.09,False
+Burnley vs Fulham,2024-02-03,2023/2024,H,D,0.055,2.98,-1.0,118.09,False
+Newcastle United vs Luton Town,2024-02-03,2023/2024,A,D,0.217,7.23,-1.0,117.09,False
+Everton vs Tottenham Hotspur,2024-02-03,2023/2024,H,D,0.059,2.97,-1.0,116.09,False
+Arsenal vs Liverpool,2024-02-04,2023/2024,A,H,0.063,3.15,-1.0,115.09,False
+Manchester United vs West Ham United,2024-02-04,2023/2024,A,H,0.08,5.05,-1.0,114.09,False
+Chelsea vs Wolverhampton Wanderers,2024-02-04,2023/2024,A,A,0.069,5.27,4.27,118.36,True
+Bournemouth vs Nottingham Forest,2024-02-04,2023/2024,A,D,0.061,4.68,-1.0,117.36,False
+Brentford vs Manchester City,2024-02-05,2023/2024,H,A,0.078,7.44,-1.0,116.36,False
+Nottingham Forest vs Newcastle United,2024-02-10,2023/2024,H,A,0.08,3.29,-1.0,115.36,False
+Manchester City vs Everton,2024-02-10,2023/2024,A,H,0.112,13.24,-1.0,114.36,False
+Liverpool vs Burnley,2024-02-10,2023/2024,D,H,0.08,8.71,-1.0,113.36,False
+Luton Town vs Sheffield United,2024-02-10,2023/2024,H,A,0.204,1.79,-1.0,112.36,False
+West Ham United vs Arsenal,2024-02-11,2023/2024,H,A,0.069,5.95,-1.0,111.36,False
+Newcastle United vs Bournemouth,2024-02-17,2023/2024,A,D,0.087,3.84,-1.0,110.36,False
+Fulham vs Aston Villa,2024-02-17,2023/2024,H,A,0.069,2.97,-1.0,109.36,False
+Tottenham Hotspur vs Wolverhampton Wanderers,2024-02-17,2023/2024,A,A,0.054,5.36,4.36,113.72,True
+Sheffield United vs Brighton & Hove Albion,2024-02-18,2023/2024,H,A,0.139,4.99,-1.0,112.72,False
+Luton Town vs Manchester United,2024-02-18,2023/2024,H,A,0.164,4.17,-1.0,111.72,False
+Everton vs Crystal Palace,2024-02-19,2023/2024,H,D,0.054,1.72,-1.0,110.72,False
+Manchester City vs Brentford,2024-02-20,2023/2024,D,H,0.086,8.67,-1.0,109.72,False
+Bournemouth vs Manchester City,2024-02-24,2023/2024,H,A,0.12,7.2,-1.0,108.72,False
+Arsenal vs Newcastle United,2024-02-24,2023/2024,H,H,0.064,1.4,0.4,109.12,True
+Aston Villa vs Nottingham Forest,2024-02-24,2023/2024,A,H,0.111,5.55,-1.0,108.12,False
+Brighton & Hove Albion vs Everton,2024-02-24,2023/2024,A,D,0.084,4.2,-1.0,107.12,False
+Everton vs West Ham United,2024-03-02,2023/2024,H,A,0.093,2.1,-1.0,106.12,False
+Fulham vs Brighton & Hove Albion,2024-03-02,2023/2024,A,H,0.102,2.7,-1.0,105.12,False
+Newcastle United vs Wolverhampton Wanderers,2024-03-02,2023/2024,A,H,0.072,3.89,-1.0,104.12,False
+Tottenham Hotspur vs Crystal Palace,2024-03-02,2023/2024,A,H,0.074,6.26,-1.0,103.12,False
+Luton Town vs Aston Villa,2024-03-02,2023/2024,H,A,0.067,4.34,-1.0,102.12,False
+Burnley vs Bournemouth,2024-03-03,2023/2024,A,A,0.06,1.96,0.96,103.08,True
+Sheffield United vs Arsenal,2024-03-04,2023/2024,D,A,0.061,8.18,-1.0,102.08,False
+Manchester United vs Everton,2024-03-09,2023/2024,A,H,0.098,4.2,-1.0,101.08,False
+Bournemouth vs Sheffield United,2024-03-09,2023/2024,A,D,0.051,8.52,-1.0,100.08,False
+Crystal Palace vs Luton Town,2024-03-09,2023/2024,A,D,0.146,4.58,-1.0,99.08,False
+Liverpool vs Manchester City,2024-03-10,2023/2024,H,D,0.07,3.02,-1.0,98.08,False
+Fulham vs Tottenham Hotspur,2024-03-16,2023/2024,H,H,0.107,3.42,2.42,100.5,True
+West Ham United vs Aston Villa,2024-03-17,2023/2024,H,D,0.072,2.66,-1.0,99.5,False
+Tottenham Hotspur vs Luton Town,2024-03-30,2023/2024,A,H,0.058,11.57,-1.0,98.5,False
+Chelsea vs Burnley,2024-03-30,2023/2024,A,D,0.13,9.34,-1.0,97.5,False
+Bournemouth vs Everton,2024-03-30,2023/2024,A,H,0.058,3.27,-1.0,96.5,False
+Newcastle United vs West Ham United,2024-03-30,2023/2024,A,H,0.051,4.0,-1.0,95.5,False
+Burnley vs Wolverhampton Wanderers,2024-04-02,2023/2024,H,D,0.224,2.55,-1.0,94.5,False
+West Ham United vs Tottenham Hotspur,2024-04-02,2023/2024,A,D,0.052,2.01,-1.0,93.5,False
+Manchester City vs Aston Villa,2024-04-03,2023/2024,H,H,0.112,1.3,0.3,93.8,True
+Chelsea vs Manchester United,2024-04-04,2023/2024,H,H,0.073,2.03,1.03,94.83,True
+Everton vs Burnley,2024-04-06,2023/2024,A,H,0.097,4.99,-1.0,93.83,False
+Wolverhampton Wanderers vs West Ham United,2024-04-06,2023/2024,H,A,0.08,2.53,-1.0,92.83,False
+Luton Town vs Bournemouth,2024-04-06,2023/2024,H,H,0.086,3.65,2.65,95.48,True
+Brighton & Hove Albion vs Arsenal,2024-04-06,2023/2024,H,A,0.086,5.25,-1.0,94.48,False
+Aston Villa vs Brentford,2024-04-06,2023/2024,A,D,0.109,4.62,-1.0,93.48,False
+Crystal Palace vs Manchester City,2024-04-06,2023/2024,D,A,0.053,5.59,-1.0,92.48,False
+Manchester United vs Liverpool,2024-04-07,2023/2024,A,D,0.096,1.61,-1.0,91.48,False
+Sheffield United vs Chelsea,2024-04-07,2023/2024,H,D,0.059,6.77,-1.0,90.48,False
+Tottenham Hotspur vs Nottingham Forest,2024-04-07,2023/2024,A,H,0.111,7.33,-1.0,89.48,False
+Newcastle United vs Tottenham Hotspur,2024-04-13,2023/2024,H,H,0.067,2.8,1.8,91.28,True
+Brentford vs Sheffield United,2024-04-13,2023/2024,A,H,0.126,6.68,-1.0,90.28,False
+Manchester City vs Luton Town,2024-04-13,2023/2024,D,H,0.093,13.24,-1.0,89.28,False
+Bournemouth vs Manchester United,2024-04-13,2023/2024,H,D,0.099,2.42,-1.0,88.28,False
+West Ham United vs Fulham,2024-04-14,2023/2024,A,A,0.076,2.91,1.91,90.19,True
+Sheffield United vs Burnley,2024-04-20,2023/2024,H,A,0.069,2.77,-1.0,89.19,False
+Crystal Palace vs West Ham United,2024-04-21,2023/2024,H,H,0.105,2.12,1.12,90.31,True
+Everton vs Nottingham Forest,2024-04-21,2023/2024,A,H,0.178,3.78,-1.0,89.31,False
+Wolverhampton Wanderers vs Bournemouth,2024-04-24,2023/2024,H,A,0.103,2.74,-1.0,88.31,False
+Manchester United vs Sheffield United,2024-04-24,2023/2024,A,H,0.134,8.27,-1.0,87.31,False
+Newcastle United vs Sheffield United,2024-04-27,2023/2024,D,H,0.051,7.18,-1.0,86.31,False
+Manchester United vs Burnley,2024-04-27,2023/2024,A,D,0.085,5.35,-1.0,85.31,False
+Fulham vs Crystal Palace,2024-04-27,2023/2024,A,D,0.064,3.43,-1.0,84.31,False
+Wolverhampton Wanderers vs Luton Town,2024-04-27,2023/2024,H,H,0.056,1.98,0.98,85.29,True
+Everton vs Brentford,2024-04-27,2023/2024,A,H,0.12,3.09,-1.0,84.29,False
+Aston Villa vs Chelsea,2024-04-27,2023/2024,A,D,0.105,3.13,-1.0,83.29,False
+Nottingham Forest vs Manchester City,2024-04-28,2023/2024,D,A,0.074,5.89,-1.0,82.29,False
+Bournemouth vs Brighton & Hove Albion,2024-04-28,2023/2024,H,H,0.113,2.27,1.27,83.56,True
+Luton Town vs Everton,2024-05-03,2023/2024,A,D,0.124,2.63,-1.0,82.56,False
+Manchester City vs Wolverhampton Wanderers,2024-05-04,2023/2024,D,H,0.074,13.16,-1.0,81.56,False
+Burnley vs Newcastle United,2024-05-04,2023/2024,H,A,0.061,3.37,-1.0,80.56,False
+Arsenal vs Bournemouth,2024-05-04,2023/2024,D,H,0.084,7.76,-1.0,79.56,False
+Brighton & Hove Albion vs Aston Villa,2024-05-05,2023/2024,H,H,0.079,2.75,1.75,81.31,True
+Chelsea vs West Ham United,2024-05-05,2023/2024,H,H,0.177,1.66,0.66,81.97,True
+Crystal Palace vs Manchester United,2024-05-06,2023/2024,H,H,0.133,2.39,1.39,83.36,True
+Fulham vs Manchester City,2024-05-11,2023/2024,H,A,0.155,12.95,-1.0,82.36,False
+Everton vs Sheffield United,2024-05-11,2023/2024,A,H,0.091,7.47,-1.0,81.36,False
+Bournemouth vs Brentford,2024-05-11,2023/2024,A,A,0.18,3.57,2.57,83.93,True
+Tottenham Hotspur vs Burnley,2024-05-11,2023/2024,A,H,0.077,7.27,-1.0,82.93,False
+Wolverhampton Wanderers vs Crystal Palace,2024-05-11,2023/2024,A,A,0.181,2.49,1.49,84.42,True
+Aston Villa vs Liverpool,2024-05-13,2023/2024,A,D,0.054,1.71,-1.0,83.42,False
+Tottenham Hotspur vs Manchester City,2024-05-14,2023/2024,D,A,0.052,6.3,-1.0,82.42,False
+Manchester United vs Newcastle United,2024-05-15,2023/2024,A,H,0.111,2.36,-1.0,81.42,False
+Brighton & Hove Albion vs Manchester United,2024-05-19,2023/2024,A,A,0.086,2.98,1.98,83.4,True
+Sheffield United vs Tottenham Hotspur,2024-05-19,2023/2024,H,A,0.15,7.16,-1.0,82.4,False
+Brentford vs Newcastle United,2024-05-19,2023/2024,H,A,0.079,2.97,-1.0,81.4,False
+Burnley vs Nottingham Forest,2024-05-19,2023/2024,A,A,0.054,2.32,1.32,82.72,True
+Luton Town vs Fulham,2024-05-19,2023/2024,A,A,0.068,2.26,1.26,83.98,True
+Crystal Palace vs Aston Villa,2024-05-19,2023/2024,H,H,0.102,1.83,0.83,84.81,True
+Arsenal vs Everton,2024-05-19,2023/2024,D,H,0.128,8.37,-1.0,83.81,False
+Brighton & Hove Albion vs Manchester City,2024-11-09,2024/2025,H,H,0.138,4.49,3.49,87.3,True
+Crystal Palace vs Fulham,2024-11-09,2024/2025,A,A,0.08,2.6,1.6,88.9,True
+Brentford vs Bournemouth,2024-11-09,2024/2025,H,H,0.093,2.59,1.59,90.49,True
+Nottingham Forest vs Newcastle United,2024-11-10,2024/2025,H,A,0.112,2.71,-1.0,89.49,False
+Fulham vs Wolverhampton Wanderers,2024-11-23,2024/2025,H,A,0.078,1.64,-1.0,88.49,False
+Aston Villa vs Crystal Palace,2024-11-23,2024/2025,A,D,0.166,5.59,-1.0,87.49,False
+Arsenal vs Nottingham Forest,2024-11-23,2024/2025,A,H,0.086,8.73,-1.0,86.49,False
+Bournemouth vs Brighton & Hove Albion,2024-11-23,2024/2025,H,A,0.056,2.42,-1.0,85.49,False
+Leicester City vs Chelsea,2024-11-23,2024/2025,H,A,0.097,7.05,-1.0,84.49,False
+Nottingham Forest vs Ipswich Town,2024-11-30,2024/2025,H,H,0.077,1.78,0.78,85.27,True
+West Ham United vs Arsenal,2024-11-30,2024/2025,H,A,0.073,7.07,-1.0,84.27,False
+Wolverhampton Wanderers vs Bournemouth,2024-11-30,2024/2025,A,A,0.074,2.46,1.46,85.73,True
+Brentford vs Leicester City,2024-11-30,2024/2025,H,H,0.065,1.65,0.65,86.38,True
+Chelsea vs Aston Villa,2024-12-01,2024/2025,A,H,0.089,4.6,-1.0,85.38,False
+Manchester United vs Everton,2024-12-01,2024/2025,A,H,0.124,6.17,-1.0,84.38,False
+Liverpool vs Manchester City,2024-12-01,2024/2025,H,H,0.161,2.08,1.08,85.46,True
+Ipswich Town vs Crystal Palace,2024-12-03,2024/2025,A,A,0.183,2.39,1.39,86.85,True
+Leicester City vs West Ham United,2024-12-03,2024/2025,A,H,0.059,2.52,-1.0,85.85,False
+Aston Villa vs Brentford,2024-12-04,2024/2025,A,H,0.068,4.44,-1.0,84.85,False
+Southampton vs Chelsea,2024-12-04,2024/2025,H,A,0.119,8.92,-1.0,83.85,False
+Manchester City vs Nottingham Forest,2024-12-04,2024/2025,A,H,0.109,8.26,-1.0,82.85,False
+Bournemouth vs Tottenham Hotspur,2024-12-05,2024/2025,H,H,0.199,2.67,1.67,84.52,True
+Manchester United vs Nottingham Forest,2024-12-07,2024/2025,A,A,0.173,5.18,4.18,88.7,True
+Crystal Palace vs Manchester City,2024-12-07,2024/2025,H,D,0.127,5.38,-1.0,87.7,False
+Brentford vs Newcastle United,2024-12-07,2024/2025,H,H,0.081,2.88,1.88,89.58,True
+Aston Villa vs Southampton,2024-12-07,2024/2025,H,H,0.081,1.37,0.37,89.95,True
+Fulham vs Arsenal,2024-12-08,2024/2025,H,D,0.074,5.33,-1.0,88.95,False
+Ipswich Town vs Bournemouth,2024-12-08,2024/2025,A,A,0.141,2.01,1.01,89.96,True
+Newcastle United vs Leicester City,2024-12-14,2024/2025,A,H,0.077,8.95,-1.0,88.96,False
+Bournemouth vs West Ham United,2024-12-16,2024/2025,H,D,0.145,1.72,-1.0,87.96,False
+Crystal Palace vs Arsenal,2024-12-21,2024/2025,H,A,0.056,6.75,-1.0,86.96,False
+West Ham United vs Brighton & Hove Albion,2024-12-21,2024/2025,H,D,0.078,2.8,-1.0,85.96,False
+Aston Villa vs Manchester City,2024-12-21,2024/2025,H,H,0.07,3.3,2.3,88.26,True
+Everton vs Chelsea,2024-12-22,2024/2025,H,D,0.099,5.48,-1.0,87.26,False
+Manchester United vs Bournemouth,2024-12-22,2024/2025,A,A,0.097,4.16,3.16,90.42,True
+Tottenham Hotspur vs Liverpool,2024-12-22,2024/2025,H,A,0.175,4.47,-1.0,89.42,False
+Manchester City vs Everton,2024-12-26,2024/2025,D,D,0.059,5.73,4.73,94.15,True
+Bournemouth vs Crystal Palace,2024-12-26,2024/2025,H,D,0.051,1.92,-1.0,93.15,False
+Nottingham Forest vs Tottenham Hotspur,2024-12-26,2024/2025,H,H,0.128,2.37,1.37,94.52,True
+Brighton & Hove Albion vs Brentford,2024-12-27,2024/2025,A,D,0.075,4.96,-1.0,93.52,False
+Fulham vs Bournemouth,2024-12-29,2024/2025,A,D,0.121,3.0,-1.0,92.52,False
+Crystal Palace vs Southampton,2024-12-29,2024/2025,H,H,0.118,1.64,0.64,93.16,True
+Leicester City vs Manchester City,2024-12-29,2024/2025,H,A,0.061,8.42,-1.0,92.16,False
+Aston Villa vs Brighton & Hove Albion,2024-12-30,2024/2025,A,D,0.088,3.62,-1.0,91.16,False
+Brentford vs Arsenal,2025-01-01,2024/2025,H,A,0.055,6.98,-1.0,90.16,False
+Crystal Palace vs Chelsea,2025-01-04,2024/2025,H,D,0.151,3.69,-1.0,89.16,False
+Tottenham Hotspur vs Newcastle United,2025-01-04,2024/2025,A,A,0.06,2.22,1.22,90.38,True
+Aston Villa vs Leicester City,2025-01-04,2024/2025,A,H,0.063,9.41,-1.0,89.38,False
+Bournemouth vs Everton,2025-01-04,2024/2025,H,H,0.085,1.75,0.75,90.13,True
+Southampton vs Brentford,2025-01-04,2024/2025,A,A,0.091,2.41,1.41,91.54,True
+Chelsea vs Bournemouth,2025-01-14,2024/2025,A,D,0.222,6.17,-1.0,90.54,False
+Brentford vs Manchester City,2025-01-14,2024/2025,H,D,0.161,4.9,-1.0,89.54,False
+Leicester City vs Fulham,2025-01-18,2024/2025,H,A,0.057,4.38,-1.0,88.54,False
+West Ham United vs Crystal Palace,2025-01-18,2024/2025,A,A,0.076,2.7,1.7,90.24,True
+Ipswich Town vs Manchester City,2025-01-19,2024/2025,H,A,0.051,7.76,-1.0,89.24,False
+Nottingham Forest vs Southampton,2025-01-19,2024/2025,H,H,0.112,1.4,0.4,89.64,True
+Bournemouth vs Nottingham Forest,2025-01-25,2024/2025,H,H,0.126,2.11,1.11,90.75,True
+Brighton & Hove Albion vs Everton,2025-01-25,2024/2025,A,A,0.085,5.5,4.5,95.25,True
+Liverpool vs Ipswich Town,2025-01-25,2024/2025,H,H,0.057,1.1,0.1,95.35,True
+Southampton vs Newcastle United,2025-01-25,2024/2025,A,A,0.055,1.42,0.42,95.77,True
+Manchester City vs Chelsea,2025-01-25,2024/2025,A,H,0.151,3.36,-1.0,94.77,False
+Tottenham Hotspur vs Leicester City,2025-01-26,2024/2025,A,A,0.057,5.94,4.94,99.71,True
+Wolverhampton Wanderers vs Aston Villa,2025-02-01,2024/2025,H,H,0.101,3.43,2.43,102.14,True
+Bournemouth vs Liverpool,2025-02-01,2024/2025,H,A,0.078,4.68,-1.0,101.14,False
+Ipswich Town vs Southampton,2025-02-01,2024/2025,H,A,0.149,2.0,-1.0,100.14,False
+Brentford vs Tottenham Hotspur,2025-02-02,2024/2025,H,A,0.094,2.12,-1.0,99.14,False
+Everton vs Liverpool,2025-02-12,2024/2025,H,D,0.068,7.36,-1.0,98.14,False
+Brighton & Hove Albion vs Chelsea,2025-02-14,2024/2025,A,H,0.101,2.43,-1.0,97.14,False
+Leicester City vs Arsenal,2025-02-15,2024/2025,H,A,0.077,9.47,-1.0,96.14,False
+Crystal Palace vs Everton,2025-02-15,2024/2025,A,A,0.11,5.17,4.17,100.31,True
+Southampton vs Bournemouth,2025-02-15,2024/2025,A,A,0.088,1.52,0.52,100.83,True
+Manchester City vs Newcastle United,2025-02-15,2024/2025,A,H,0.155,3.49,-1.0,99.83,False
+Aston Villa vs Ipswich Town,2025-02-15,2024/2025,A,D,0.131,7.6,-1.0,98.83,False
+Tottenham Hotspur vs Manchester United,2025-02-16,2024/2025,H,H,0.054,2.46,1.46,100.29,True
+Leicester City vs Brentford,2025-02-21,2024/2025,A,A,0.079,1.97,0.97,101.26,True
+Ipswich Town vs Tottenham Hotspur,2025-02-22,2024/2025,H,A,0.078,3.92,-1.0,100.26,False
+Arsenal vs West Ham United,2025-02-22,2024/2025,D,A,0.058,6.42,-1.0,99.26,False
+Newcastle United vs Nottingham Forest,2025-02-23,2024/2025,A,H,0.073,4.1,-1.0,98.26,False
+Manchester City vs Liverpool,2025-02-23,2024/2025,H,A,0.111,2.95,-1.0,97.26,False
+Crystal Palace vs Aston Villa,2025-02-25,2024/2025,H,H,0.212,2.57,1.57,98.83,True
+Wolverhampton Wanderers vs Fulham,2025-02-25,2024/2025,H,A,0.06,2.74,-1.0,97.83,False
+Liverpool vs Newcastle United,2025-02-26,2024/2025,H,H,0.068,1.53,0.53,98.36,True
+Tottenham Hotspur vs Manchester City,2025-02-26,2024/2025,A,A,0.071,2.07,1.07,99.43,True
+Brentford vs Aston Villa,2025-03-08,2024/2025,H,A,0.145,2.27,-1.0,98.43,False
+Liverpool vs Southampton,2025-03-08,2024/2025,H,H,0.06,1.12,0.12,98.55,True
+Crystal Palace vs Ipswich Town,2025-03-08,2024/2025,H,H,0.062,1.5,0.5,99.05,True
+Manchester United vs Arsenal,2025-03-09,2024/2025,H,D,0.052,5.61,-1.0,98.05,False
+Chelsea vs Leicester City,2025-03-09,2024/2025,D,H,0.083,8.05,-1.0,97.05,False
+West Ham United vs Newcastle United,2025-03-10,2024/2025,H,A,0.071,3.3,-1.0,96.05,False
+Southampton vs Wolverhampton Wanderers,2025-03-15,2024/2025,A,A,0.116,2.08,1.08,97.13,True
+Fulham vs Tottenham Hotspur,2025-03-16,2024/2025,H,H,0.079,2.03,1.03,98.16,True
+Leicester City vs Manchester United,2025-03-16,2024/2025,H,A,0.061,4.21,-1.0,97.16,False
+Arsenal vs Fulham,2025-04-01,2024/2025,A,H,0.06,7.79,-1.0,96.16,False
+Nottingham Forest vs Manchester United,2025-04-01,2024/2025,H,H,0.077,2.36,1.36,97.52,True
+Liverpool vs Everton,2025-04-02,2024/2025,A,H,0.067,9.2,-1.0,96.52,False
+Southampton vs Crystal Palace,2025-04-02,2024/2025,A,D,0.17,1.63,-1.0,95.52,False
+Manchester City vs Leicester City,2025-04-02,2024/2025,D,H,0.06,8.18,-1.0,94.52,False
+Brighton & Hove Albion vs Aston Villa,2025-04-02,2024/2025,H,A,0.098,2.11,-1.0,93.52,False
+Chelsea vs Tottenham Hotspur,2025-04-03,2024/2025,A,H,0.059,4.59,-1.0,92.52,False
+West Ham United vs Bournemouth,2025-04-05,2024/2025,H,D,0.074,3.03,-1.0,91.52,False
+Everton vs Arsenal,2025-04-05,2024/2025,H,D,0.142,5.3,-1.0,90.52,False
+Crystal Palace vs Brighton & Hove Albion,2025-04-05,2024/2025,H,H,0.094,2.5,1.5,92.02,True
+Manchester United vs Manchester City,2025-04-06,2024/2025,A,D,0.096,2.15,-1.0,91.02,False
+Tottenham Hotspur vs Southampton,2025-04-06,2024/2025,H,H,0.057,1.39,0.39,91.41,True
+Brentford vs Chelsea,2025-04-06,2024/2025,H,D,0.111,3.26,-1.0,90.41,False
+Leicester City vs Newcastle United,2025-04-07,2024/2025,H,A,0.054,6.61,-1.0,89.41,False
+Manchester City vs Crystal Palace,2025-04-12,2024/2025,A,H,0.089,6.12,-1.0,88.41,False
+Nottingham Forest vs Everton,2025-04-12,2024/2025,A,A,0.121,3.72,2.72,91.13,True
+Liverpool vs West Ham United,2025-04-13,2024/2025,D,H,0.051,6.09,-1.0,90.13,False
+Chelsea vs Ipswich Town,2025-04-13,2024/2025,D,D,0.084,6.84,5.84,95.97,True
+Ipswich Town vs Arsenal,2025-04-20,2024/2025,D,A,0.053,4.95,-1.0,94.97,False
+Manchester United vs Wolverhampton Wanderers,2025-04-20,2024/2025,A,A,0.084,3.82,2.82,97.79,True
+Tottenham Hotspur vs Nottingham Forest,2025-04-21,2024/2025,H,A,0.152,2.52,-1.0,96.79,False
+Arsenal vs Crystal Palace,2025-04-23,2024/2025,A,D,0.071,8.22,-1.0,95.79,False
+Newcastle United vs Ipswich Town,2025-04-26,2024/2025,A,H,0.065,14.29,-1.0,94.79,False
+Chelsea vs Everton,2025-04-26,2024/2025,A,H,0.068,6.05,-1.0,93.79,False
+Bournemouth vs Manchester United,2025-04-27,2024/2025,A,D,0.072,4.86,-1.0,92.79,False
+Nottingham Forest vs Brentford,2025-05-01,2024/2025,A,A,0.121,3.34,2.34,95.13,True
+Everton vs Ipswich Town,2025-05-03,2024/2025,H,D,0.056,1.47,-1.0,94.13,False
+Aston Villa vs Fulham,2025-05-03,2024/2025,H,H,0.07,1.82,0.82,94.95,True
+Arsenal vs Bournemouth,2025-05-03,2024/2025,H,A,0.077,2.07,-1.0,93.95,False
+Chelsea vs Liverpool,2025-05-04,2024/2025,A,H,0.11,3.21,-1.0,92.95,False
+Brighton & Hove Albion vs Newcastle United,2025-05-04,2024/2025,H,D,0.053,2.92,-1.0,91.95,False
+Crystal Palace vs Nottingham Forest,2025-05-05,2024/2025,H,D,0.14,2.31,-1.0,90.95,False
+Fulham vs Everton,2025-05-10,2024/2025,A,A,0.06,4.45,3.45,94.4,True
+Wolverhampton Wanderers vs Brighton & Hove Albion,2025-05-10,2024/2025,H,A,0.066,2.76,-1.0,93.4,False
+Ipswich Town vs Brentford,2025-05-10,2024/2025,A,A,0.091,1.66,0.66,94.06,True
+Bournemouth vs Aston Villa,2025-05-10,2024/2025,A,A,0.051,2.78,1.78,95.84,True
+Southampton vs Manchester City,2025-05-10,2024/2025,D,D,0.066,7.65,6.65,102.49,True
+Manchester United vs West Ham United,2025-05-11,2024/2025,A,A,0.061,3.95,2.95,105.44,True
+Nottingham Forest vs Leicester City,2025-05-11,2024/2025,A,D,0.104,8.99,-1.0,104.44,False
+Chelsea vs Manchester United,2025-05-16,2024/2025,A,H,0.185,6.68,-1.0,103.44,False
+Arsenal vs Newcastle United,2025-05-18,2024/2025,A,H,0.057,3.83,-1.0,102.44,False
+West Ham United vs Nottingham Forest,2025-05-18,2024/2025,H,A,0.142,2.84,-1.0,101.44,False
+Crystal Palace vs Wolverhampton Wanderers,2025-05-20,2024/2025,H,H,0.233,2.29,1.29,102.73,True
+Southampton vs Arsenal,2025-05-25,2024/2025,D,A,0.051,5.85,-1.0,101.73,False
+Tottenham Hotspur vs Brighton & Hove Albion,2025-05-25,2024/2025,H,A,0.107,4.33,-1.0,100.73,False
+Manchester United vs Aston Villa,2025-05-25,2024/2025,H,H,0.162,4.4,3.4,104.13,True
+Newcastle United vs Everton,2025-05-25,2024/2025,D,A,0.081,5.85,-1.0,103.13,False
+Nottingham Forest vs Chelsea,2025-05-25,2024/2025,A,A,0.068,2.22,1.22,104.35,True
+Liverpool vs Crystal Palace,2025-05-25,2024/2025,A,D,0.053,6.36,-1.0,103.35,False
+Fulham vs Manchester City,2025-05-25,2024/2025,H,A,0.115,5.54,-1.0,102.35,False
+Sunderland vs Arsenal,2025-11-08,2025/2026,D,D,0.105,5.01,4.01,106.36,True
+Everton vs Fulham,2025-11-08,2025/2026,A,H,0.054,3.41,-1.0,105.36,False
+Tottenham Hotspur vs Manchester United,2025-11-08,2025/2026,A,D,0.177,2.58,-1.0,104.36,False
+Manchester City vs Liverpool,2025-11-09,2025/2026,H,H,0.103,1.88,0.88,105.24,True
+Crystal Palace vs Brighton & Hove Albion,2025-11-09,2025/2026,H,D,0.086,2.3,-1.0,104.24,False
+Brentford vs Newcastle United,2025-11-09,2025/2026,H,H,0.1,2.97,1.97,106.21,True
+Wolverhampton Wanderers vs Crystal Palace,2025-11-22,2025/2026,A,A,0.127,1.99,0.99,107.2,True
+Brighton & Hove Albion vs Brentford,2025-11-22,2025/2026,A,H,0.143,4.05,-1.0,106.2,False
+Fulham vs Sunderland,2025-11-22,2025/2026,A,H,0.082,3.95,-1.0,105.2,False
+Manchester United vs Everton,2025-11-24,2025/2026,A,A,0.052,4.68,3.68,108.88,True
+Tottenham Hotspur vs Fulham,2025-11-29,2025/2026,A,A,0.074,3.38,2.38,111.26,True
+Brentford vs Burnley,2025-11-29,2025/2026,H,H,0.17,1.47,0.47,111.73,True
+Sunderland vs Bournemouth,2025-11-29,2025/2026,H,H,0.058,3.14,2.14,113.87,True
+Chelsea vs Arsenal,2025-11-30,2025/2026,H,D,0.139,3.47,-1.0,112.87,False
+Bournemouth vs Everton,2025-12-02,2025/2026,H,A,0.086,2.28,-1.0,111.87,False
+Arsenal vs Brentford,2025-12-03,2025/2026,A,H,0.146,8.75,-1.0,110.87,False
+Brighton & Hove Albion vs Aston Villa,2025-12-03,2025/2026,H,A,0.14,2.18,-1.0,109.87,False
+Burnley vs Crystal Palace,2025-12-03,2025/2026,A,A,0.129,1.79,0.79,110.66,True
+Wolverhampton Wanderers vs Nottingham Forest,2025-12-03,2025/2026,H,A,0.057,3.27,-1.0,109.66,False
+Manchester United vs West Ham United,2025-12-04,2025/2026,H,D,0.126,1.47,-1.0,108.66,False
+Bournemouth vs Chelsea,2025-12-06,2025/2026,A,D,0.056,2.2,-1.0,107.66,False
+Manchester City vs Sunderland,2025-12-06,2025/2026,D,H,0.072,6.68,-1.0,106.66,False
+Leeds United vs Liverpool,2025-12-06,2025/2026,H,D,0.103,3.96,-1.0,105.66,False
+Tottenham Hotspur vs Brentford,2025-12-06,2025/2026,A,H,0.206,3.09,-1.0,104.66,False
+Wolverhampton Wanderers vs Manchester United,2025-12-08,2025/2026,A,A,0.088,1.83,0.83,105.49,True
+Liverpool vs Brighton & Hove Albion,2025-12-13,2025/2026,A,H,0.078,4.68,-1.0,104.49,False
+Arsenal vs Wolverhampton Wanderers,2025-12-13,2025/2026,D,H,0.054,8.77,-1.0,103.49,False
+Crystal Palace vs Manchester City,2025-12-14,2025/2026,H,A,0.089,4.05,-1.0,102.49,False
+Brentford vs Leeds United,2025-12-14,2025/2026,H,D,0.092,1.97,-1.0,101.49,False
+West Ham United vs Aston Villa,2025-12-14,2025/2026,H,A,0.067,3.76,-1.0,100.49,False
+Sunderland vs Newcastle United,2025-12-14,2025/2026,A,H,0.097,2.26,-1.0,99.49,False
+Manchester United vs Bournemouth,2025-12-15,2025/2026,H,D,0.086,1.84,-1.0,98.49,False
+Manchester City vs West Ham United,2025-12-20,2025/2026,D,H,0.064,7.87,-1.0,97.49,False
+Brighton & Hove Albion vs Sunderland,2025-12-20,2025/2026,A,D,0.115,5.5,-1.0,96.49,False
+Everton vs Arsenal,2025-12-20,2025/2026,H,A,0.08,6.18,-1.0,95.49,False
+Leeds United vs Crystal Palace,2025-12-20,2025/2026,A,H,0.053,2.81,-1.0,94.49,False
+Fulham vs Nottingham Forest,2025-12-22,2025/2026,A,H,0.063,3.01,-1.0,93.49,False
+Arsenal vs Brighton & Hove Albion,2025-12-27,2025/2026,A,H,0.065,8.08,-1.0,92.49,False
+West Ham United vs Fulham,2025-12-27,2025/2026,A,A,0.073,2.67,1.67,94.16,True
+Burnley vs Everton,2025-12-27,2025/2026,H,D,0.063,4.12,-1.0,93.16,False
+Liverpool vs Wolverhampton Wanderers,2025-12-27,2025/2026,D,H,0.078,7.02,-1.0,92.16,False
+Sunderland vs Leeds United,2025-12-28,2025/2026,A,D,0.079,2.86,-1.0,91.16,False
+Crystal Palace vs Tottenham Hotspur,2025-12-28,2025/2026,H,A,0.078,2.29,-1.0,90.16,False
+Nottingham Forest vs Everton,2025-12-30,2025/2026,H,A,0.084,2.13,-1.0,89.16,False
+Chelsea vs Bournemouth,2025-12-30,2025/2026,A,D,0.077,5.95,-1.0,88.16,False
+Arsenal vs Aston Villa,2025-12-30,2025/2026,A,H,0.058,7.51,-1.0,87.16,False
+West Ham United vs Brighton & Hove Albion,2025-12-30,2025/2026,H,D,0.067,3.6,-1.0,86.16,False
+Liverpool vs Leeds United,2026-01-01,2025/2026,A,D,0.119,5.94,-1.0,85.16,False
+Wolverhampton Wanderers vs West Ham United,2026-01-03,2025/2026,A,H,0.056,2.88,-1.0,84.16,False
+Bournemouth vs Arsenal,2026-01-03,2025/2026,H,A,0.11,6.16,-1.0,83.16,False
+Brighton & Hove Albion vs Burnley,2026-01-03,2025/2026,A,H,0.066,6.59,-1.0,82.16,False
+Leeds United vs Manchester United,2026-01-04,2025/2026,H,D,0.122,2.71,-1.0,81.16,False
+Everton vs Brentford,2026-01-04,2025/2026,A,A,0.051,3.24,2.24,83.4,True
+Manchester City vs Chelsea,2026-01-04,2025/2026,H,D,0.103,1.65,-1.0,82.4,False
+Manchester City vs Brighton & Hove Albion,2026-01-07,2025/2026,A,D,0.05,7.17,-1.0,81.4,False
+Burnley vs Manchester United,2026-01-07,2025/2026,A,D,0.058,1.69,-1.0,80.4,False
+Everton vs Wolverhampton Wanderers,2026-01-07,2025/2026,A,D,0.1,5.06,-1.0,79.4,False
+Crystal Palace vs Aston Villa,2026-01-07,2025/2026,H,D,0.173,3.14,-1.0,78.4,False
+Arsenal vs Liverpool,2026-01-08,2025/2026,A,D,0.062,5.49,-1.0,77.4,False

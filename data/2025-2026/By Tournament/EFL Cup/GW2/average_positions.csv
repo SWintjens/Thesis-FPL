@@ -1,0 +1,64 @@
+match_id,team_side,player_id,player_name,jersey_number,position,x,y
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,86,Brooks,20,M,66.1,24.7
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,,Evanilson,17,F,66.1,46.5
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,,E. J. Kroupi,17,F,67.8,37.8
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,67,Petrović,32,G,12.2,51.4
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,77,Hill,106,D,41.8,36.6
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,81,Kluivert,39,M,64.9,58.0
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,685,Diakité,60,D,36.4,63.6
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,82,Semenyo,40,M,69.8,82.7
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,85,Adams,19,M,52.9,57.9
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,391,Gannon-Doak,38,M,61.7,10.9
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,90,Scott,88,M,50.9,55.3
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,,J. Soler,79,D,53.6,86.6
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,87,Christie,66,M,54.2,39.5
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,697,Adli,63,F,57.1,62.3
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,,M. Senesi,60,D,44.7,76.8
+25-26-efl-cup-brentford-vs-afc-bournemouth,away,,J. Araujo,87,D,49.6,16.6
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,116,Hickey,24,D,48.0,15.5
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,106,Collins,14,D,34.4,60.6
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,83,O.Dango,15,M,57.1,45.7
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,,F. Carvalho,35,F,56.0,68.4
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,122,Milambo,31,M,53.0,53.1
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,113,Van den Berg,44,D,25.2,40.0
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,108,Ajer,42,D,30.7,22.2
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,111,Pinnock,43,D,30.3,71.7
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,120,Schade,40,M,54.7,49.9
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,110,Kayode,25,D,26.0,20.5
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,,I. Thiago,33,F,59.8,43.4
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,126,Jensen,61,M,46.0,65.4
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,109,Henry,65,D,40.0,85.0
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,129,Yarmoliuk,3,M,39.1,13.1
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,128,Onyeka,68,M,41.7,55.7
+25-26-efl-cup-brentford-vs-afc-bournemouth,home,105,Valdimarsson,59,G,9.3,50.9
+25-26-efl-cup-bristol-city-vs-fulham,away,331,Cairney,106,M,45.0,57.9
+25-26-efl-cup-bristol-city-vs-fulham,away,328,Sessegnon,49,D,53.5,83.2
+25-26-efl-cup-bristol-city-vs-fulham,away,,J. King,23,M,52.8,29.1
+25-26-efl-cup-bristol-city-vs-fulham,away,324,Iwobi,18,M,51.8,87.8
+25-26-efl-cup-bristol-city-vs-fulham,away,,R. Muniz,14,F,40.6,41.5
+25-26-efl-cup-bristol-city-vs-fulham,away,318,Bassey,33,D,37.1,81.7
+25-26-efl-cup-bristol-city-vs-fulham,away,,R. Jiménez,30,F,53.3,49.2
+25-26-efl-cup-bristol-city-vs-fulham,away,329,Wilson,37,M,50.1,43.5
+25-26-efl-cup-bristol-city-vs-fulham,away,320,Diop,109,D,26.0,37.4
+25-26-efl-cup-bristol-city-vs-fulham,away,,J. Cuenca,110,D,27.8,69.4
+25-26-efl-cup-bristol-city-vs-fulham,away,664,Lecomte,64,G,9.1,52.9
+25-26-efl-cup-bristol-city-vs-fulham,away,,A. Traoré,61,F,55.8,20.5
+25-26-efl-cup-bristol-city-vs-fulham,away,325,Smith Rowe,62,M,57.6,77.2
+25-26-efl-cup-bristol-city-vs-fulham,away,319,Castagne,80,D,37.4,14.2
+25-26-efl-cup-bristol-city-vs-fulham,away,336,Reed,89,M,44.0,40.5
+25-26-efl-cup-bristol-city-vs-fulham,home,,J. Stokes,4,M,59.6,83.2
+25-26-efl-cup-bristol-city-vs-fulham,home,,A. Mehmeti,40,F,66.7,60.4
+25-26-efl-cup-bristol-city-vs-fulham,home,,H. Roberts,19,D,58.1,88.6
+25-26-efl-cup-bristol-city-vs-fulham,home,,S. Bell,22,F,58.7,23.3
+25-26-efl-cup-bristol-city-vs-fulham,home,,R. McCrorie,34,M,59.3,86.9
+25-26-efl-cup-bristol-city-vs-fulham,home,,S. Armstrong,35,F,67.6,41.9
+25-26-efl-cup-bristol-city-vs-fulham,home,,A. Randell,35,M,58.7,58.1
+25-26-efl-cup-bristol-city-vs-fulham,home,,Y. Hirakawa,30,F,52.3,19.2
+25-26-efl-cup-bristol-city-vs-fulham,home,,J. Lumley,45,G,10.8,50.4
+25-26-efl-cup-bristol-city-vs-fulham,home,,M. Sykes,44,M,54.3,44.5
+25-26-efl-cup-bristol-city-vs-fulham,home,,M. Bird,52,M,53.9,53.4
+25-26-efl-cup-bristol-city-vs-fulham,home,,F. Mayulu,15,F,71.7,39.7
+25-26-efl-cup-bristol-city-vs-fulham,home,,J. Knight,87,M,50.9,49.6
+25-26-efl-cup-bristol-city-vs-fulham,home,,Z. Vyner,79,D,36.3,70.8
+25-26-efl-cup-bristol-city-vs-fulham,home,,R. Dickie,74,D,35.0,47.9
+25-26-efl-cup-bristol-city-vs-fulham,home,,G. Tanner,78,D,41.9,25.2

@@ -1,0 +1,63 @@
+match_id,team_side,player_id,player_name,jersey_number,position,x,y
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,54,McGinn,7,M,68.0,18.0
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,53,Malen,28,F,69.6,47.3
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,677,Guessand,36,F,54.4,11.6
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,47,Rogers,40,M,69.4,45.3
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,48,Tielemans,29,M,34.8,62.7
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,58,Kamara,45,M,42.4,30.7
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,,E. Konsa,117,D,39.1,33.1
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,64,Watkins,4,F,47.6,80.4
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,41,Pau,71,D,44.6,72.1
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,,E. Buendía,17,M,37.0,78.6
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,,E. Martínez,68,G,10.2,50.4
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,44,Bogarde,84,M,45.4,22.8
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,456,Sancho,45,M,68.8,77.5
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,39,Maatsen,83,D,44.7,82.2
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,59,Onana,59,M,48.8,63.5
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,away,719,Lindelöf,88,D,34.3,40.0
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,K. Andrade,9,M,54.7,47.9
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,I. Shahar,16,M,50.5,66.8
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,Heitor,41,D,32.0,53.8
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,O. Davida,21,M,42.5,13.6
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,T. Asante,53,D,35.3,17.8
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,E. Madmon,51,F,48.7,67.6
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,D. Peretz,38,M,49.3,36.0
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,I. Noy,23,M,45.3,66.0
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,S. Jehezkel,15,D,81.7,18.1
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,M. Camara,11,D,31.5,59.7
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,H. Varela,37,M,63.4,87.4
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,R. Shlomo,64,D,27.1,57.1
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,R. Revivo,66,D,38.5,84.4
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,I. Nicolaescu,4,F,60.7,76.2
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,R. Mishpati,45,G,8.4,52.6
+25-26-europa-league-maccabi-tel-aviv-vs-aston-villa,home,,I. Sissokho,69,M,37.6,46.6
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,J. Mitchell,4,D,56.3,5.9
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,S. Hierländer,9,M,26.4,66.7
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,M. Malone,25,F,53.1,36.0
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,A. Kayombo,18,F,57.8,69.5
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,D. Lavalėe,34,D,32.3,77.7
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,N. Geyrhofer,62,D,26.9,68.1
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,S. Jatta,8,F,50.6,38.7
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,O. Christensen,50,G,11.0,48.4
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,O. Kiteishvili,59,M,49.1,56.0
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,E. Aiwu,57,D,27.4,37.7
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,E. Karić,84,D,39.2,87.4
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,J. Hödl,68,M,45.3,60.0
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,F. Rózga,53,M,47.2,84.2
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,J. G. Stanković,64,M,38.5,48.7
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,T. Horvat,47,M,47.1,31.4
+25-26-europa-league-nottingham-forest-vs-sturm-graz,away,,A. Malić,62,D,37.8,17.0
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,513,Abbott,20,D,56.9,9.3
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,669,Ndoye,13,M,53.6,28.6
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,,Murillo,18,D,38.1,52.5
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,,J. Victor,30,G,14.2,47.2
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,696,Kalimuendo,31,F,65.1,51.9
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,515,Gibbs-White,62,M,65.0,51.0
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,426,McAtee,50,M,58.7,26.6
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,522,Yates,76,M,52.3,32.2
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,508,N.Williams,88,D,58.4,84.7
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,519,Dominguez,57,M,61.2,77.5
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,505,Milenković,101,D,41.6,34.1
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,716,Savona,103,D,53.8,8.5
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,521,Sangaré,108,M,46.0,60.0
+25-26-europa-league-nottingham-forest-vs-sturm-graz,home,,Morato,96,D,37.9,67.6

@@ -1,0 +1,187 @@
+match_id,team_side,player_id,player_name,jersey_number,position,x,y
+25-26-efl-cup-brentford-vs-grimsby-town,away,,D. Rose,14,F,60.8,41.6
+25-26-efl-cup-brentford-vs-grimsby-town,away,,J. D. Svanþórsson,14,M,49.3,27.9
+25-26-efl-cup-brentford-vs-grimsby-town,away,,J. Kabia,42,F,64.6,49.3
+25-26-efl-cup-brentford-vs-grimsby-town,away,,J. Walker,25,M,57.6,54.7
+25-26-efl-cup-brentford-vs-grimsby-town,away,,T. Warren,18,D,47.4,11.2
+25-26-efl-cup-brentford-vs-grimsby-town,away,,H. Rodgers,49,D,44.2,11.6
+25-26-efl-cup-brentford-vs-grimsby-town,away,,G. McEachran,49,M,40.8,46.6
+25-26-efl-cup-brentford-vs-grimsby-town,away,,D. Burns,52,M,53.3,19.5
+25-26-efl-cup-brentford-vs-grimsby-town,away,,G. D. Turi,29,M,56.5,65.2
+25-26-efl-cup-brentford-vs-grimsby-town,away,,C. Pym,42,G,12.9,49.8
+25-26-efl-cup-brentford-vs-grimsby-town,away,,K. Green,36,M,58.8,30.8
+25-26-efl-cup-brentford-vs-grimsby-town,away,,C. Vernam,40,M,63.2,78.1
+25-26-efl-cup-brentford-vs-grimsby-town,away,,C. McJannett,58,D,31.6,75.2
+25-26-efl-cup-brentford-vs-grimsby-town,away,,E. Khouri,47,M,51.7,69.5
+25-26-efl-cup-brentford-vs-grimsby-town,away,,J. Sweeney,74,D,42.4,82.3
+25-26-efl-cup-brentford-vs-grimsby-town,away,,S. Lavelle,59,D,29.9,30.0
+25-26-efl-cup-brentford-vs-grimsby-town,home,110,Kayode,15,D,51.6,9.5
+25-26-efl-cup-brentford-vs-grimsby-town,home,120,Schade,15,M,73.1,38.9
+25-26-efl-cup-brentford-vs-grimsby-town,home,125,Janelt,20,M,47.5,61.3
+25-26-efl-cup-brentford-vs-grimsby-town,home,106,Collins,26,D,39.3,31.8
+25-26-efl-cup-brentford-vs-grimsby-town,home,83,O.Dango,15,M,72.8,38.1
+25-26-efl-cup-brentford-vs-grimsby-town,home,105,Valdimarsson,64,G,12.4,49.8
+25-26-efl-cup-brentford-vs-grimsby-town,home,130,Donovan,22,F,53.9,16.6
+25-26-efl-cup-brentford-vs-grimsby-town,home,128,Onyeka,60,M,44.6,45.8
+25-26-efl-cup-brentford-vs-grimsby-town,home,,F. Carvalho,63,F,59.4,55.8
+25-26-efl-cup-brentford-vs-grimsby-town,home,114,Arthur,53,D,44.3,15.4
+25-26-efl-cup-brentford-vs-grimsby-town,home,113,Van den Berg,66,D,33.3,29.1
+25-26-efl-cup-brentford-vs-grimsby-town,home,107,Lewis-Potter,46,D,70.9,36.4
+25-26-efl-cup-brentford-vs-grimsby-town,home,27,Nelson,54,M,61.8,76.3
+25-26-efl-cup-brentford-vs-grimsby-town,home,109,Henry,79,D,47.6,85.7
+25-26-efl-cup-brentford-vs-grimsby-town,home,111,Pinnock,94,D,29.8,71.7
+25-26-efl-cup-brentford-vs-grimsby-town,home,126,Jensen,97,M,52.1,67.2
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,16,Saka,15,F,77.0,16.7
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,266,Eze,43,M,59.3,75.5
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,8,J.Timber,7,D,46.5,27.4
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,,G. Magalhaes,15,D,33.3,67.3
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,20,Trossard,15,F,45.5,76.6
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,711,Harriman-Annous,26,M,67.7,41.7
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,700,Dowman,42,M,67.2,15.9
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,10,Lewis-Skelly,63,D,46.0,81.5
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,,K. Arrizabalaga,65,G,9.6,47.3
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,,M. Merino,57,M,53.0,52.0
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,662,Mosquera,87,D,35.2,35.4
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,725,Hincapie,67,D,38.1,67.6
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,21,Rice,14,M,52.1,62.1
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,25,Nwaneri,58,M,61.2,38.7
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,,B. White,65,D,48.7,16.4
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,away,24,Nørgaard,91,M,51.8,45.5
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,172,Watson,20,M,65.8,75.9
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,178,Welbeck,15,F,69.7,48.9
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,166,Ayari,31,M,53.5,51.1
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,138,Steele,65,G,12.1,48.9
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,173,Wieffer,25,D,40.8,26.7
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,158,Georginio,33,M,63.4,27.9
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,160,Minteh,19,M,71.7,21.6
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,,D. Gómez,33,M,52.9,64.3
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,143,Boscagli,100,D,33.0,64.9
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,181,Kostoulas,33,F,58.9,59.2
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,180,Tzimas,45,F,58.4,46.3
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,144,Coppola,56,D,29.1,25
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,151,Van Hecke,102,D,35.7,51.7
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,145,De Cuyper,54,D,46.6,80.7
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,167,Baleba,58,M,43.9,50.7
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,home,148,F.Kadıoğlu,63,D,57.8,30.4
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,,R. Gomes,16,M,66.5,21.0
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,644,Bellegarde,10,M,48.2,53.4
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,654,Strand Larsen,22,F,70.8,51.7
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,648,Munetsi,24,M,64.2,46.5
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,632,Doherty,9,D,37.0,11.5
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,,J. Sá,49,G,13.4,48.7
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,,F. López,35,M,50.1,37.7
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,642,Hee Chan,38,F,61.2,58.6
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,682,Møller Wolfe,56,D,52.7,86.1
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,695,Tchatchoua,57,M,46.7,16.4
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,631,Agbadou,75,D,43.8,47.8
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,709,Krejčí,46,D,55.7,49.7
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,,Y. Mosquera,55,D,40.5,28.3
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,637,Toti,64,D,39.8,77.7
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,,J. Gomes,80,M,51.5,65.6
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,away,720,Tolu,39,F,68.8,49.5
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,,P. Neto,16,M,69.2,19.6
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,250,Delap,18,F,57.0,55.7
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,,M. Cucurella,24,D,39.7,78.7
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,237,Enzo,24,M,46.6,42.3
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,243,George,30,F,66.3,68.4
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,228,Gusto,46,D,49.4,20.9
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,232,Tosin,103,D,32.4,57.1
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,,F. Jørgensen,58,G,9.1,48.5
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,,M. Caicedo,16,M,47.8,52.9
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,,A. Santos,102,M,42.7,57.2
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,168,Buonanotte,56,M,49.5,50.4
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,244,Lavia,79,M,46.2,51.1
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,,Estêvão,41,M,66.7,28.8
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,672,Hato,89,D,41.3,73.8
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,233,Acheampong,89,D,35.5,26.1
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,home,,J. Gittens,76,M,62.6,65.9
+25-26-efl-cup-crystal-palace-vs-liverpool,away,,T. K. Doherty,7,F,55.6,88.3
+25-26-efl-cup-crystal-palace-vs-liverpool,away,385,Chiesa,41,F,61.5,63.2
+25-26-efl-cup-crystal-palace-vs-liverpool,away,,K. Gordon,16,F,63.3,18.8
+25-26-efl-cup-crystal-palace-vs-liverpool,away,760,Lucky,23,D,34.1,24.5
+25-26-efl-cup-crystal-palace-vs-liverpool,away,378,Nallo,14,D,34.9,74.3
+25-26-efl-cup-crystal-palace-vs-liverpool,away,746,Morrison,33,M,63.4,19.4
+25-26-efl-cup-crystal-palace-vs-liverpool,away,386,Mac Allister,80,M,48.8,49.9
+25-26-efl-cup-crystal-palace-vs-liverpool,away,396,Nyoni,66,M,42.7,47.4
+25-26-efl-cup-crystal-palace-vs-liverpool,away,376,Gomez,106,D,35.2,46.3
+25-26-efl-cup-crystal-palace-vs-liverpool,away,686,Ngumoha,45,F,59.8,77.4
+25-26-efl-cup-crystal-palace-vs-liverpool,away,369,Woodman,53,G,8.8,52.3
+25-26-efl-cup-crystal-palace-vs-liverpool,away,371,Kerkez,87,D,46.7,84.9
+25-26-efl-cup-crystal-palace-vs-liverpool,away,,A. Robertson,83,D,37.2,67.9
+25-26-efl-cup-crystal-palace-vs-liverpool,away,380,Ramsay,96,D,39.7,17.4
+25-26-efl-cup-crystal-palace-vs-liverpool,away,,W. Endo,95,M,40.4,31.1
+25-26-efl-cup-crystal-palace-vs-liverpool,home,254,Benitez,30,G,8.8,49.5
+25-26-efl-cup-crystal-palace-vs-liverpool,home,267,Sarr,34,F,62.9,32.4
+25-26-efl-cup-crystal-palace-vs-liverpool,home,283,Mateta,21,F,60.3,45.5
+25-26-efl-cup-crystal-palace-vs-liverpool,home,,J. Lerma,20,M,50.6,39.3
+25-26-efl-cup-crystal-palace-vs-liverpool,home,284,Nketiah,21,F,67.5,47.8
+25-26-efl-cup-crystal-palace-vs-liverpool,home,690,Cardines,11,D,37.1,13.3
+25-26-efl-cup-crystal-palace-vs-liverpool,home,276,Devenny,27,M,55.7,46.5
+25-26-efl-cup-crystal-palace-vs-liverpool,home,260,Guéhi,108,D,44.8,76.4
+25-26-efl-cup-crystal-palace-vs-liverpool,home,,Y. Pino,59,F,62.3,70.8
+25-26-efl-cup-crystal-palace-vs-liverpool,home,270,Hughes,47,M,51.4,49.3
+25-26-efl-cup-crystal-palace-vs-liverpool,home,257,Lacroix,67,D,38.2,48.5
+25-26-efl-cup-crystal-palace-vs-liverpool,home,732,Uche,5,F,61.5,35.3
+25-26-efl-cup-crystal-palace-vs-liverpool,home,723,Canvot,66,D,37.2,25.9
+25-26-efl-cup-crystal-palace-vs-liverpool,home,259,Sosa,69,M,56.5,87.0
+25-26-efl-cup-crystal-palace-vs-liverpool,home,271,Kamada,72,M,51.2,69.3
+25-26-efl-cup-crystal-palace-vs-liverpool,home,,D. Muñoz,59,M,50.3,21.5
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,D. McNeilly,14,F,56.1,31.9
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,C. Woodrow,22,F,57.4,50.2
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,C. Taylor,40,D,29.3,33.9
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,A. Hagelskjær,38,D,34.7,47.8
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,J. Mullins,29,M,55.7,39.5
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,D. Harvie,9,D,29.3,74.1
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,T. Allen,28,D,31.1,78.5
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,C. Boyd-Munce,11,M,27.3,69.7
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,F. Onyedinma,69,M,60.1,19.3
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,S. Bell,45,F,45.9,73.1
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,W. Norris,56,G,9.2,47.1
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,J. Grimmer,67,D,38.3,21.0
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,L. Leahy,47,M,41.6,42.7
+25-26-efl-cup-fulham-vs-wycombe-wanderers,away,,E. Henderson,52,M,46.8,53.1
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,664,Lecomte,32,G,13.0,51.7
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,737,Kusi-Asare,6,F,69.7,73.3
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,,R. Jiménez,36,F,58.4,57.2
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,,J. Cuenca,72,D,35.4,58.8
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,332,Lukić,31,M,56.6,46.1
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,324,Iwobi,37,M,61.8,71.5
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,,A. Traoré,52,F,75.8,17.8
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,320,Diop,111,D,46.7,30.6
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,319,Castagne,63,D,55.5,20.1
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,,J. King,59,M,63.3,60.6
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,328,Sessegnon,59,D,51.2,81.9
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,331,Cairney,74,M,55.6,33.6
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,318,Bassey,138,D,43.6,72.6
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,,Kevin,82,M,66.7,83.4
+25-26-efl-cup-fulham-vs-wycombe-wanderers,home,336,Reed,90,M,51.2,56.0
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,J. Fulton,10,M,34.4,55.5
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,L. Cullen,4,F,33.7,83.9
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,I. Samuels-Smith,43,D,31.8,71.5
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,E. Galbraith,72,M,42.4,51.2
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,C. Burgess,39,D,24.3,60.8
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,Ž. Vipotnik,9,F,60.9,41.5
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,G. Franco,51,M,44.3,42.1
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,B. Manuel,11,M,65.8,14.1
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,J. Tymon,61,D,41.3,79.9
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,Ronald,13,M,36.4,68.8
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,A. Idah,23,F,53.7,50.4
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,A. Fisher,41,G,7.4,47.8
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,Z. Inoussa,33,F,49.5,78.1
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,M. Widell,44,M,48.5,25.6
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,J. Key,46,D,37.7,13.5
+25-26-efl-cup-manchester-city-vs-swansea-city,away,,K. Casey,59,D,25.9,36.8
+25-26-efl-cup-manchester-city-vs-swansea-city,home,739,Mukasa,49,M,61.7,66.9
+25-26-efl-cup-manchester-city-vs-swansea-city,home,414,Foden,32,M,62.5,75.5
+25-26-efl-cup-manchester-city-vs-swansea-city,home,403,Gvardiol,44,D,56.7,80.0
+25-26-efl-cup-manchester-city-vs-swansea-city,home,417,Cherki,124,M,68.8,43.4
+25-26-efl-cup-manchester-city-vs-swansea-city,home,405,Aké,120,D,42.9,61.4
+25-26-efl-cup-manchester-city-vs-swansea-city,home,413,Marmoush,52,F,65.8,48.7
+25-26-efl-cup-manchester-city-vs-swansea-city,home,402,Aït-Nouri,99,D,53.1,84.1
+25-26-efl-cup-manchester-city-vs-swansea-city,home,410,Lewis,82,D,52.7,25.8
+25-26-efl-cup-manchester-city-vs-swansea-city,home,409,Stones,52,D,44.3,34.4
+25-26-efl-cup-manchester-city-vs-swansea-city,home,406,Khusanov,93,D,42.1,28.4
+25-26-efl-cup-manchester-city-vs-swansea-city,home,424,Bobb,70,M,70.4,15.5
+25-26-efl-cup-manchester-city-vs-swansea-city,home,182,Trafford,35,G,13.5,46.9
+25-26-efl-cup-manchester-city-vs-swansea-city,home,,N. González,158,M,52.8,53.2
+25-26-efl-cup-manchester-city-vs-swansea-city,home,418,Doku,80,M,71.7,85.3

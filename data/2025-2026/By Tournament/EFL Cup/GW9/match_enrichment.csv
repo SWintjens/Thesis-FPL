@@ -1,0 +1,7 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status
+25-26-efl-cup-brentford-vs-grimsby-town,,,,,,False,False,confirmed
+25-26-efl-cup-brighton-hove-albion-vs-arsenal,,,,,,False,False,confirmed
+25-26-efl-cup-chelsea-vs-wolverhampton-wanderers,,,,,,False,False,confirmed
+25-26-efl-cup-crystal-palace-vs-liverpool,,,,,,False,False,confirmed
+25-26-efl-cup-fulham-vs-wycombe-wanderers,,,,,,False,False,confirmed
+25-26-efl-cup-manchester-city-vs-swansea-city,,,,,,False,False,confirmed

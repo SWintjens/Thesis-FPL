@@ -1,0 +1,45 @@
+match_id,team_side,team_code,player_id,player_name,position,jersey_number,is_starting,formation,lineup_status
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,M. Sels,G,26,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,N. Milenković,D,31,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,F. Morato,D,4,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,506,Murillo,D,5,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,D. Ndoye,M,14,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,E. Anderson,M,8,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,I. Sangaré,M,6,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,508,N. Williams,M,3,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,M. Gibbs-White,F,10,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,I. Jesus,F,19,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,C. Hudson-Odoi,F,7,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,N. Savona,D,37,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,C. Wood,F,11,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,715,John,G,13,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,A. Kalimuendo,F,15,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,N. Domínguez,M,16,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,J. McAtee,M,24,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,R. Yates,M,22,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,D. Bakwa,F,29,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,W. Boly,D,30,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,away,17,,Z. Abbott,D,44,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,E. Ólafsson,G,16,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,O. Diao,D,4,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,M. Erlić,D,6,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,M. B. Sørensen,D,22,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,K. Mbabu,M,43,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,D. Castillo,M,21,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,P. Billing,M,8,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,V. B. Jensen,M,55,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,J. Brumado,F,74,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,G. Cho,F,10,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,A. Şimşir,F,58,True,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,D. Osorio,M,11,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,H. Lee,D,3,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,P. Bravo,M,19,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,V. Byskov,M,20,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,F. Djú,F,7,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,J. Lossl,G,1,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,A. Gabriel,D,13,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,E. Chilufya,F,14,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,Paulinho,D,29,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,M. Gogorza,F,41,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,D. Silva,M,80,False,3-4-3,confirmed
+25-26-europa-league-fc-midtjylland-vs-nottingham-forest,home,,,F. Etim,F,90,False,3-4-3,confirmed

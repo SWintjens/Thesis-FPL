@@ -1,0 +1,6 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status
+25-26-efl-cup-arsenal-vs-port-vale,,,,,,False,False,confirmed
+25-26-efl-cup-cambridge-united-vs-fulham,,,,,,False,False,confirmed
+25-26-efl-cup-chelsea-vs-lincoln-city,,,,,,False,False,confirmed
+25-26-efl-cup-manchester-city-vs-huddersfield-town,,,,,,False,False,confirmed
+25-26-efl-cup-nottingham-forest-vs-swansea-city,,,,,,False,False,confirmed

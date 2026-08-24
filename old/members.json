@@ -1,0 +1,38 @@
+{
+    "Swin": {
+        "email": "swin@email.com",
+        "starting_bankroll": 100.0,
+        "current_bankroll": 100.0,
+        "active": true,
+        "created_at": "2026-04-02 17:02:54",
+        "sheet_id": null,
+        "sheet_url": null
+    },
+    "Jan": {
+        "email": "jan@email.com",
+        "starting_bankroll": 150.0,
+        "current_bankroll": 150.0,
+        "active": true,
+        "created_at": "2026-04-02 17:02:54",
+        "sheet_id": null,
+        "sheet_url": null
+    },
+    "Patrick": {
+        "email": "patrick@email.com",
+        "starting_bankroll": 1000.0,
+        "current_bankroll": 1000.0,
+        "active": true,
+        "created_at": "2026-04-02 17:05:48",
+        "sheet_id": null,
+        "sheet_url": null
+    },
+    "Sem": {
+        "email": "sem.wintjens@home.nl",
+        "starting_bankroll": 100.0,
+        "current_bankroll": 100.0,
+        "active": true,
+        "created_at": "2026-04-02 17:47:14",
+        "sheet_id": null,
+        "sheet_url": null
+    }
+}

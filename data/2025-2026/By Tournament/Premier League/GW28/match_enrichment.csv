@@ -1,0 +1,11 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status,home_shot_model_xg,away_shot_model_xg,incident_timing_coverage,unlocated_card_count,quarantined_incident_count
+25-26-prem-arsenal-vs-chelsea,,,,,,False,False,confirmed,1.0885,1.0713,limited,0,0
+25-26-prem-newcastle-united-vs-everton,,,,,,False,False,confirmed,1.0458,1.7403,limited,0,0
+25-26-prem-wolverhampton-wanderers-vs-aston-villa,,,,,,False,False,confirmed,0.8611,1.0258,limited,0,0
+25-26-prem-afc-bournemouth-vs-sunderland,,,,,,False,False,confirmed,1.7202,1.5077,limited,0,0
+25-26-prem-burnley-vs-brentford,,,,,,False,False,confirmed,1.1094,2.3573,limited,1,0
+25-26-prem-leeds-united-vs-manchester-city,,,,,,False,False,confirmed,1.6902,2.0381,limited,0,0
+25-26-prem-manchester-united-vs-crystal-palace,,,,,,False,False,confirmed,2.1614,0.509,limited,0,0
+25-26-prem-brighton-hove-albion-vs-nottingham-forest,,,,,,False,False,confirmed,1.2603,0.7926,limited,0,0
+25-26-prem-fulham-vs-tottenham-hotspur,,,,,,False,False,confirmed,2.2804,0.8799,limited,0,0
+25-26-prem-liverpool-vs-west-ham-united,,,,,,False,False,confirmed,1.8351,1.7461,limited,0,0

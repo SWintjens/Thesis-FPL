@@ -1,0 +1,4 @@
+match_id,travel_distance_km,weather_description,temperature_c,wind_speed,pitch_condition,is_local_derby,is_neutral_ground,lineup_status
+25-26-efl-cup-brentford-vs-manchester-city,,,,,,False,False,confirmed
+25-26-efl-cup-chelsea-vs-cardiff-city,,,,,,False,False,confirmed
+25-26-efl-cup-fulham-vs-newcastle-united,,,,,,False,False,confirmed

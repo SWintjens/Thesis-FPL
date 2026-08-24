@@ -1,0 +1,89 @@
+match_id,team_side,team_code,player_id,player_name,position,jersey_number,is_starting,formation,lineup_status
+25-26-europa-league-aston-villa-vs-basel,away,,,M. Hitz,G,1,True,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,K. Tsunemoto,D,6,True,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,J. A. Adjetey,D,32,True,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,F. Daniliuc,D,24,True,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,D. Schmid,D,31,True,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,Metinho,M,5,True,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,B. Traore,M,11,True,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,L. Leroy,M,22,True,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,A. Bačanin,M,14,True,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,P. Otele,M,7,True,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,X. Shaqiri,F,10,True,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,A. Ajeti,F,23,False,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,K. Koindredi,M,8,False,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,I. Salah,F,21,False,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,M. Šotiček,M,19,False,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,M. Broschinski,F,17,False,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,K. Rüegg,D,27,False,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,M. Cissé,D,29,False,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,M. Salvi,G,13,False,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,N. Vouilloz,D,3,False,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,A. J. Zé,M,39,False,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,A. L. Barišić,D,26,False,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,away,,,T. Pfeiffer,G,47,False,4-1-4-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,33,M. Bizot,G,40,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,M. Cash,D,2,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,E. Konsa,D,4,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,V. Lindelöf,D,3,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,L. Digne,D,12,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,L. Bogarde,M,26,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,A. Onana,M,24,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,E. Guessand,M,29,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,E. Buendía,M,10,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,J. Sancho,M,19,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,D. Malen,F,17,True,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,Y. Tielemans,M,8,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,O. Watkins,F,11,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,M. Rogers,F,27,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,B. Kamara,M,44,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,J. McGinn,M,7,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,I. Maatsen,D,22,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,J. Wright,G,64,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,G. Hemmings,M,53,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,42,A. García,D,16,False,4-2-3-1,confirmed
+25-26-europa-league-aston-villa-vs-basel,home,7,,R. Oakley,G,95,False,4-2-3-1,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,V. Barkas,G,1,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,S. Horemans,D,2,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,M. Didden,D,40,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,M. Eerdhuijzen,D,44,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,S. El Karouani,D,16,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,D. de Wit,M,20,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,A. Engwanda,M,27,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,G. Zechiël,M,21,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,M. Rodríguez,F,22,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,S. Haller,F,91,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,Y. Cathline,F,10,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,M. v. d. Hoorn,D,3,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,N. Viergever,D,24,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,A. Blake,F,15,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,M. Jonathans,F,26,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,J. v. Ommeren,M,46,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,K. Finnsson,D,5,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,J. Eversen,G,53,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,M. Brouwer,G,25,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,R. E. Arguioui,M,43,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,C. Bozdoğan,M,8,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,away,,,Z. Iqbal,M,14,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,715,John,G,13,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,Z. Abbott,D,44,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,F. Morato,D,4,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,506,Murillo,D,5,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,O. Zinchenko,D,35,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,J. McAtee,M,24,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,D. Luiz,M,12,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,N. Domínguez,M,16,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,D. Ndoye,F,14,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,A. Kalimuendo,F,15,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,C. Hudson-Odoi,F,7,True,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,I. Sangaré,M,6,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,E. Anderson,M,8,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,N. Milenković,D,31,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,M. Gibbs-White,M,10,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,I. Jesus,F,19,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,A. Bott,G,63,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,K. Willows,G,67,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,W. Boly,D,30,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,D. Bakwa,F,29,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,508,N. Williams,D,3,False,4-3-3,confirmed
+25-26-europa-league-nottingham-forest-vs-fc-utrecht,home,17,,N. Savona,D,37,False,4-3-3,confirmed
